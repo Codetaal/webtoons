@@ -1,0 +1,16 @@
+{
+  "title": "예고편",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=76759&no=1&week=fri&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/76759/1/inst_thumbnail_20090731162046.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/76759/1/1b6e8d46fcdff628a298c135d3030d90_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/76759/1/1b6e8d46fcdff628a298c135d3030d90_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/76759/1/1b6e8d46fcdff628a298c135d3030d90_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/76759/1/1b6e8d46fcdff628a298c135d3030d90_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

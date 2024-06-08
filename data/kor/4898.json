@@ -1,0 +1,595 @@
+{
+  "id": 4898,
+  "title": "크림슨 하트",
+  "synopsis": "'푸른 반딧불이'로 인해 폭주하는 마법의 땅 언노운, 그런 마법으로부터 완전히 차단된 통제도시 레퓨지아레퓨지아에서 완벽한 시스템을 통해 관리되며 살아가던 소녀들은어느날 도서관에서 의문의 낡은 책과 붉은 목걸이를 발견한다.자신들의 손에 쥐어진 것이 무엇인지도 모른 채소녀들은 푸른 반딧불이를 보고 호기심에 이끌려 아무도 넘지 않았던 장벽을 넘어 도시 밖으로 나간다소녀들의 손에 쥐어진 전설의 크림슨 하트,'푸른 반딧불이 섬의 저주를 풀라'는 의문의 메시지.미지의 땅 언노운을 모험할수록 밝혀지는 레퓨지아의 비밀과 푸른 반딧불이의 진실...소녀들의 운명은? 크림슨 하트 with 르세라핌",
+  "author": "네이버 웹툰",
+  "rating": "9.66",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/802733/thumbnail/thumbnail_IMAG19_bafb07d4-13bb-4bed-9e01-0b0d41688127.jpg"
+  },
+  "episodes": [
+    {
+      "title": "0화 - 네크로의 꿈",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802733&no=1&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/1/thumbnail_202x120_1b451523-d8eb-432a-a557-41bc57b21705.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "1화 - 크림슨 하트",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802733&no=2&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/2/thumbnail_202x120_cc78f909-6e44-450e-b0bd-3f4e831fa408.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "2화 - 푸른 반딧불이",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802733&no=3&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/3/thumbnail_202x120_1c7a0132-9282-4a73-bd96-0b6a8f10c800.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "3화 - 레퓨지아 밖으로",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802733&no=4&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/4/thumbnail_202x120_31cbe77f-1ccb-41c9-8e4f-2ef5ee5b8cf1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "4화 - 낮선 모험",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802733&no=5&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/5/thumbnail_202x120_159f9b15-95b5-44c7-9f3c-d2fbe064b03a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "5화 - 안개의 몬스터",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802733&no=6&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/6/thumbnail_202x120_6a87f0db-6412-4647-8300-a35e9eaa3ee2.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "6화 - 고양이 소녀 루이샤",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802733&no=7&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/7/thumbnail_202x120_66bb6d69-93ca-41e7-9ffb-546869930176.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "7화 - 밥도 좀 있나요",
+      "episodeNo": 8,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/8/thumbnail_202x120_3718b111-958f-4455-8c42-b610499b0359.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "8화 - 내 이름은 조조바",
+      "episodeNo": 9,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/9/thumbnail_202x120_bf7dae40-d553-44bd-941e-aea17af8fe13.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "9화 - 불도마뱀의 안내",
+      "episodeNo": 10,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/10/thumbnail_202x120_7f2b9060-3228-416a-bcf2-f12342e043c9.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "10화 - 지혜롭고 건강하고 밝은",
+      "episodeNo": 11,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/11/thumbnail_202x120_f6166947-210e-4894-bf66-5ff7380af803.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "11화 - 힐러족",
+      "episodeNo": 12,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/12/thumbnail_202x120_d71b48ec-23c2-4c4d-83a9-24375a75311b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "12화 - 여섯명의 소녀들",
+      "episodeNo": 13,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/13/thumbnail_202x120_6cc56d89-160e-4ee9-993b-7c1dd4401f50.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "13화 - 깨어나는 능력",
+      "episodeNo": 14,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/14/thumbnail_202x120_aeca22dc-0918-4f9e-b706-a439faebc831.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "14화 - iPS 피코",
+      "episodeNo": 15,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/15/thumbnail_202x120_a353925a-608f-49c7-996b-8a61c2db1380.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "15화 - 공중 정원",
+      "episodeNo": 16,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/16/thumbnail_202x120_249880dc-1219-48c0-8df3-9fd3de2749dd.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "16화 - 란족과의 전투",
+      "episodeNo": 17,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/17/thumbnail_202x120_b3706de6-516e-4c91-a095-3dd7a8a7eddc.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "17화 - 크림슨 하트의 힘",
+      "episodeNo": 18,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/18/thumbnail_202x120_74bed741-83e7-4a64-b481-7d233e35c21b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "18화 - 란족의 최후",
+      "episodeNo": 19,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/19/thumbnail_202x120_9a9da1d7-6e1e-4fbd-9cf1-9e36b784571b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "19화 - 얼어붙은 계곡",
+      "episodeNo": 20,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/20/thumbnail_202x120_5c726c9e-af30-4f8e-af98-4b3f40b9225f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "20화 - 불꽃의 소녀 코니",
+      "episodeNo": 21,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/21/thumbnail_202x120_422172d4-345c-4691-bbcc-b3923fc29410.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "21화 - 각자의 이야기",
+      "episodeNo": 22,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/22/thumbnail_202x120_bfd7e834-2572-4cb4-97aa-b4a6159e1064.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "22화 - 전기, 무리카족!",
+      "episodeNo": 23,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/23/thumbnail_202x120_5a490412-e748-42ae-8b7c-9c42dd356aeb.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "23화 - 최강의 술사",
+      "episodeNo": 24,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/24/thumbnail_202x120_310b945a-801a-4bc5-ada5-8f78dbfa0cb3.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "24화 - 미지의 세계",
+      "episodeNo": 25,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/25/thumbnail_202x120_a9073710-4dd6-459a-869f-7a26f53b5b37.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "25화 - 마지막 소녀",
+      "episodeNo": 26,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/26/thumbnail_202x120_989c1bd2-75ba-4134-84dd-b27589cd044c.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "26화 - 들켜버린 비밀",
+      "episodeNo": 27,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/27/thumbnail_202x120_0b63f321-aa9a-4ccc-aad7-2e7ba2e2b482.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "27화 - 폴로니와 레퓨지아",
+      "episodeNo": 28,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/28/thumbnail_202x120_6b455c71-0502-4c36-b304-2fe4d497dfb8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "28화 - 달밤에 단둘이 비밀얘기",
+      "episodeNo": 29,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/29/thumbnail_202x120_3a739cc7-26e8-4c18-b25e-0325b7ca165d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "29화 - 친구",
+      "episodeNo": 30,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/30/thumbnail_202x120_b2cf2983-7a93-4730-9796-89865681e2e8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "30화 - 킴, 보턴, 아크, 그리고 네크로",
+      "episodeNo": 31,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/31/thumbnail_202x120_c6c18755-fd72-4769-beb8-3f2a8c1ef355.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "31화 - 루이샤의 비밀",
+      "episodeNo": 32,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/32/thumbnail_202x120_a02f1302-a2eb-4181-a5a0-d48d5f66c513.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "32화 - 루이샤의 고향",
+      "episodeNo": 33,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/33/thumbnail_202x120_186a9c7b-3da3-4477-b743-35835b21fd8a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "33화 - 혼돈의 마을",
+      "episodeNo": 34,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/34/thumbnail_202x120_fdc3758f-57b6-476e-baa4-cfaa34140563.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "34화 - 활약",
+      "episodeNo": 35,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/35/thumbnail_202x120_fbe98920-230e-45f0-82fa-e5c7099f34dd.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "35화 - 목걸이의 힘",
+      "episodeNo": 36,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/36/thumbnail_202x120_96452c26-1f24-40f0-87e6-37beed9dba73.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "36화 - 루이샤의 비밀(2)",
+      "episodeNo": 37,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/37/thumbnail_202x120_7138bd9b-7941-4095-90d6-cd14bf66e3b7.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "37화 - 푸른반딧불이를 없애자!",
+      "episodeNo": 38,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/38/thumbnail_202x120_462df0c7-9ae1-4210-b625-f74ae7ec439f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "38화 - 레퓨지아의 진실",
+      "episodeNo": 39,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/39/thumbnail_202x120_d769c311-071e-48a5-aa36-fffb233b1077.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "39화 - 킴과 Q",
+      "episodeNo": 40,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/40/thumbnail_202x120_de5d645b-8efa-4071-b80c-1abe007d1c96.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "40화 - 밝혀지는 비밀",
+      "episodeNo": 41,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/41/thumbnail_202x120_3acc7590-bb21-49dc-8548-404bc419e617.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "41화 - 밝혀지는 비밀(2)",
+      "episodeNo": 42,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/42/thumbnail_202x120_b71cfc59-5da7-4850-80d5-1b51298a1a47.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "42화 - 약속",
+      "episodeNo": 43,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/43/thumbnail_202x120_86fed900-005e-45c5-968d-5fe099e3716a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "43화 - 빛",
+      "episodeNo": 44,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/44/thumbnail_202x120_af82c09e-1a35-4932-9c1e-98465db92262.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "44화 - 소녀들과 네크로",
+      "episodeNo": 45,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/45/thumbnail_202x120_c3f5eb60-5d24-4d43-bf5b-7f8d66499016.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "45화 - 해답",
+      "episodeNo": 46,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/46/thumbnail_202x120_1a23a5eb-5804-48af-b342-930fe4570274.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "46화 - 마지막 전투",
+      "episodeNo": 47,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/47/thumbnail_202x120_3d5d9091-bbbe-4868-b22a-c6bd6b060047.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "47화 - 소녀들의 활약",
+      "episodeNo": 48,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/48/thumbnail_202x120_685010bd-7a7f-403f-aeb4-c1f3f7a7b6ce.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "48화 - 진실",
+      "episodeNo": 49,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/49/thumbnail_202x120_0b9a6084-cdb3-4686-90df-62bc6b3d6722.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "49화 - 앞이 보이지 않는 싸움",
+      "episodeNo": 50,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/50/thumbnail_202x120_186d7e0c-52dd-4884-9b03-92398cc4668f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "50화 - 크림슨 하트",
+      "episodeNo": 51,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/51/thumbnail_202x120_01486a45-1622-44fc-be6d-d07d0d3d4c17.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "51화 - 하얀 빛",
+      "episodeNo": 52,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/52/thumbnail_202x120_09e95110-25a3-4bf2-b0ec-2b733ba053c0.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "마지막화 - 새로운 세계로!",
+      "episodeNo": 53,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802733/53/thumbnail_202x120_4077a128-d814-4135-8520-040f4eab6f70.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

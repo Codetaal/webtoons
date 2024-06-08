@@ -1,0 +1,24 @@
+{
+  "title": "예고편",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=179704&no=1&week=fri&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/179704/1/inst_thumbnail_20100628170934.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_006.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_007.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_008.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_009.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_010.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_011.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/179704/1/3203e47dbb945c454075ce3af7f24703_012.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

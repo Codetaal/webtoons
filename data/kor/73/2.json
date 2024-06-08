@@ -1,0 +1,23 @@
+{
+  "title": "1화",
+  "episodeNo": 2,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=557673&no=2&week=fri&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/557673/2/inst_thumbnail_20130516184334.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_006.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_007.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_008.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_009.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_010.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/557673/2/b085a46aec0f6efaf31e7908854c88e9_011.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

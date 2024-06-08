@@ -1,0 +1,958 @@
+{
+  "id": 5264,
+  "title": "사표내고 이계에서 힐링합니다",
+  "synopsis": "평범하지만 행복한 삶을 살던 주인공 이수.5년 전 갑작스레 부모님을 잃고 폐인이 되어 하루하루를 힘겹게 살아간다.숨 막히는 일상에 메말라가던 그때, 다용도실에서 차원문이 열렸다. 가본 적 없는 곳, 무엇이 있을지 모르는 곳.평민으로 시작해 영주까지, 이세계에서 잔잔하게 즐기는 힐링 라이프.",
+  "author": "네이버 웹툰",
+  "rating": "9.95",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/800726/thumbnail/thumbnail_IMAG19_cfca49eb-1d6e-40b8-9045-3bfb24c24c70.jpg"
+  },
+  "episodes": [
+    {
+      "title": "00화 : 사표내고 이계에서 힐링합니다",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=1&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/1/thumbnail_202x120_5057260e-edea-4adb-8661-3376d2d709c4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "01화 : 차원문의 주인",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=2&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/2/thumbnail_202x120_08a809c0-25f8-493f-b07f-12bfc7150a63.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "02화 : 호밀빵과 옥수수 수프",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=3&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/3/thumbnail_202x120_8c8918c5-ca30-4f54-ac7a-d616c3326c03.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "03화 : 이계에서 군대 갑니다",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=4&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/4/thumbnail_202x120_0162ef5b-b78f-4a89-aaab-00bf6138e81f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "04화 : 이세계 맥주맛",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=5&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/5/thumbnail_202x120_f93b8b1b-0239-4b09-b494-5594a27a2125.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "05화 : 삼삼한 게 좋아",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=6&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/6/thumbnail_202x120_b3ce946f-1581-41fe-a579-290f2631b760.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "06화 : 아이스크림 먹을래",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=7&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/7/thumbnail_202x120_c482f15f-0fdb-4c1b-944d-01423ce8fbf1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "07화 : 퇴사합니다",
+      "episodeNo": 8,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=8&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/8/thumbnail_202x120_cbf1032c-dab7-44de-b30e-7e1b3863f661.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "08화 : 수제 맥주를 만들자",
+      "episodeNo": 9,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=9&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/9/thumbnail_202x120_3ffd09c0-d118-4130-9aec-54b521f1d5be.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "09화 : 닭볶음탕",
+      "episodeNo": 10,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=10&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/10/thumbnail_202x120_f4b3f748-436a-4699-8b6b-9b649e25d13c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "10화 : 제이스로제 메디츠",
+      "episodeNo": 11,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=11&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/11/thumbnail_202x120_f96b2986-4ccc-4f61-a3b0-ea070151be2e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "11화 : 메기 사랑해",
+      "episodeNo": 12,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=12&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/12/thumbnail_202x120_c0d8e47f-3a62-44a6-a8c7-e49ac147fe59.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "12화 : 난 후추가 싫어",
+      "episodeNo": 13,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=13&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/13/thumbnail_202x120_b14fef2f-b7b5-4900-a49c-9674991655c5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "13화 : 야시장에 가면",
+      "episodeNo": 14,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=14&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/14/thumbnail_202x120_2c5ba39b-357b-4ec5-ae96-0f1cd6e268ad.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "14화 : 고등어구이",
+      "episodeNo": 15,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=15&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/15/thumbnail_202x120_59e04b7c-7ecf-4390-8a08-7eec91038027.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "15화 : 갓험프리 부인",
+      "episodeNo": 16,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=16&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/16/thumbnail_202x120_a79a568e-7b33-4728-9e84-d2ca4ace7140.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "16화 : 감자를 심자",
+      "episodeNo": 17,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=17&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/17/thumbnail_202x120_a1ff2d42-58fc-4123-b6bf-d729154e0380.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "17화 : 하이엔 실버우드",
+      "episodeNo": 18,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=18&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/18/thumbnail_202x120_a514f1af-1205-4da6-98ae-c7f3b3babddf.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "18화 : 빵 좋아해?",
+      "episodeNo": 19,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=19&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/19/thumbnail_202x120_66678138-b5fb-4422-bc98-9bffbc62a14a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "19화 : 파운드 케이크",
+      "episodeNo": 20,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=20&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/20/thumbnail_202x120_c5162652-ac2d-45f7-b63f-c7e1996539c2.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "20화 : 질문 하나에 빵 하나",
+      "episodeNo": 21,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=21&week=tue&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/21/thumbnail_202x120_e175d98e-12f2-43af-b1b1-54500c35c532.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "21화 : 감자전",
+      "episodeNo": 22,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=22&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/22/thumbnail_202x120_2e68a551-547f-4fd5-b8a1-7d327cd9b303.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "22화 : 범인",
+      "episodeNo": 23,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=23&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/23/thumbnail_202x120_31b79a85-8a3a-43df-bdc6-ad291aa295de.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "23화 : 거짓말 탐지기",
+      "episodeNo": 24,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=24&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/24/thumbnail_202x120_5e60e37c-44ea-48e7-9fc4-a331cb3b71d8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "24화 : 귀족 체험",
+      "episodeNo": 25,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=25&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/25/thumbnail_202x120_bb661bee-4a48-4e43-8e41-2e958d6b260f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "25화 : 족발의 마법사",
+      "episodeNo": 26,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=26&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/26/thumbnail_202x120_40eefd18-d9f8-44c1-b3a7-6719f0ee0e8a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "26화 : 콰소루나",
+      "episodeNo": 27,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=27&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/27/thumbnail_202x120_4d9c66a4-823e-4ba0-9059-a7c4884387ac.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "27화 : 영주가 되는 첫걸음",
+      "episodeNo": 28,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=28&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/28/thumbnail_202x120_e384b109-c3a9-4759-89f4-5a42524f991b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "28화 : 이수 블룸",
+      "episodeNo": 29,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=29&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/29/thumbnail_202x120_6c45de33-8dfd-40e0-95c6-17d5a413144f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "29화 : 바닷가에서",
+      "episodeNo": 30,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=30&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/30/thumbnail_202x120_547e2feb-1dd9-4ff0-b961-835811226997.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "30화 : 안녕, 마사",
+      "episodeNo": 31,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=31&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/31/thumbnail_202x120_2b59b768-567e-4f33-b72e-c5a34cf5ed72.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "31화 : 이별의 라면땅",
+      "episodeNo": 32,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=32&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/32/thumbnail_202x120_6cbe7a41-1c17-4242-9f2f-b837cf5a440f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "32화 : 달걀빵",
+      "episodeNo": 33,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=33&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/33/thumbnail_202x120_f9988527-452c-4958-b7f2-257036e87ef6.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "33화 : 크렘 브륄레",
+      "episodeNo": 34,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=34&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/34/thumbnail_202x120_0e71cf3b-23ef-4880-bd8d-a4aa2f9462b8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "34화 : 머랭쿠키",
+      "episodeNo": 35,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=35&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/35/thumbnail_202x120_bfb4c901-0095-43f3-9ea7-0f87f04e5622.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "35화 : 레몬즙과 흉작",
+      "episodeNo": 36,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=36&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/36/thumbnail_202x120_20e3e789-dd02-478a-820c-6fe3446aad1e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "36화 : 국제시장 준비",
+      "episodeNo": 37,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=37&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/37/thumbnail_202x120_ba8e56f9-875b-4d51-b2b7-672e45c487a9.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "37화 : 고춧가루와 김치",
+      "episodeNo": 38,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=38&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/38/thumbnail_202x120_016de108-c951-4e63-8aea-76f2c6447949.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "38화 : 젤라또",
+      "episodeNo": 39,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=39&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/39/thumbnail_202x120_49f20b60-ace0-4259-b26c-158616c9a44b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "39화 : 나만의 레시피",
+      "episodeNo": 40,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=40&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/40/thumbnail_202x120_6f519f6f-b0e3-4a10-ab7d-bb19774e793b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "40화 : 크레주 메디츠",
+      "episodeNo": 41,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=41&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/41/thumbnail_202x120_783f3c44-44d8-4f78-a56b-14eafff4bfd5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "41화 : 김치찌개",
+      "episodeNo": 42,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=42&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/42/thumbnail_202x120_737e0aac-107b-4197-bf96-14b86d4e7bb8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "42화 : 국제시장 첫 번째 날",
+      "episodeNo": 43,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=43&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/43/thumbnail_202x120_c17a1c78-e122-4ca7-b1f4-4291b139ea0d.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "43화 : 국제시장 두 번째 날",
+      "episodeNo": 44,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=44&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/44/thumbnail_202x120_b8128b26-d1c3-46d7-869a-71cc39c3c5e1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "44화 : 국제시장 두 번째 날 (2)",
+      "episodeNo": 45,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=45&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/45/thumbnail_202x120_f86ccce0-bced-4e42-9817-19130f49dd7e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "45화 : 국제시장 세 번째 날",
+      "episodeNo": 46,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=46&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/46/thumbnail_202x120_b3243136-7f63-4308-ba59-e0c8d951f2e2.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "46화 : 한스의 부탁",
+      "episodeNo": 47,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=47&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/47/thumbnail_202x120_bb379995-be92-4922-88f5-22eb554492d4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "47화 : 사람을 주세요",
+      "episodeNo": 48,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=48&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/48/thumbnail_202x120_5712161c-0f32-4ccc-a07a-8316cf4ac44a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "48화 : 가능성을 보고 하는 투자",
+      "episodeNo": 49,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=49&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/49/thumbnail_202x120_4eca0176-6509-43ba-a439-efab31edcd87.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "49화 : 오베르 영지",
+      "episodeNo": 50,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=50&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/50/thumbnail_202x120_7cc30e4a-cbb5-4cc6-9716-bdc1d260a122.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "50화 : 엘포네",
+      "episodeNo": 51,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=51&week=tue&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/51/thumbnail_202x120_c6b09733-1b87-4b44-8fdf-2cc5bf87dd11.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "51화 : 한스 합류",
+      "episodeNo": 52,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=52&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/52/thumbnail_202x120_f7da96b5-8b34-4b83-b39c-460e137e0ff6.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "52화 : 야영할 땐 라면이지",
+      "episodeNo": 53,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=53&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/53/thumbnail_202x120_e954f1ff-f162-414e-80d2-a08461e0b106.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "53화 : 레시피만 팔아도",
+      "episodeNo": 54,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=54&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/54/thumbnail_202x120_95c87bf5-2b3d-443d-9df2-9580a1cd5cf5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "54화 : 새로운 집",
+      "episodeNo": 55,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=55&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/55/thumbnail_202x120_eb1f52ad-973c-4eb4-b8c5-91d9b4c1a162.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "55화 : 이세계 국밥",
+      "episodeNo": 56,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=56&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/56/thumbnail_202x120_a725481c-6d05-4c8e-a726-f13442048ae0.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "56화 : 황실의 허가",
+      "episodeNo": 57,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=57&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/57/thumbnail_202x120_4eff253d-2bd7-43b5-bdd1-f3eef3c64da5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "57화 : 대나무 숲",
+      "episodeNo": 58,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=58&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/58/thumbnail_202x120_4bce089c-8aab-417b-b70a-f9142dadc3fe.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "58화 : 밀푀유",
+      "episodeNo": 59,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=59&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/59/thumbnail_202x120_22287481-4347-4d7f-879e-9a9e34888d4d.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "59화 : 레이나 ",
+      "episodeNo": 60,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=60&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/60/thumbnail_202x120_0c9411b4-2001-4c51-9449-5378d6b3b4f1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "60화 : 라자냐",
+      "episodeNo": 61,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=61&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/61/thumbnail_202x120_37ef0a68-66fe-4c83-922c-617da79c6401.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "61화 : 하이엔의 생일",
+      "episodeNo": 62,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=62&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/62/thumbnail_202x120_c44dc68d-c215-4b49-b5e5-736eebd0fd5c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "62화 : 사업적 조언",
+      "episodeNo": 63,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=63&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/63/thumbnail_202x120_f191dc33-e49f-4f7a-a7a1-b33e29206819.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "63화 : 보석 세공사",
+      "episodeNo": 64,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=64&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/64/thumbnail_202x120_c4ecc001-b58a-49d1-a132-1d84c938ce62.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "64화 : 반숙 달걀",
+      "episodeNo": 65,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=65&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/65/thumbnail_202x120_9b1c5c1f-df2c-4cff-aef4-29659bf1ce2e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "65화 : 민트 촛코마체",
+      "episodeNo": 66,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=66&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/66/thumbnail_202x120_eb17f374-84eb-414d-9384-eebaf4980125.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "66화 : 피크닉",
+      "episodeNo": 67,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=67&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/67/thumbnail_202x120_7d08a134-ef3a-4c6c-93f6-62d9bf2ffe07.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "67화 : 양털 신발",
+      "episodeNo": 68,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=68&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/68/thumbnail_202x120_69a30fbe-cc06-460a-b0c7-ba67f66fdc62.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "68화 : 초콜릿",
+      "episodeNo": 69,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=69&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/69/thumbnail_202x120_f43edc3f-c9bb-43f6-9e81-3a20b5ec7243.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "69화 : 이수의 계획",
+      "episodeNo": 70,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=70&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/70/thumbnail_202x120_2e425bed-2125-4b2a-8296-87331afcd9a6.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "70화 : 연애 횟수 3번",
+      "episodeNo": 71,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=71&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/71/thumbnail_202x120_84fea1ad-fd1a-46db-8f07-abf2c030c726.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "1부 후기",
+      "episodeNo": 72,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=72&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/72/thumbnail_202x120_8672865f-9015-44ab-8783-7210470132bc.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "71화 : 오빵?",
+      "episodeNo": 73,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=73&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/73/thumbnail_202x120_2d83ac6a-cb47-45b1-b866-2e685f807f6b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "72화 : 황실 요리 경연 (1)",
+      "episodeNo": 74,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=74&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/74/thumbnail_202x120_34fdbe16-6a1e-4c42-8842-929fe3a400e9.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "73화 : 황실 요리 경연 (2)",
+      "episodeNo": 75,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=75&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/75/thumbnail_202x120_231d478d-61fc-4d69-9e80-0422772a67aa.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "74화 : 뜨끈한 어묵탕",
+      "episodeNo": 76,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=76&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/76/thumbnail_202x120_5d13d02a-83d7-46ae-962f-8027695e8fd7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "75화 : 계모",
+      "episodeNo": 77,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=77&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/77/thumbnail_202x120_8ab15f02-33e6-45a0-b730-da365383623c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "76화 : 아버지의 편지",
+      "episodeNo": 78,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=78&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/78/thumbnail_202x120_34cddacd-ec2b-4ad1-aac7-d01ebe89bdcb.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "77화 : 떡국",
+      "episodeNo": 79,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=79&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/79/thumbnail_202x120_7ef5198a-34f0-4205-ac9d-dab20892db81.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "78화 : 양잠술",
+      "episodeNo": 80,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=80&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/80/thumbnail_202x120_08499960-4dee-4ced-8652-095049969cf6.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "79화 : 포털은 언제나 옳다",
+      "episodeNo": 81,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=800726&no=81&week=tue&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/81/thumbnail_202x120_d5fa21b7-da0d-43a8-91a1-fa7d233aef9c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "80화 : 타로술사",
+      "episodeNo": 82,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/82/thumbnail_202x120_2a32016b-01de-430e-8b1c-e6f104a8d43d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "81화 : 프리실라 밸런타인",
+      "episodeNo": 83,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/83/thumbnail_202x120_86e3f261-8d50-4c6d-9e34-a35ed708948c.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "82화 : 세스, 결혼",
+      "episodeNo": 84,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/84/thumbnail_202x120_ec698bcf-919a-4bd4-8231-a10be90f010b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "83화 : 달래장과 장어구이",
+      "episodeNo": 85,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/85/thumbnail_202x120_2d5902ec-8358-4fa6-b42e-8d6ea0f2e87f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "84화 : 비밀 경매",
+      "episodeNo": 86,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/800726/86/thumbnail_202x120_d5a5d32f-dc37-44ad-a2a5-f6b6efcd3611.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

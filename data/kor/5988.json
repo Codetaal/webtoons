@@ -1,0 +1,496 @@
+{
+  "id": 5988,
+  "title": "별을 품은 소드마스터",
+  "synopsis": "기사를 동경하는 슬럼가의 부랑아 블라드.검은 벼락을 맞는 사고 이후부터 들리기 시작한 누군가의 목소리와,어느 날 갑자기 등장한 푸른 달빛의 기사가 블라드의 세계를 산산조각내면서뒷골목 소년의 삶이 송두리째 변하기 시작하는데...높디높은 밤하늘에 있지 않더라도,아무도 보지 못하는 곳에 떨어져 있더라도스스로가 빛나기를 원한다면, 그렇다면 그것은별일 것이다.",
+  "author": "네이버 웹툰",
+  "rating": "9.97",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/816809/thumbnail/thumbnail_IMAG19_0020b01d-64f4-4f42-a8a9-1006a7c7fe03.jpg"
+  },
+  "episodes": [
+    {
+      "title": "1화",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=1&week=wed&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/1/thumbnail_202x120_4683c9a4-5abf-4244-a446-58fa7c5acf5b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "2화",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=2&week=wed&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/2/thumbnail_202x120_9ae002bd-ed65-48f3-b961-0d1b46a49399.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "3화",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=3&week=wed&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/3/thumbnail_202x120_692c2efd-4056-47eb-a1db-45830dee2acf.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "4화",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=4&week=wed&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/4/thumbnail_202x120_87db0459-2588-4d13-a6bd-6854490b2f63.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "5화",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=5&week=wed&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/5/thumbnail_202x120_39921d6b-6df9-441f-85f7-90660aaea957.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "6화",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=6&week=wed&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/6/thumbnail_202x120_8ff68e01-ee96-4325-9ddd-5e741c0cf8a7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "7화",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=7&week=wed&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/7/thumbnail_202x120_f415e63f-7c62-44ed-bfd5-c19b593a6b7a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "8화",
+      "episodeNo": 8,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=8&week=wed&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/8/thumbnail_202x120_684495a6-8127-4925-ab1c-73e62bee9aaf.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "9화",
+      "episodeNo": 9,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=9&week=wed&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/9/thumbnail_202x120_5baf0fc4-0b6a-412a-b74c-b8d6697211f8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "10화",
+      "episodeNo": 10,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=10&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/10/thumbnail_202x120_0b3ccd95-e172-4fc2-81cb-e2c8e549f371.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "11화",
+      "episodeNo": 11,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=11&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/11/thumbnail_202x120_cb8ba7b7-0f09-4937-a16c-c331c6d61367.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "12화",
+      "episodeNo": 12,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=12&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/12/thumbnail_202x120_36edbdf9-a3f1-4879-a11f-57b20a4b01c0.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "13화",
+      "episodeNo": 13,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=13&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/13/thumbnail_202x120_3c058314-bb92-4762-8b1c-c065ab5a07ea.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "14화",
+      "episodeNo": 14,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=14&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/14/thumbnail_202x120_d3ad16da-f7e9-46a3-b1df-6842fce937f4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "15화",
+      "episodeNo": 15,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=15&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/15/thumbnail_202x120_8aa1f286-ebc2-41f5-8281-7b9ae08b4f99.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "16화",
+      "episodeNo": 16,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=16&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/16/thumbnail_202x120_9f696060-d748-47d3-a33f-720500255749.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "17화",
+      "episodeNo": 17,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=17&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/17/thumbnail_202x120_f4201dd4-64b4-4214-8e87-65ed5173c7e7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "18화",
+      "episodeNo": 18,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=18&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/18/thumbnail_202x120_7575eb55-203b-4cc9-9534-a968b1d99de3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "19화",
+      "episodeNo": 19,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=19&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/19/thumbnail_202x120_fbfe3077-c7b8-4e2c-b5c4-f8d512d4e64e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "20화",
+      "episodeNo": 20,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=20&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/20/thumbnail_202x120_7dea6e9f-fb7c-4ad4-a966-2b856c02da0b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "21화",
+      "episodeNo": 21,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=21&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/21/thumbnail_202x120_6bc330e2-e01e-4fe5-8ff5-088b4b37f7b4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "22화",
+      "episodeNo": 22,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=22&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/22/thumbnail_202x120_f83ce074-4654-48a3-aede-165b3cef07bb.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "23화",
+      "episodeNo": 23,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=23&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/23/thumbnail_202x120_1ee065a5-adc5-40c7-b341-415f33135e77.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "24화",
+      "episodeNo": 24,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=24&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/24/thumbnail_202x120_73e797b8-1bf6-4710-a393-cbf5a035fc9b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "25화",
+      "episodeNo": 25,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=25&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/25/thumbnail_202x120_a5f25d94-7bae-44e8-bb6c-fdf52f3a7e99.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "26화",
+      "episodeNo": 26,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=26&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/26/thumbnail_202x120_8159bbb6-9bdf-44f1-a160-a2344f1652a1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "27화",
+      "episodeNo": 27,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=27&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/27/thumbnail_202x120_6d1973c5-7a13-4955-9775-5d259836eff3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "28화",
+      "episodeNo": 28,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=28&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/28/thumbnail_202x120_9a6917f6-dc87-4d80-9827-a4985e708cad.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "29화",
+      "episodeNo": 29,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=29&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/29/thumbnail_202x120_77199990-267f-49fb-8738-202004f0f3c7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "30화",
+      "episodeNo": 30,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=30&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/30/thumbnail_202x120_0f284a8a-ed7d-47eb-a6d4-daf9ac116f01.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "31화",
+      "episodeNo": 31,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=31&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/31/thumbnail_202x120_446400dd-f450-47af-a32a-30b441b7e26a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "32화",
+      "episodeNo": 32,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=32&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/32/thumbnail_202x120_2f21ba6e-7cf5-48e2-9f74-5f0d6e3f5060.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "33화",
+      "episodeNo": 33,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=33&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/33/thumbnail_202x120_67c01b29-d791-40b3-bd91-557a42420016.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "34화",
+      "episodeNo": 34,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=34&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/34/thumbnail_202x120_4c35915c-378d-4d5f-b70d-702caa99483e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "35화",
+      "episodeNo": 35,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=35&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/35/thumbnail_202x120_659258e6-8805-456c-92e1-6328c7d28ab5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "36화",
+      "episodeNo": 36,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=36&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/36/thumbnail_202x120_757cd2b6-4e83-467a-9ada-ff8bc1428e68.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "37화",
+      "episodeNo": 37,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=37&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/37/thumbnail_202x120_b919efcf-ad34-425c-b4db-cdad60b8053e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "38화",
+      "episodeNo": 38,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=38&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/38/thumbnail_202x120_0100b084-5f54-4577-9b5b-72dc66b8a5a1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "39화",
+      "episodeNo": 39,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=816809&no=39&week=wed&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/39/thumbnail_202x120_e31c88e2-b22b-48c9-95df-90bf740a3d48.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "40화",
+      "episodeNo": 40,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/40/thumbnail_202x120_fb219d6e-2278-48c2-bd91-8f055925b59c.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "41화",
+      "episodeNo": 41,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/41/thumbnail_202x120_ff479fbc-e958-46cd-8177-5a0b96300d33.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "42화",
+      "episodeNo": 42,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/42/thumbnail_202x120_44e1a258-636e-4629-94d9-cece105b7b37.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "43화",
+      "episodeNo": 43,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/43/thumbnail_202x120_e551b466-36c9-4807-a228-e32a28c07479.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "44화",
+      "episodeNo": 44,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/816809/44/thumbnail_202x120_a7167b0b-d63b-4372-95b8-801f247f133b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

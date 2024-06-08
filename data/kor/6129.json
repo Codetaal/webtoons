@@ -1,0 +1,859 @@
+{
+  "id": 6129,
+  "title": "인섹터",
+  "synopsis": "어느 날 학교에서 담임교사가 <공벌레 인섹터 내라해치>가 되어 반 아이들을 무차별적으로 살해한 사건이 벌어진다. 그때 나타난 검은 개미, 그는 반 아이들을 구하게 되고 이 사건을 시작으로 언론과 SNS로 퍼져 인섹터의 존재는 더 이상 도시 괴담 수준의 이야기가 아니게 된다. 결국, 정부는 비밀리에 임무를 수행하던 인섹터 퇴치반 버그리퍼를 내세우고 생존자의 증언에 따라 검은 개미를 뒤쫓게 되는데,검은 개미의 정체는 몸속에 개미 집이 지어진 채 살아가는 평범한 학생 가미성. 그저 몸속 개미들에게 먹히지 않기 위해 인섹터의대항마로 변신하여 내키지 않는 싸움을 한다.",
+  "author": "네이버 웹툰",
+  "rating": "9.95",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/801710/thumbnail/thumbnail_IMAG19_f1f91956-683b-40e1-ae9f-c15b5bc6c00e.jpg"
+  },
+  "episodes": [
+    {
+      "title": "01화: 검은 무엇",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=1&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/1/thumbnail_202x120_954b487e-4135-4e95-b1d7-c50657761e59.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "02화: 먹이사슬",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=2&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/2/thumbnail_202x120_bad89f09-d57e-4ef8-97a6-87ad58cd9601.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "03화: 사냥",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=3&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/3/thumbnail_202x120_f1f6a6f9-e8e9-4f22-90fd-821a5f70d6fb.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "04화: 함정",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=4&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/4/thumbnail_202x120_5e85ad42-1f5e-4a50-a733-b1d81f2cc08b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "05화: 도화선",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=5&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/5/thumbnail_202x120_cbc22dff-0133-4c42-88b6-f1d5d89df956.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "06화: 공복",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=6&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/6/thumbnail_202x120_53464f77-ccc0-431d-a0d3-df2d5dc8aaff.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "07화: 각성",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=7&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/7/thumbnail_202x120_ffbf5a58-384e-4f81-88e1-a3348f587f49.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "08화: 이여진",
+      "episodeNo": 8,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=8&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/8/thumbnail_202x120_44261859-1d69-47ea-97cc-5bb8d03329a3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "09화: 협력요청",
+      "episodeNo": 9,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=9&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/9/thumbnail_202x120_5b7b1147-2ae4-49f0-8f8e-982c3266752e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "10화: 선물",
+      "episodeNo": 10,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=10&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/10/thumbnail_202x120_6ad885a3-28cb-46dd-99b2-c5e5888e4967.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "11화: 소금쟁이",
+      "episodeNo": 11,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=11&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/11/thumbnail_202x120_8d40a6ed-cc04-4091-8c5b-2c9d2338ab0b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "12화: 데드존",
+      "episodeNo": 12,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=12&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/12/thumbnail_202x120_8f2e1523-640c-42a6-b628-4b50548c95db.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "13화: 유충",
+      "episodeNo": 13,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=13&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/13/thumbnail_202x120_6928998f-84c2-45dd-9f5f-95aa20637e07.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "14화: 만남",
+      "episodeNo": 14,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=14&week=mon&listSortOrder=DESC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/14/thumbnail_202x120_56186980-1d2b-4f51-9c1b-a2e543cf58d3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "15화: 전장",
+      "episodeNo": 15,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=15&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/15/thumbnail_202x120_b2dde00e-d7c5-409a-82e3-05ad68891879.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "16화: 용감한 시민",
+      "episodeNo": 16,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=16&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/16/thumbnail_202x120_0a81aaac-e3bf-4291-a5b5-8a0e7ee9834a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "17화: 업보 ",
+      "episodeNo": 17,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=17&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/17/thumbnail_202x120_267cb0e6-fa60-4d8d-87e0-9d7c7132b962.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "18화: 테스트 ",
+      "episodeNo": 18,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=18&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/18/thumbnail_202x120_8d46b6a2-77d9-4eeb-82a9-4930884f5de4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "19화: 추격 ",
+      "episodeNo": 19,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=19&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/19/thumbnail_202x120_1c248495-c050-4acd-93c1-2ad932a07cbe.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "20화: 지옥 ",
+      "episodeNo": 20,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=20&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/20/thumbnail_202x120_e4e519d4-2397-4c35-a91d-fbe0fd9be5ed.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "21화: 군집 ",
+      "episodeNo": 21,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=21&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/21/thumbnail_202x120_5d47205f-c247-4bc9-9ba9-550e128ca7da.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "22화: 익충 ",
+      "episodeNo": 22,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=22&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/22/thumbnail_202x120_8be01760-dc4d-4377-b917-6928ae9f790c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "23화: 오리지널 ",
+      "episodeNo": 23,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=23&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/23/thumbnail_202x120_797eba30-fcd7-4791-b86b-f30cbad82176.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "24화: 인질 ",
+      "episodeNo": 24,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=24&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/24/thumbnail_202x120_f872055a-d031-472a-ac13-e05b750274f1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "25화: 로얄럼블 ",
+      "episodeNo": 25,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=25&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/25/thumbnail_202x120_bd9656b9-1c30-4b96-8898-c4e241d069bc.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "26화: 난입",
+      "episodeNo": 26,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=26&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/26/thumbnail_202x120_8d0fc264-9586-4c65-8e08-607316db85fa.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "27화: 식사",
+      "episodeNo": 27,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=27&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/27/thumbnail_202x120_5014bd2f-be22-4bf8-a72d-a7db95937704.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "28화: 레벨업",
+      "episodeNo": 28,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=28&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/28/thumbnail_202x120_8df4185d-edf0-4404-8947-06a3f6e6fd05.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "29화: 장수",
+      "episodeNo": 29,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=29&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/29/thumbnail_202x120_cebabfe2-c0dd-40b1-8898-cc7095dbdeed.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "30화: 붕괴",
+      "episodeNo": 30,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=30&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/30/thumbnail_202x120_7b9b400d-93f1-43fc-b967-9dfa7db146d0.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "31화: 내면",
+      "episodeNo": 31,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=31&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/31/thumbnail_202x120_db42d7c4-9dee-4b93-a71c-b7432a1c5632.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "32화: 간부",
+      "episodeNo": 32,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=32&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/32/thumbnail_202x120_ef2084ef-4699-4d45-a844-64880fb2c25f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "33화: 대항마",
+      "episodeNo": 33,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=33&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/33/thumbnail_202x120_31e27e82-1a17-4448-adaa-2a4a162a0fb7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "34화: 강림",
+      "episodeNo": 34,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=34&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/34/thumbnail_202x120_2d8fc598-c682-4a9a-80d8-e1df41602f81.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "35화: 한계",
+      "episodeNo": 35,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=35&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/35/thumbnail_202x120_59eb4138-ad0b-449b-855f-651a91641819.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "36화: 잠자리의 계절",
+      "episodeNo": 36,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=36&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/36/thumbnail_202x120_62d2136e-4df9-4aef-a3d6-54b7150188a1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "37화: 계기",
+      "episodeNo": 37,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=37&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/37/thumbnail_202x120_5f88f05c-4a80-4864-b41e-7d03c3f1003f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "38화: 트라우마",
+      "episodeNo": 38,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=38&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/38/thumbnail_202x120_3de85e31-852d-440c-a5cf-0d8ae4fc3516.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "39화: 기다려",
+      "episodeNo": 39,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=39&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/39/thumbnail_202x120_1b78eed8-e4cd-4ecd-b8fe-9b743cb45079.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "40화: 비상(飛翔)",
+      "episodeNo": 40,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=40&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/40/thumbnail_202x120_1a85f776-910c-4281-ab35-40cd9f30105d.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "41화: 정체",
+      "episodeNo": 41,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=41&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/41/thumbnail_202x120_bb61064d-7f88-4cdf-bbcc-c6cc9eed7d85.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "42화: 대표",
+      "episodeNo": 42,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=42&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/42/thumbnail_202x120_c96990ae-8c6d-4fcf-a8f8-80ba9a42d10c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "43화: 0호",
+      "episodeNo": 43,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=43&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/43/thumbnail_202x120_1ad4c664-974d-4ef0-a0fd-19bb72594cef.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "44화: 탄생",
+      "episodeNo": 44,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=44&week=mon&listSortOrder=DESC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/44/thumbnail_202x120_d89ca5b1-58be-4501-ae14-4d60b87f47ed.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "45화: 복귀",
+      "episodeNo": 45,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=45&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/45/thumbnail_202x120_b7b75426-2667-4626-b627-5e66042ad85a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "46화: 존재",
+      "episodeNo": 46,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=46&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/46/thumbnail_202x120_46ccca4f-8f1d-46fb-a2db-86c297232d5d.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "47화: 영웅",
+      "episodeNo": 47,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=47&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/47/thumbnail_202x120_056709c5-cdd0-4dd3-b191-cdd1c1412541.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "48화: 케이스",
+      "episodeNo": 48,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=48&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/48/thumbnail_202x120_237e94d3-401b-4ffc-a2fe-958d6ab7df0b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "49화: 폭주",
+      "episodeNo": 49,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=49&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/49/thumbnail_202x120_57ad2a8c-6920-451c-b892-0f7affe2e489.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "50화: 절망",
+      "episodeNo": 50,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=50&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/50/thumbnail_202x120_e13cfd1f-aaa5-4d8f-b771-31bec752e656.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "51화: 강습(強襲)",
+      "episodeNo": 51,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=51&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/51/thumbnail_202x120_921685f0-7a95-4519-b061-dd2764313770.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "52화: 탈피",
+      "episodeNo": 52,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=52&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/52/thumbnail_202x120_ca83a43f-4b29-4e7c-9ef6-6bcf26095b83.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "53화: 대량발생",
+      "episodeNo": 53,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=53&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/53/thumbnail_202x120_3a397867-5e34-4b3c-8bff-3e05e6355da2.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "54화: 전쟁",
+      "episodeNo": 54,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=54&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/54/thumbnail_202x120_8274f494-4c85-47fc-90ef-981cad5fb18d.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "55화: 나비",
+      "episodeNo": 55,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=55&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/55/thumbnail_202x120_201ad711-52ba-4ddc-b2ed-e0a931f6c097.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "56화: 조우",
+      "episodeNo": 56,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=56&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/56/thumbnail_202x120_9e496906-b017-44e4-bdbe-f3d8ae88fa39.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "57화: 인섹터",
+      "episodeNo": 57,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=57&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/57/thumbnail_202x120_cc278dbb-7a7d-4c70-bb4c-f4b58990a146.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "58화: 다크리퍼",
+      "episodeNo": 58,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=58&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/58/thumbnail_202x120_3ecb265f-76fb-4ba5-aba9-d277c8fdbed2.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "59화: 아라",
+      "episodeNo": 59,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=59&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/59/thumbnail_202x120_1d100957-1494-493f-a2e5-59eb30d99f3a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "60화: 그물",
+      "episodeNo": 60,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=60&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/60/thumbnail_202x120_dae7d25d-c7dc-420e-93c5-25ac27a61a24.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "61화: 전갈",
+      "episodeNo": 61,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=61&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/61/thumbnail_202x120_9e8f2afb-b557-4acf-9e26-31701ee76b84.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "62화: 다짐",
+      "episodeNo": 62,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=62&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/62/thumbnail_202x120_0e80b7fd-b8e7-4421-bf1a-061696f91336.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "63화: 육각",
+      "episodeNo": 63,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=63&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/63/thumbnail_202x120_8fb22934-95f5-4394-bf19-bf8212c0a5e8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "64화: 벌레의 전과",
+      "episodeNo": 64,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=64&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/64/thumbnail_202x120_9c9c7f82-f53a-4a33-aad1-110fd540c5d8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "65화: 벌레의 가족",
+      "episodeNo": 65,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=65&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/65/thumbnail_202x120_974fddb3-e4e7-45f3-8861-6ef4600ccabe.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "66화: 침공",
+      "episodeNo": 66,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=66&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/66/thumbnail_202x120_97c3adfa-6c19-4e0a-8b4a-46fad62ab8e0.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "67화: 웨폰",
+      "episodeNo": 67,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=67&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/67/thumbnail_202x120_61e36cd4-d116-4d9b-9d92-2e25bc4055e6.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "68화: 열세",
+      "episodeNo": 68,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=68&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/68/thumbnail_202x120_9b504ca7-19df-4e6a-bc01-e34fdc3cf802.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "69화: 극복",
+      "episodeNo": 69,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=69&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/69/thumbnail_202x120_a14d7e3d-9af2-41b1-8bcb-b4d2fdb562c3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "70화: 리미트 해제",
+      "episodeNo": 70,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=70&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/70/thumbnail_202x120_2bb3aad8-183f-4659-84f0-bbac56b5414a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "71화: 리옥크",
+      "episodeNo": 71,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=71&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/71/thumbnail_202x120_aa3ee186-60ae-47a8-b63f-823ec0768df5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "72화: 진화",
+      "episodeNo": 72,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=72&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/72/thumbnail_202x120_a970f069-9d38-47ff-be13-104f9e01e4b5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "73화: 개미",
+      "episodeNo": 73,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=73&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/73/thumbnail_202x120_aa1a2b81-b5f0-4ce7-9425-e6a943a3bfea.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "74화: 심연",
+      "episodeNo": 74,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=801710&no=74&week=mon&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/74/thumbnail_202x120_b6560834-7418-4004-8675-80c2ce5559fb.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "75화: 리턴",
+      "episodeNo": 75,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/75/thumbnail_202x120_8eab2699-6980-478e-b047-72bba7e62ce4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "76화: 재회",
+      "episodeNo": 76,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/76/thumbnail_202x120_ed230fd8-5f7d-4e5e-a5c0-6c06832e8efd.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "77화: 기간티아",
+      "episodeNo": 77,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/801710/77/thumbnail_202x120_790964fd-7262-486f-8d6d-6541cf23b604.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

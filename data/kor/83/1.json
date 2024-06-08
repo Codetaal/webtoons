@@ -1,0 +1,22 @@
+{
+  "title": "예고편",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=131385&no=1&week=thu&listSortOrder=DESC&listPage=22",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/131385/1/inst_thumbnail_20100205175031.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_006.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_007.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_008.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_009.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/131385/1/0d4e676133fa13c1ff82d7125ed2dbbb_010.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}
