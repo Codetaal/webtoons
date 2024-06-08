@@ -27,7 +27,7 @@
 
             function handleRequest() {
                 const path = window.location.pathname;
-                let jsonFilePath = path.endsWith('/') ? `${path.slice(0, -1)}.json` : `./data/${path}.json`;
+                let jsonFilePath = path.endsWith('/') ? `./${path.slice(0, -1)}.json` : `./${path}.json`;
                 fetchJson(jsonFilePath);
             }
 
