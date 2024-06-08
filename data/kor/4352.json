@@ -1,0 +1,837 @@
+{
+  "id": 4352,
+  "title": "갓트",
+  "synopsis": "12계열의 갓트(GOD-Tribe)가 서로 싸우며 공존하는 세상.육식계에게 학대를 받으며 일하던 환식계 꼬마 랏데는포식자에 제물로 바쳐졌으나, 영웅 타세르에 의해 구원된다.타세르의 말에 따르면 랏데가 바로 포식자들에 맞서 세상을 구원할천년에 한번 태어나는 계시된 존재였고,이후 모든 '갓트'집단의 리더가 될 운명이었다.이제 타세르와의 수련 후, 세상을 뒤집는 복수가 시작된다.",
+  "author": "네이버 웹툰",
+  "rating": "9.86",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/790453/thumbnail/thumbnail_IMAG19_1d82df76-c49f-43c8-8e0c-d3a8e1d7437c.jpg"
+  },
+  "episodes": [
+    {
+      "title": "1화 육계도 [1]",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=790453&no=1&week=thu&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/1/thumbnail_202x120_fb094970-d1eb-4b22-8bd7-9028a5837495.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "2화 육계도 [2]",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=790453&no=2&week=thu&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/2/thumbnail_202x120_ab6cfdb7-110a-42e4-913c-c90dcc7e2999.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "3화 육계도 [3]",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=790453&no=3&week=thu&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/3/thumbnail_202x120_08a8e20a-6566-4f75-bb5a-9b784bf7d87d.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "4화 육계도 [4]",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=790453&no=4&week=thu&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/4/thumbnail_202x120_503c845a-250c-43af-ae5c-07d64fd461bc.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "5화 육계도 [5]",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=790453&no=5&week=thu&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/5/thumbnail_202x120_c279cb2d-2e6c-42fa-a23a-f79e331800ae.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "6화 육계도 [6]",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=790453&no=6&week=thu&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/6/thumbnail_202x120_5cd9a82c-085a-41b2-8f67-85ef468fbe9e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "7화 육계도 [7]",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=790453&no=7&week=thu&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/7/thumbnail_202x120_df42e8b4-843f-4b3b-9f79-0faae1a7db6c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "8화 육계도 [8]",
+      "episodeNo": 8,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/8/thumbnail_202x120_a3238551-9504-4ba2-87c5-1b193aef3fdd.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "9화 육계도 [9]",
+      "episodeNo": 9,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/9/thumbnail_202x120_b7aa5b52-314a-43fc-8e5e-3f454dc0cd25.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "10화 육계도 [10]",
+      "episodeNo": 10,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/10/thumbnail_202x120_75a8df13-a703-47e7-9032-bebd01fa4128.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "11화 육계도 [11]",
+      "episodeNo": 11,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/11/thumbnail_202x120_49790706-8930-41ea-b71c-47a8fd7da200.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "12화 육계도 [12]",
+      "episodeNo": 12,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/12/thumbnail_202x120_9069c7ae-1d34-4a05-9213-86297d142879.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "13화 육계도 [13]",
+      "episodeNo": 13,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/13/thumbnail_202x120_91a38d2e-1e78-4402-b25b-3766484a315f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "14화 육계도 [마지막]",
+      "episodeNo": 14,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/14/thumbnail_202x120_35ce2071-3636-4fcd-b6dd-543fb168adab.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "15화 아콰마르 [1]",
+      "episodeNo": 15,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/15/thumbnail_202x120_f2732d6a-7970-4b92-a50b-c5c72e129a43.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "16화 아콰마르 [2]",
+      "episodeNo": 16,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/16/thumbnail_202x120_88c66739-3ea0-42a4-9922-9042123a94b5.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "17화 아콰마르 [3]",
+      "episodeNo": 17,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/17/thumbnail_202x120_e299e14d-22bd-4093-96fd-a382da56e200.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "18화 아콰마르 [4]",
+      "episodeNo": 18,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/18/thumbnail_202x120_66023ed8-683b-4441-b287-4dfa1517a144.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "19화 아콰마르 [5]",
+      "episodeNo": 19,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/19/thumbnail_202x120_db5f6cd5-fb49-4d7c-97c2-a72b48be9119.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "20화 아콰마르 [6]",
+      "episodeNo": 20,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/20/thumbnail_202x120_8375ffb9-0439-4a01-8905-0c8e5b52ec0d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "21화 아콰마르 [7]",
+      "episodeNo": 21,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/21/thumbnail_202x120_cb9903ca-c72c-40f8-8dba-d18b527dc29b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "22화 아콰마르 [8]",
+      "episodeNo": 22,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/22/thumbnail_202x120_08fed2a7-58b9-4b73-84aa-29e4ee7a7229.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "23화 아콰마르 [9]",
+      "episodeNo": 23,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/23/thumbnail_202x120_3764e7c5-cd5a-4c0d-8c53-32c9733bde72.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "24화 마가협곡",
+      "episodeNo": 24,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/24/thumbnail_202x120_446d6f7b-401d-4170-9a9d-f75f06121c0e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "25화 포트리온 [1]",
+      "episodeNo": 25,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/25/thumbnail_202x120_c56d7058-c7d3-4f23-8300-4847c0b68651.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "26화 포트리온 [2]",
+      "episodeNo": 26,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/26/thumbnail_202x120_a1924d76-d7d7-4bcc-9c00-b7b214ba6ed7.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "27화 포트리온 [3]",
+      "episodeNo": 27,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/27/thumbnail_202x120_68861163-9722-4da7-9869-71398d07b23d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "28화 포트리온 [4]",
+      "episodeNo": 28,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/28/thumbnail_202x120_03cf25ca-e23d-44c3-bf8d-5564dae70557.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "29화 포트리온 [5]",
+      "episodeNo": 29,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/29/thumbnail_202x120_8e462fb7-9076-4b43-b9fd-11e0e03c2c05.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "30화 포트리온 [6]",
+      "episodeNo": 30,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/30/thumbnail_202x120_e7ec455f-188d-4c61-8fb9-0c802189956e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "31화 포트리온 [7]",
+      "episodeNo": 31,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/31/thumbnail_202x120_ae45bd6c-e863-4a3b-9bbf-30138e841e09.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "32화 포트리온 [8]",
+      "episodeNo": 32,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/32/thumbnail_202x120_4c4dd729-75d0-485f-a462-85749ff6e1b1.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "33화 포트리온 [9]",
+      "episodeNo": 33,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/33/thumbnail_202x120_1ecd440d-c07e-4e74-8e61-c3c041f5b618.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "34화 포트리온 [10] - 1부 완결",
+      "episodeNo": 34,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/34/thumbnail_202x120_2cfdb3a5-5701-415a-b7ec-54fdce426513.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "35화 검은산 [1]",
+      "episodeNo": 35,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/35/thumbnail_202x120_bef38c08-ecbc-4ed7-b01b-6164413a016d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "36화 검은산 [2]",
+      "episodeNo": 36,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/36/thumbnail_202x120_759e1cde-974c-432c-9a89-8468a7f856d2.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "37화 그리트콘 [1]",
+      "episodeNo": 37,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/37/thumbnail_202x120_5bae14eb-6084-40f1-b665-1382bfd74c00.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "38화 그리트콘 [2]",
+      "episodeNo": 38,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/38/thumbnail_202x120_87561d6d-f471-459e-9c43-d5707a4411e1.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "39화 그리트콘 [3]",
+      "episodeNo": 39,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/39/thumbnail_202x120_4f5a28a7-b449-408e-ab2e-e1eb36b94061.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "40화 그리트콘 [4]",
+      "episodeNo": 40,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/40/thumbnail_202x120_35edc7fb-64d9-4894-b04f-dc16553c6cca.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "41화 그리트콘 [마지막]",
+      "episodeNo": 41,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/41/thumbnail_202x120_e580516e-6c0b-4663-a455-4a14cfd3a0a5.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "42화 검은산 [3]",
+      "episodeNo": 42,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/42/thumbnail_202x120_5a29e463-a470-486b-be66-4d1bf62fac4e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "43화 검은산 [4]",
+      "episodeNo": 43,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/43/thumbnail_202x120_b5ce67ae-f339-4c00-a6ce-bfae8fe08103.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "44화 검은산 [5]",
+      "episodeNo": 44,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/44/thumbnail_202x120_8f6ee974-a0e7-471f-9dab-9c11366cff01.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "45화 검은산 [6]",
+      "episodeNo": 45,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/45/thumbnail_202x120_091357d8-5abb-4eff-b246-d7386f586e97.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "46화 우치바숲",
+      "episodeNo": 46,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/46/thumbnail_202x120_69477a13-c1bf-4590-ac95-7b04432ecce4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "47화 초식골 [1]",
+      "episodeNo": 47,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/47/thumbnail_202x120_672660a5-efc1-4eb3-afbc-e2492945e25d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "48화 초식골 [2]",
+      "episodeNo": 48,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/48/thumbnail_202x120_44b3b6a2-1350-4ef0-bd9b-f06afc481043.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "49화 초식골 [3]",
+      "episodeNo": 49,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/49/thumbnail_202x120_288dd6c5-776e-4462-bde9-900a26bb0085.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "50화 초식골 [4]",
+      "episodeNo": 50,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/50/thumbnail_202x120_d423de5b-abc1-4f66-bd70-d7b8915396a5.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "51화 초식골 [5]",
+      "episodeNo": 51,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/51/thumbnail_202x120_60444db0-3559-4932-9b36-79a2eb11c96f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "52화 초식골 [6]",
+      "episodeNo": 52,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/52/thumbnail_202x120_8470f14b-0d47-4d77-b27b-81282a1c1664.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "53화 초식골 [7]",
+      "episodeNo": 53,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/53/thumbnail_202x120_db52db91-ec4a-48f2-aeed-0a8f47f7b749.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "54화 초식골 [8]",
+      "episodeNo": 54,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/54/thumbnail_202x120_69878ecf-a8d6-4779-bd51-0f38ddb589e3.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "55화 초식골 [9]",
+      "episodeNo": 55,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/55/thumbnail_202x120_bc70168c-77ca-4249-9653-db9294414555.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "56화 초식골 [10]",
+      "episodeNo": 56,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/56/thumbnail_202x120_a0d51c82-cd8c-4cb8-841e-bc538b6da173.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "57화 아콰마르 [10]",
+      "episodeNo": 57,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/57/thumbnail_202x120_2ac49ee1-2278-490d-bd84-383dda7351c4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "58화 아콰마르 [11]",
+      "episodeNo": 58,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/58/thumbnail_202x120_bf18e3b8-9c27-4778-9f9e-caa67c801188.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "59화 아콰마르 [마지막]",
+      "episodeNo": 59,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/59/thumbnail_202x120_a8c2d375-106c-4932-8997-bad74883d739.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "60화 석회대륙 [1]",
+      "episodeNo": 60,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/60/thumbnail_202x120_4eb41714-2b01-4b21-8b49-47bb771da1ae.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "61화 석회대륙 [2]",
+      "episodeNo": 61,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/61/thumbnail_202x120_a4d016a9-a4ee-4c41-a875-3303fcafc017.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "62화 석회대륙 [3]",
+      "episodeNo": 62,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/62/thumbnail_202x120_a22e3ba4-f197-4ba4-87dc-1a8e5143658b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "63화 석회대륙 [4]",
+      "episodeNo": 63,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/63/thumbnail_202x120_5cf1449e-52fe-4f6e-b6d2-a40f4b4669a0.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "64화 석회대륙 [5]",
+      "episodeNo": 64,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/64/thumbnail_202x120_4c051c3a-95b7-4dbd-bc10-affbad7e0a71.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "65화 석회대륙 [마지막]",
+      "episodeNo": 65,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/65/thumbnail_202x120_791ec76c-283d-4646-87ff-3bcded9774b4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "66화 교차대륙 [1]",
+      "episodeNo": 66,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/66/thumbnail_202x120_3e279f56-dc2e-4fd5-95be-2c7599c89518.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "67화 교차대륙 [2]",
+      "episodeNo": 67,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/67/thumbnail_202x120_a262d5ac-f2b5-464d-bc90-731da7bcdc0a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "68화 교차대륙 [3]",
+      "episodeNo": 68,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/68/thumbnail_202x120_847a2cb2-6034-4184-8711-24ccb7380c0a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "69화 교차대륙 [4]",
+      "episodeNo": 69,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/69/thumbnail_202x120_bff553a7-4098-42da-885b-6bd1d07845ef.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "70화 교차대륙 [5]",
+      "episodeNo": 70,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/70/thumbnail_202x120_c4e5ef28-3c04-41d3-9553-c6ea793e97b8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "71화 최후결전 [1]",
+      "episodeNo": 71,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/71/thumbnail_202x120_a5535f92-6099-4c52-aa96-2640d75289f3.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "72화 최후결전 [2]",
+      "episodeNo": 72,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/72/thumbnail_202x120_a7a6c700-f0fd-4ceb-96b4-15488a0d825b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "73화 최후결전 [3]",
+      "episodeNo": 73,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/73/thumbnail_202x120_7037b29c-0b0e-4fd2-98dc-cbfd289cc6d4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "74화 최후결전 [4]",
+      "episodeNo": 74,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/74/thumbnail_202x120_781e3032-ec1a-4ec6-b3b2-fa84d9b53138.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "75화 마지막화",
+      "episodeNo": 75,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/790453/75/thumbnail_202x120_ec42ba50-482d-4db0-aa04-c7ed69894c3f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

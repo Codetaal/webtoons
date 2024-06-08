@@ -1,0 +1,947 @@
+{
+  "id": 3907,
+  "title": "최면학교",
+  "synopsis": "'지금부터 당신은 최면에 빠집니다...'최면능력을 가진 주인공 김찬규는 여자에게 인기를 얻고 싶어 열심히 최면을 이용해보지만 매번 뜻대로 되지 않는다. 거듭되는 실패 속에 만난 비범한 능력의 소녀와 김찬규, 특별하지만 안타까운 그들의 이야기. 이것은 개그만화가 아닙니다!",
+  "author": "네이버 웹툰",
+  "rating": "9.69",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/776656/thumbnail/thumbnail_IMAG19_af8ac713-8563-48f9-9028-325668ed4d2c.jpg"
+  },
+  "episodes": [
+    {
+      "title": "1. 최면",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=776656&no=1&week=sat&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/1/thumbnail_202x120_d0681898-d54b-47ac-a148-5a87ffefada8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "2. 자기최면",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=776656&no=2&week=sat&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/2/thumbnail_202x120_a6a47402-73d8-4384-a602-00329429d0ca.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "3. 화이트데이",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=776656&no=3&week=sat&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/3/thumbnail_202x120_9e435a8d-8d67-4554-bd55-d4cab4dd4914.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "4. 바라는대로",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=776656&no=4&week=sat&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/4/thumbnail_202x120_5cbae6d1-81aa-4acc-8b7f-e513885165f1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "5. 미정",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=776656&no=5&week=sat&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/5/thumbnail_202x120_45f5fc38-a028-449b-924e-e4b40a408dd3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "6. 한발",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=776656&no=6&week=sat&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/6/thumbnail_202x120_3490a93f-25bf-4941-ab55-5402c2ef5eff.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "7. 잘해봐",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=776656&no=7&week=sat&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/7/thumbnail_202x120_84df37ae-856d-4f60-b794-f8fb4526aab3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "8. 결전",
+      "episodeNo": 8,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/8/thumbnail_202x120_481b3044-6cc9-408f-a756-a06e6a316cd9.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "9. 혈투",
+      "episodeNo": 9,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/9/thumbnail_202x120_6a59c88b-1512-4ed5-8e43-a73244f0f783.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "10. 모르고 있을뿐",
+      "episodeNo": 10,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/10/thumbnail_202x120_7e9a7b82-f303-417d-b180-ffa24497d071.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "11. 폭풍의 전학생",
+      "episodeNo": 11,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/11/thumbnail_202x120_ca1a995d-9cac-49fa-8ef1-8eb4cb5b4c08.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "12. 만우절",
+      "episodeNo": 12,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/12/thumbnail_202x120_5ea03ad5-a948-4c6b-98af-ee10784a57d0.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "13. 좋아하는 마음이란",
+      "episodeNo": 13,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/13/thumbnail_202x120_82a71388-536b-41ae-b873-6b8ada5e4d86.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "14.  판단",
+      "episodeNo": 14,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/14/thumbnail_202x120_08e0894d-c57e-49d9-a862-bed27842e044.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "15. 재미있군",
+      "episodeNo": 15,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/15/thumbnail_202x120_beda94c5-64c8-46f5-afba-f9a6637215f9.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "16. 보스전",
+      "episodeNo": 16,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/16/thumbnail_202x120_73cd6ad4-7b36-4550-ab28-99c18579f786.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "17. 최면의 의미",
+      "episodeNo": 17,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/17/thumbnail_202x120_32354930-4e22-40f3-bc5d-b30677704128.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "18. 시험준비",
+      "episodeNo": 18,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/18/thumbnail_202x120_e7be9e1c-772c-4426-9fc6-e09e3ad1fb71.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "19. 진로",
+      "episodeNo": 19,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/19/thumbnail_202x120_f2de9a02-41dc-4045-926d-7770ec0dd680.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "20. 스멀스멀",
+      "episodeNo": 20,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/20/thumbnail_202x120_f98f56e1-f650-4571-a50c-41b1f9d9a071.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "21. 발등에 불",
+      "episodeNo": 21,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/21/thumbnail_202x120_6dbcdc20-4f93-43b1-81fc-6df1b94fd5d5.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "22. 스토커",
+      "episodeNo": 22,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/22/thumbnail_202x120_de9250f5-227e-4992-b264-03ef99cafa03.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "23. 분노의 최면",
+      "episodeNo": 23,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/23/thumbnail_202x120_9363ddca-83fa-4d94-923d-0e5c88004a43.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "24. 충격요법",
+      "episodeNo": 24,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/24/thumbnail_202x120_faacb990-7d14-4343-b58a-2882c7a97ae6.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "25. 승부",
+      "episodeNo": 25,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/25/thumbnail_202x120_6d8cd6ec-8ff9-4729-8016-ac16bd48a697.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "26. 따뜻해",
+      "episodeNo": 26,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/26/thumbnail_202x120_888607d6-25a1-43ae-9183-aa30fb95d2b0.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "27. 무례",
+      "episodeNo": 27,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/27/thumbnail_202x120_c4eb558a-64f4-4adb-a456-631cd209afa2.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "28.믿음",
+      "episodeNo": 28,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/28/thumbnail_202x120_54bff4d5-f3d2-459f-b0f0-351fd7a6bb87.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "29. 도와주세요",
+      "episodeNo": 29,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/29/thumbnail_202x120_c3edf70f-24a9-4369-90c6-565820d37830.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "30. 죽음에 관하여",
+      "episodeNo": 30,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/30/thumbnail_202x120_f81c006d-970b-4b52-bf0d-6c3edb2fe32b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "31. 죽음의 의미",
+      "episodeNo": 31,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/31/thumbnail_202x120_bb0d411f-1915-45a1-829d-242b791d5bf5.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "32. 폭주",
+      "episodeNo": 32,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/32/thumbnail_202x120_7bb5b2cb-d397-454f-86d6-e8d5a159550b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "33. 살아온 길",
+      "episodeNo": 33,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/33/thumbnail_202x120_f0d3e730-d553-49ce-b1d4-8ed8033fd94f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "34. 냄새",
+      "episodeNo": 34,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/34/thumbnail_202x120_0a6d13df-1978-4e4b-acfa-fb82b3c36dd0.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "35. 냄새2",
+      "episodeNo": 35,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/35/thumbnail_202x120_ac2c8f45-8e5c-4c2a-a717-b17e6d1bf1af.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "36.  축제",
+      "episodeNo": 36,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/36/thumbnail_202x120_1ff748c3-88d5-4c9c-ad10-bf4913818f11.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "37. 축제의 끝",
+      "episodeNo": 37,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/37/thumbnail_202x120_241e2cfe-7972-4fb1-b925-cd2e9577344b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "38. 상담부",
+      "episodeNo": 38,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/38/thumbnail_202x120_5d6ea38d-e364-427b-bb44-d93080b92e65.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "39. 봄봄봄",
+      "episodeNo": 39,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/39/thumbnail_202x120_3f384db9-5be2-4f8a-9c47-6c5988706602.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "40. 여자의 마음",
+      "episodeNo": 40,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/40/thumbnail_202x120_129a9d48-581d-4abe-94fe-e8afe57136f6.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "41. 자존감",
+      "episodeNo": 41,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/41/thumbnail_202x120_d9d66ea4-9a61-4e1a-8118-d8d0d514b22b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "42. 운명",
+      "episodeNo": 42,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/42/thumbnail_202x120_0550b090-8d6a-423a-9687-9cb6c5b08ec4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "43. 용",
+      "episodeNo": 43,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/43/thumbnail_202x120_58c4ecd4-b508-42f7-bcdf-cb287916d37c.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "44. 공감할 필요가 없는 사람",
+      "episodeNo": 44,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/44/thumbnail_202x120_b20829fe-12dd-497f-9b63-221c61151f21.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "45. 선",
+      "episodeNo": 45,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/45/thumbnail_202x120_8b018b33-d336-4779-bc77-3db263aa5a44.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "46. 역공",
+      "episodeNo": 46,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/46/thumbnail_202x120_6459afc1-9598-4a00-9877-edc0014b0d55.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "47. 너가 모르는 사이",
+      "episodeNo": 47,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/47/thumbnail_202x120_c7785646-2ff4-4029-8c8f-3079d0232387.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "48. 우린",
+      "episodeNo": 48,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/48/thumbnail_202x120_fe0a03d1-dc97-436d-b3e2-4428e4ac8a69.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "49. 본분",
+      "episodeNo": 49,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/49/thumbnail_202x120_eeff13d6-31a9-475b-9a8c-33fa6eff601f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "50. 폭풍전야",
+      "episodeNo": 50,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/50/thumbnail_202x120_5ff6fea0-b61b-463b-ab7c-96a85a1b65b9.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "51. 찬규의 심리",
+      "episodeNo": 51,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/51/thumbnail_202x120_74e7d510-9a87-4f58-a038-1f25d8def7e2.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "52. 고민",
+      "episodeNo": 52,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/52/thumbnail_202x120_d41e052f-06bd-4f12-835e-b431c1c3b282.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "53. 불확실성",
+      "episodeNo": 53,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/53/thumbnail_202x120_5d7db495-4f9a-4f96-af6a-45ab3d381179.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "54. 신뢰",
+      "episodeNo": 54,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/54/thumbnail_202x120_2149fc56-f8e8-4a54-8fe7-1746de424ef8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "55. 몸통",
+      "episodeNo": 55,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/55/thumbnail_202x120_059186dd-ac25-4343-8945-9dfb733eaac4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "56. 편집증",
+      "episodeNo": 56,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/56/thumbnail_202x120_7e107382-2316-45d5-a972-6d3ec1fefada.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "57. 역지사지와 신뢰",
+      "episodeNo": 57,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/57/thumbnail_202x120_b05e1000-4fab-4629-945e-9ce465057844.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "58. 힘과 신뢰",
+      "episodeNo": 58,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/58/thumbnail_202x120_f3a7ad9f-25d7-4139-861f-ee65e478387b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "59. 미래",
+      "episodeNo": 59,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/59/thumbnail_202x120_221ddec9-6ffd-4462-ac0e-0ab06d6920ae.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "60. 현재",
+      "episodeNo": 60,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/60/thumbnail_202x120_56f2a1f4-20c4-4897-95f4-c39b2982fe62.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "61. 우연",
+      "episodeNo": 61,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/61/thumbnail_202x120_796c74c0-1aa6-458d-8ef1-4a3d62791d99.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "62. 기억",
+      "episodeNo": 62,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/62/thumbnail_202x120_e9726df4-f634-4da2-b25c-b8e13addda79.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "63. 자연재해",
+      "episodeNo": 63,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/63/thumbnail_202x120_31871254-d29e-4a76-9b3e-67dbdc9dffe9.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "64. 아무도 모르는 비밀",
+      "episodeNo": 64,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/64/thumbnail_202x120_8ace847d-833e-456b-ad96-ca762f736e09.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "65. 정답",
+      "episodeNo": 65,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/65/thumbnail_202x120_2da5a74b-3974-43cd-8501-5a34fb8a7cbd.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "66. 의지",
+      "episodeNo": 66,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/66/thumbnail_202x120_9562408b-6811-4d79-ad95-83c87ec79d09.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "67. 경종",
+      "episodeNo": 67,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/67/thumbnail_202x120_6b3288af-a66d-405c-8cc6-f71c43febf3c.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "68. 고백",
+      "episodeNo": 68,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/68/thumbnail_202x120_c83d68dd-bacb-4026-a1c9-421f90a5ea9d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "69. 이대로 죽을순 없다",
+      "episodeNo": 69,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/69/thumbnail_202x120_3b80006c-a96b-4bd7-8a3b-d89baf1202ce.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "70. 마음을 모아서",
+      "episodeNo": 70,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/70/thumbnail_202x120_9b0a1f6d-dd2c-4f8f-b6b9-f486c7d0ff31.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "71. 나에게 무슨 일이 생기면",
+      "episodeNo": 71,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/71/thumbnail_202x120_b906b7c6-431a-4aa4-b7d9-33174565f233.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "72. 용의 몸",
+      "episodeNo": 72,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/72/thumbnail_202x120_062b6220-8c37-45b1-8b05-8eff2b87be9a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "73. 힘",
+      "episodeNo": 73,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/73/thumbnail_202x120_6cdc6571-6024-4480-9a49-0874b6a7d1f2.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "74. 정의란 무엇인가",
+      "episodeNo": 74,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/74/thumbnail_202x120_5f5b5d1c-d597-409f-9b85-ab999a53d78f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "75. 현실계급",
+      "episodeNo": 75,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/75/thumbnail_202x120_9b904ba0-20ae-41a9-95cb-4a0cfdb8bde6.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "76. 용 강림",
+      "episodeNo": 76,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/76/thumbnail_202x120_79378ec4-6f21-44f2-88b1-9c734b05301d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "77. 결전",
+      "episodeNo": 77,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/77/thumbnail_202x120_9bc67237-2bc5-403d-b1ce-66f4cded92f0.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "78. 특별하지 않은 사람",
+      "episodeNo": 78,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/78/thumbnail_202x120_a08e8e8f-6355-4bb1-8ba8-90c14149a172.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "79. 당신의 최면",
+      "episodeNo": 79,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/79/thumbnail_202x120_389720a9-9bc9-4bb2-ba1b-f95622bda568.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "80. 용과나",
+      "episodeNo": 80,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/80/thumbnail_202x120_7397e82f-84a4-4843-8c69-4f787a7d7f09.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "81. 인간",
+      "episodeNo": 81,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/81/thumbnail_202x120_6f115b25-6376-40e1-873c-cbbb154c8cc7.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "82. 인간으로 산다는 것",
+      "episodeNo": 82,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/82/thumbnail_202x120_64e7e5e8-52d2-4c1f-9a6d-d674b28cad42.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "83. 소원",
+      "episodeNo": 83,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/83/thumbnail_202x120_18245f51-872b-4356-96d7-bb7df2a9a137.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "마지막화. 최면",
+      "episodeNo": 84,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/84/thumbnail_202x120_6380b665-6578-443a-9c1b-ad2cd6e256be.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "후기(장문)",
+      "episodeNo": 85,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/776656/85/thumbnail_202x120_4b42ec0f-51c1-4f2c-b093-00b2a3f32033.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

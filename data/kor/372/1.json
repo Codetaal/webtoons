@@ -1,0 +1,21 @@
+{
+  "title": "00화",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=602910&no=1&week=mon&listSortOrder=DESC&listPage=17",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/602910/1/inst_thumbnail_20131206195920.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/602910/1/8906a5472fe8e5ff2eceb9e72a0d5e99_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/602910/1/8906a5472fe8e5ff2eceb9e72a0d5e99_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/602910/1/8906a5472fe8e5ff2eceb9e72a0d5e99_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/602910/1/8906a5472fe8e5ff2eceb9e72a0d5e99_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/602910/1/8906a5472fe8e5ff2eceb9e72a0d5e99_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/602910/1/8906a5472fe8e5ff2eceb9e72a0d5e99_006.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/602910/1/8906a5472fe8e5ff2eceb9e72a0d5e99_007.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/602910/1/8906a5472fe8e5ff2eceb9e72a0d5e99_008.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/602910/1/8906a5472fe8e5ff2eceb9e72a0d5e99_009.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}
