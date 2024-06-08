@@ -4,41 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSON File Request Handler</title>
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            function fetchJson(url) {
-                fetch(url)
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error('Network response was not ok');
-                        }
-                        return response.json();
-                    })
-                    .then(data => {
-                        console.log('Success:', data);
-                        document.getElementById('output').textContent = JSON.stringify(data, null, 2);
-                    })
-                    .catch(error => {
-                        console.error('Error:', error);
-                        document.getElementById('output').textContent = 'Error loading JSON file';
-                    });
-            }
-
-            function handleRequest() {
-                const path = window.location.pathname;
-                let jsonFilePath = path.endsWith('/') ? `./${path.slice(0, -1)}.json` : `./${path}.json`;
-                fetchJson(jsonFilePath);
-            }
-
-            handleRequest();
-        });
-    </script>
+    <title>Webtoons - JSON</title>
 </head>
 
 <body>
-    <h1>JSON File Request Handler</h1>
-    <pre id="output">Loading...</pre>
+    <h1>Hello World!</h1>
 </body>
 
 </html>
