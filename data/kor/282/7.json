@@ -1,0 +1,16 @@
+{
+  "title": "6화",
+  "episodeNo": 7,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=103391&no=7&week=wed&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/103391/7/inst_thumbnail_20091217180502.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/103391/7/110297f56b33cdd8eec45d3b41f4bff1_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/7/110297f56b33cdd8eec45d3b41f4bff1_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/7/110297f56b33cdd8eec45d3b41f4bff1_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/7/110297f56b33cdd8eec45d3b41f4bff1_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

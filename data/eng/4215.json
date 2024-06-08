@@ -1,0 +1,45 @@
+{
+  "id": 4215,
+  "title": "Knight Under My Heart",
+  "synopsis": "Have you ever skipped studying to play video games? Unfortunately for high school senior Yushin Lee, the stakes are a little higher than flunking, as he finds himself trapped in a VR-based MMORPG. Yushin was selected to beta test the game, only to be forced to fight for his life in a seemingly endless loop. What was supposed to be a light distraction from the stress of high-school life becomes a desperate struggle for survival as Yushin battles his way through REAL Online, a dark fantasy world created by a mysterious tech company with uncertain motives.",
+  "author": "Routine.j,HANSungWoo",
+  "rating": "9.06",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220707_135/1657142968432cLspk_JPEG/3KUHM_landingpage_mobile.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Episode 0 - Prologue",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/action/knight-under-my-heart/episode-0-prologue/viewer?title_no=4215&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220707_200/1657132030320xJYBs_PNG/thumb_9KnightUnderMyHeart_EN_000_01_08.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Episode 1",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/action/knight-under-my-heart/episode-1/viewer?title_no=4215&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220622_199/1655856506027bCFuP_PNG/thumb_5KnightUnderMyHeart_EN_001_03_07.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Episode 2",
+      "episodeNo": 3,
+      "url": "https://m.webtoons.com/en/action/knight-under-my-heart/episode-2/viewer?title_no=4215&episode_no=3",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220622_238/1655856717633PK5ay_PNG/thumb_9KnightUnderMyHeart_EN_002_02_03.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

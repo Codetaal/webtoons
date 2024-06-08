@@ -1,0 +1,1024 @@
+{
+  "id": 1963,
+  "title": "다함께 이겨내요",
+  "synopsis": "2020 힘을 내요 대한민국,네이버웹툰 작가님들이 응원의 일러스트로 마음을 전합니다.",
+  "author": "네이버 웹툰",
+  "rating": "9.88",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/740079/thumbnail/thumbnail_IMAG19_20ae9f35-27d4-4d3a-82a5-081d7d7ab578.jpg"
+  },
+  "episodes": [
+    {
+      "title": "<윈드브레이커> 조용석 작가님이 응원합니다.",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=1&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/1/thumbnail_202x120_6ebee852-30ae-4d89-86cd-bb96ddba2ccf.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<겟백> 세윤 작가님이 응원합니다.",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=2&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/2/thumbnail_202x120_c6f91cbf-fbf0-434c-adc4-374c93bf774f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<치즈인더트랩> 순끼 작가님이 응원합니다.",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=3&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/3/thumbnail_202x120_69d00cab-e0cd-4d0b-906e-cb43ceb167b1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<아홉수 우리들> 수박양 작가님이 응원합니다.",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=4&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/4/thumbnail_202x120_3bbb9e51-29df-494c-9a17-9409c26f6405.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<만찢남녀> 님니 작가님이 응원합니다.",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=5&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/5/thumbnail_202x120_48e204c3-995e-41ab-a733-565c0f609203.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<검은인간> 이저녁 작가님이 응원합니다.",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=6&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/6/thumbnail_202x120_23a98ee9-dbe8-442a-86fc-fbb7c9a3105f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<아는 여자애> 허니비 작가님이 응원합니다.",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=7&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/7/thumbnail_202x120_0f3d5e14-3691-443e-bb6c-915a1936dc8f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<1초> 시니/광운 작가님이 응원합니다.",
+      "episodeNo": 8,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=8&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/8/thumbnail_202x120_49102976-b752-4421-ae92-796997e68d43.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<중독연구소> 김택기 작가님이 응원합니다.",
+      "episodeNo": 9,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=9&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/9/thumbnail_202x120_ec5b3cdb-fecc-4cc2-9671-e4be8dd9b452.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<모퉁이 뜨개방> 소영 작가님이 응원합니다.",
+      "episodeNo": 10,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=10&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/10/thumbnail_202x120_7bd82490-4f51-4eb0-beb1-adb1207359b1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<Ho!> 억수씨 작가님이 응원합니다.",
+      "episodeNo": 11,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=11&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/11/thumbnail_202x120_fbf15fde-a8f8-4586-82cd-e0a43fb44e63.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<럭키언럭키> 가천가 작가님이 응원합니다.",
+      "episodeNo": 12,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=12&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/12/thumbnail_202x120_f0c5cbd8-3a88-41e5-9162-8dd0888e81a2.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<방탈출> 십박 작가님이 응원합니다.",
+      "episodeNo": 13,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=13&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/13/thumbnail_202x120_3e934c46-c9d6-4f42-9760-8f99ce3e84b3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<감히> 희나리 작가님이 응원합니다.",
+      "episodeNo": 14,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=14&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/14/thumbnail_202x120_d0f95bb4-882a-4f14-9c0f-2ba18d69ac50.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<하루만 네가 되고 싶어> 삼 작가님이 응원합니다.",
+      "episodeNo": 15,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=15&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/15/thumbnail_202x120_c49c3996-ec81-4be0-bcb7-733fe8184b5e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<빙탕후루> 주호민 작가님이 응원합니다.",
+      "episodeNo": 16,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=16&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/16/thumbnail_202x120_3c00307d-bc64-4d6a-abc9-657a1e85365f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<골든 체인지> 브림스 작가님이 응원합니다.",
+      "episodeNo": 17,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=17&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/17/thumbnail_202x120_b00313dd-ee89-4a82-a620-e24a42ae365b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<귀신이지만 사랑하고 싶어> 오제이 작가님이 응원합니다.",
+      "episodeNo": 18,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=18&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/18/thumbnail_202x120_df210faa-e6da-4f3a-9fe2-e3a8eb7ba414.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<마음의 숙제> 고아라 작가님이 응원합니다.",
+      "episodeNo": 19,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=19&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/19/thumbnail_202x120_e5e8893a-d62e-431d-8f7f-0fecde2e96a7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<스피릿 핑거스> 한경찰 작가님이 응원합니다.",
+      "episodeNo": 20,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=20&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/20/thumbnail_202x120_e0811ade-01b9-4755-a779-cea137cf545a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<연놈> 상하 작가님이 응원합니다.",
+      "episodeNo": 21,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=21&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/21/thumbnail_202x120_640d0f9f-40e6-4554-9b52-61780e249676.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<화이트 블러드> 임리나 작가님이 응원합니다.",
+      "episodeNo": 22,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=22&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/22/thumbnail_202x120_d5ca799b-6ec0-4db5-8856-7d151ee130fa.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<탑코너> 라군 작가님이 응원합니다.",
+      "episodeNo": 23,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=23&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/23/thumbnail_202x120_d64df87f-bc91-49ec-9e95-bca657e099a0.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<피플> 서승준/손창균 작가님이 응원합니다.",
+      "episodeNo": 24,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=24&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/24/thumbnail_202x120_8206771e-1991-4c3a-a96d-4af2126b9f80.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<오늘도 형제는 평화롭다> GIMS 작가님이 응원합니다.",
+      "episodeNo": 25,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=25&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/25/thumbnail_202x120_4eaf45ba-e2b4-45c7-af5e-125efbbfc63f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<안개무덤> 김태영 작가님이 응원합니다.",
+      "episodeNo": 26,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=26&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/26/thumbnail_202x120_e9d5818a-4e42-4ef1-8ca2-134da15a908c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<이말년 씨리즈> 이말년 작가님이 응원합니다.",
+      "episodeNo": 27,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=27&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/27/thumbnail_202x120_b75c31cb-0ad4-47a2-bd1b-fd3d3f55df32.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<오늘부터 주군> 박카린 작가님이 응원합니다.",
+      "episodeNo": 28,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=28&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/28/thumbnail_202x120_4bbb0e37-2487-4571-9253-8a88ae1716b4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<기기괴괴> 오성대 작가님이 응원합니다.",
+      "episodeNo": 29,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=29&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/29/thumbnail_202x120_0fae47a6-c359-4e27-9ffa-64e77122482f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<후덜덜덜 남극전자> 김민혁 작가님이 응원합니다.",
+      "episodeNo": 30,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=30&week=mon&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/30/thumbnail_202x120_a7d3b64f-77e5-4710-acb5-d2acb4ff26e9.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<오민혁 단편선> 오민혁 작가님이 응원합니다.",
+      "episodeNo": 31,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=31&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/31/thumbnail_202x120_3301cfd5-6e11-490b-89b9-140c49c57ea4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<그놈은 흑염룡> 혜진양 작가님이 응원합니다.",
+      "episodeNo": 32,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=32&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/32/thumbnail_202x120_5890a7f5-fe62-4fcd-b744-3c881f55a72c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<랜덤채팅의 그녀!> 박은혁 작가님이 응원합니다.",
+      "episodeNo": 33,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=33&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/33/thumbnail_202x120_4846e02e-d7be-4f6b-813f-d599baab40e3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<정순애식당> 아르몽 작가님이 응원합니다.",
+      "episodeNo": 34,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=34&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/34/thumbnail_202x120_841d9fee-ad61-4fd1-a36b-a0f2dd689e09.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<오라존미> 허5파6 작가님이 응원합니다.",
+      "episodeNo": 35,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=35&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/35/thumbnail_202x120_f33ddc9f-c1e2-4bab-9786-c3b98ca39a87.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<간 떨어지는 동거> 나 작가님이 응원합니다.",
+      "episodeNo": 36,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=36&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/36/thumbnail_202x120_77e06282-47c1-4931-b78a-00eea329f9a5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<오직 나의 주인님> 상수 작가님이 응원합니다.",
+      "episodeNo": 37,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=37&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/37/thumbnail_202x120_11698625-841e-4c63-8b99-90d58b80734f.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<밀웜> 쿼시 작가님이 응원합니다.",
+      "episodeNo": 38,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=38&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/38/thumbnail_202x120_d4901197-24aa-4a23-8ef0-6ca643d1f14d.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<만물의 영장> 보민 작가님이 응원합니다.",
+      "episodeNo": 39,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=39&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/39/thumbnail_202x120_10d829e6-e5e9-4911-ad6a-f027533d8588.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<타인은 지옥이다> 김용키 작가님이 응원합니다.",
+      "episodeNo": 40,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=40&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/40/thumbnail_202x120_c562ccb8-2d25-4852-9852-29e90ede0952.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<닭강정> 박지독 작가님이 응원합니다.",
+      "episodeNo": 41,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=41&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/41/thumbnail_202x120_86514410-4a2e-4921-b040-647ebf3a3f48.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<사신소년> 류 작가님이 응원합니다.",
+      "episodeNo": 42,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=42&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/42/thumbnail_202x120_4dc68ca8-773f-4c39-8dad-4f70f131bfe7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<하루> 오늘 작가님이 응원합니다.",
+      "episodeNo": 43,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=43&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/43/thumbnail_202x120_e0bb76cc-eb3b-4b1d-9b57-98ad1a329594.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<모락모락 왕세자님> 원해 작가님이 응원합니다.",
+      "episodeNo": 44,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=44&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/44/thumbnail_202x120_447cd88b-a8b3-4308-b827-d5b4a635c6bd.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<킬더킹> 마사토끼/joana 작가님이 응원합니다.",
+      "episodeNo": 45,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=45&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/45/thumbnail_202x120_8fd144d5-413c-4b21-bb97-fe312c3ee5ca.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<장단에 맞춰줘> 햇님 작가님이 응원합니다.",
+      "episodeNo": 46,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=46&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/46/thumbnail_202x120_11aea0bf-7476-41a7-9bb6-ee2d53e0200c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<헬퍼2: 킬베로스> 삭 작가님이 응원합니다.",
+      "episodeNo": 47,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=47&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/47/thumbnail_202x120_4891e255-3773-4ccc-84f4-0612811ad356.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<퓨리스틱> 유성연 작가님이 응원합니다.",
+      "episodeNo": 48,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=48&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/48/thumbnail_202x120_adfadae1-2e20-46dd-8d46-16af95f0b9a7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<공유몽> 주신/유령선 작가님이 응원합니다.",
+      "episodeNo": 49,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=49&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/49/thumbnail_202x120_f38d1317-0972-4ef3-85f7-e8a3808a2bd3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<연의편지> 조현아 작가님이 응원합니다.",
+      "episodeNo": 50,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=50&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/50/thumbnail_202x120_7d94c022-1c58-484c-8757-1673a05d70d7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<냥하무인> 박성현 작가님이 응원합니다.",
+      "episodeNo": 51,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=51&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/51/thumbnail_202x120_0ab19bb0-9d73-4b40-a065-c3c044c19e02.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<허니버니> 소금 작가님이 응원합니다.",
+      "episodeNo": 52,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=52&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/52/thumbnail_202x120_8d40f421-6c24-4434-9a88-04374d02d784.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<꼬맹이를 부탁해> 마라링 작가님이 응원합니다.",
+      "episodeNo": 53,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=53&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/53/thumbnail_202x120_5172ba4a-fe36-4bc9-b1ea-827049e9b048.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<열렙전사> 김세훈 작가님이 응원합니다.",
+      "episodeNo": 54,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=54&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/54/thumbnail_202x120_edf9eb89-e18e-4bc4-a80b-83a689275be8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<유일무이 로맨스> 두부 작가님이 응원합니다.",
+      "episodeNo": 55,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=55&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/55/thumbnail_202x120_19f49450-8859-406d-a42d-55db61f0cdbf.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<저세상 클라스!> 꾀돌이 작가님이 응원합니다.",
+      "episodeNo": 56,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=56&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/56/thumbnail_202x120_782891b9-7a5e-4aa2-9fa9-bc0fd695d79e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<사또> 최윤진 작가님이 응원합니다.",
+      "episodeNo": 57,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=57&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/57/thumbnail_202x120_85df8a47-28a6-4354-983a-62d235becfbc.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<푸른사막 아아루> 달꽃 작가님이 응원합니다.",
+      "episodeNo": 58,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=58&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/58/thumbnail_202x120_b641bd19-81c4-4a5a-be28-b98fa940d17e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<닥터 프로스트> 이종범 작가님이 응원합니다.",
+      "episodeNo": 59,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=59&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/59/thumbnail_202x120_69c06df8-2edd-4b89-bbe9-c81511ce84bb.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<수능일기> 자까 작가님이 응원합니다.",
+      "episodeNo": 60,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=60&week=mon&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/60/thumbnail_202x120_ac53c6b5-cc42-4351-b786-0359ee609481.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<신의 탑> SIU 작가님이 응원합니다.",
+      "episodeNo": 61,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=61&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/61/thumbnail_202x120_aa150660-9767-4fa9-af0f-49dcdec3adb5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<9등급 뒤집기> 아백 작가님이 응원합니다.",
+      "episodeNo": 62,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=62&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/62/thumbnail_202x120_30fe8f33-a981-4b7b-b97b-8b4fd032b852.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<바른연애 길잡이> 남수 작가님이 응원합니다.",
+      "episodeNo": 63,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=63&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/63/thumbnail_202x120_48e7eff2-85ae-4fee-a524-3eec1387bdf9.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<구름의 이동속도> 김이랑 작가님이 응원합니다.",
+      "episodeNo": 64,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=64&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/64/thumbnail_202x120_b06886ff-eb42-433e-9ade-3fe1fbfd02b2.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<여주실격> 기맹기 작가님이 응원합니다.",
+      "episodeNo": 65,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=65&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/65/thumbnail_202x120_cba99e6a-45a2-40d8-a23a-67cfb350b6f6.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<어글리 피플즈> 배사과 작가님이 응원합니다.",
+      "episodeNo": 66,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=66&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/66/thumbnail_202x120_0869347e-5158-41ef-8e91-1e947b593bb5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<허니허니 웨딩> 문나영 작가님이 응원합니다.",
+      "episodeNo": 67,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=67&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/67/thumbnail_202x120_27ad8f5c-ebb9-4304-bd4c-2fd4cf374d97.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<칼가는 소녀> 오리 작가님이 응원합니다.",
+      "episodeNo": 68,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=68&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/68/thumbnail_202x120_2a9ca821-44f3-453a-8189-06a09d2b9db4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<중증외상센터 : 골든 아워> 한산이가/홍비치라 작가님이 응원합니다.",
+      "episodeNo": 69,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=69&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/69/thumbnail_202x120_9c4acd73-57c9-41b9-9bfa-5fe7e72b8e59.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<유미의 세포들> 이동건 작가님이 응원합니다.",
+      "episodeNo": 70,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=70&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/70/thumbnail_202x120_6b8ac053-4d87-44df-9481-5f53d9a80d48.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<여신강림> 야옹이 작가님이 응원합니다.",
+      "episodeNo": 71,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=71&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/71/thumbnail_202x120_f76682b2-0fde-4a49-b1b1-5a402ae63ca5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<모죠의 일지> 모죠 작가님이 응원합니다.",
+      "episodeNo": 72,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=72&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/72/thumbnail_202x120_82f02239-7f86-4f7a-a5f2-57a9bc12aabe.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<데드라이프> 후렛샤/임진국 작가님이 응원합니다.",
+      "episodeNo": 73,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=73&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/73/thumbnail_202x120_ddb28eb3-7a0e-4480-ab9f-5ac5e93ada51.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<식스틴> 김인태 작가님이 응원합니다.",
+      "episodeNo": 74,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=74&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/74/thumbnail_202x120_758dcdf3-0b23-408d-bfcb-a04ab5d4defb.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<니편내편/맘마미안> 미티 작가님이 응원합니다.",
+      "episodeNo": 75,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=75&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/75/thumbnail_202x120_f8fc43f2-5ea5-4dbc-aa15-bc2f258662f1.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<냐한 남자> 올소 작가님이 응원합니다.",
+      "episodeNo": 76,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=76&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/76/thumbnail_202x120_77d65377-8d0f-43b2-8be7-a79e50ba9c95.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<꿈의 기업> 문지현 작가님이 응원합니다.",
+      "episodeNo": 77,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=77&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/77/thumbnail_202x120_726c3b34-03b0-41c2-9e65-a865e6fe10cd.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<연애혁명> 232 작가님이 응원합니다.",
+      "episodeNo": 78,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=78&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/78/thumbnail_202x120_c7ae01b1-e500-4cb0-a3f4-cb131ccf174e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<머리카락을 뽑으면> 이다몽 작가님이 응원합니다.",
+      "episodeNo": 79,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=79&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/79/thumbnail_202x120_ddc04595-6d50-4f85-a21a-a468daf5abad.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<좀비딸> 이윤창 작가님이 응원합니다.",
+      "episodeNo": 80,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=80&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/80/thumbnail_202x120_2e20b111-ad78-4177-adf8-52f120c9f5ff.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<뷰티풀 군바리> 설이/윤성원 작가님이 응원합니다.",
+      "episodeNo": 81,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=81&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/81/thumbnail_202x120_bc395b39-69fd-41b8-a04a-d3dfb8c4105c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<왕세자 입학도> 무번 작가님이 응원합니다.",
+      "episodeNo": 82,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=82&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/82/thumbnail_202x120_4e266db0-e42c-4046-b394-4af9e90335dd.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<얼굴천재> 지에이 작가님이 응원합니다.",
+      "episodeNo": 83,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=83&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/83/thumbnail_202x120_e13acefb-a21e-4c47-a59e-50c61a4c4f21.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<아이고 아이고> 하모 작가님이 응원합니다.",
+      "episodeNo": 84,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=84&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/84/thumbnail_202x120_031a0c0a-aa8f-4f1c-ba48-8e2e81eab969.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<안식의 밤> 연제원 작가님이 응원합니다.",
+      "episodeNo": 85,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=85&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/85/thumbnail_202x120_9c43b5fe-79e8-4dcc-ab96-b761c5e83504.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<버그> 해마/송지형 작가님이 응원합니다.",
+      "episodeNo": 86,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=86&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/86/thumbnail_202x120_351fd1e2-f608-40c9-b365-cc65b421dcf8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<당신의 향수> 호우 작가님이 응원합니다.",
+      "episodeNo": 87,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=87&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/87/thumbnail_202x120_b36605b6-02f2-4643-848f-94239bc557c4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<원주민 공포만화> 원주민 작가님이 응원합니다.",
+      "episodeNo": 88,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=88&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/88/thumbnail_202x120_5af2fa51-4452-41e0-91d0-bb07b9df0706.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<내일> 라마 작가님이 응원합니다.",
+      "episodeNo": 89,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=89&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/89/thumbnail_202x120_41737a8d-1dbd-4c31-913e-bb2c67b36aba.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<닥터앤닥터 육아일기> 닥터베르 작가님이 응원합니다.",
+      "episodeNo": 90,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=90&week=mon&listSortOrder=ASC&listPage=3",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/90/thumbnail_202x120_41653473-5c7f-4b99-a923-ed1934162551.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<찬란하지 않아도 괜찮아> 까마중 작가님이 응원합니다.",
+      "episodeNo": 91,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=91&week=mon&listSortOrder=ASC&listPage=4",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/91/thumbnail_202x120_331b86c6-8b6b-4066-98ad-9a83cd41738c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "<고수> 류기운/문정후 작가님이 응원합니다.",
+      "episodeNo": 92,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=92&week=mon&listSortOrder=ASC&listPage=4",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/92/thumbnail_202x120_b2c68b68-6f8d-4dcd-bdf9-f57da7ad2231.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

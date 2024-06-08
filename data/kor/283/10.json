@@ -1,0 +1,18 @@
+{
+  "title": "10화",
+  "episodeNo": 10,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=570502&no=10&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/570502/10/inst_thumbnail_20130808122900.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/570502/10/58cae372d049590118b49722eb424539_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/10/58cae372d049590118b49722eb424539_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/10/58cae372d049590118b49722eb424539_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/10/58cae372d049590118b49722eb424539_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/10/58cae372d049590118b49722eb424539_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/10/58cae372d049590118b49722eb424539_006.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

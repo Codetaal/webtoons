@@ -1,0 +1,17 @@
+{
+  "title": "1화 멤버소개 : 나니",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=387518&no=1&week=mon&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/387518/1/inst_thumbnail_20110929171000.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/387518/1/af58306265d9560b8d77678b9396cf49_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/387518/1/af58306265d9560b8d77678b9396cf49_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/387518/1/af58306265d9560b8d77678b9396cf49_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/387518/1/af58306265d9560b8d77678b9396cf49_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/387518/1/af58306265d9560b8d77678b9396cf49_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

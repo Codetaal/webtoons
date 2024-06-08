@@ -1,0 +1,595 @@
+{
+  "id": 2605,
+  "title": "AI가 세상을 지배한다면",
+  "synopsis": "한국은 최첨단 AI 개발에 성공한다. 그 후 100년, 세상은 AI를 지도자로 맞이한다. 기술 발전의 특이점이 온 세상. 삭막하고도, 기괴한 풍경을 그린 SF 옴니버스.",
+  "author": "네이버 웹툰",
+  "rating": "9.95",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/755674/thumbnail/thumbnail_IMAG19_5f820191-3a2f-4cd4-adae-11ef2a011387.jpg"
+  },
+  "episodes": [
+    {
+      "title": "0화 세대교체",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=755674&no=1&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/1/thumbnail_202x120_2010c692-7a44-4473-8f7c-377eb4e3929e.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "1화 테스트 #1",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=755674&no=2&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/2/thumbnail_202x120_15b0d6a4-af20-4a9c-bf0e-f0eb506c25ac.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "2화 테스트 #2",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=755674&no=3&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/3/thumbnail_202x120_0f15c24d-324b-4282-bbca-a65f40a83373.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "3화 최고의 친구 #1",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=755674&no=4&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/4/thumbnail_202x120_dfa9493c-04ab-4bda-a9ec-9ffb8e698188.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "4화 최고의 친구 #2",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=755674&no=5&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/5/thumbnail_202x120_8dcf9b02-87f5-47e3-a476-fed5f9ddb56c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "5화 최고의 친구 #3",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=755674&no=6&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/6/thumbnail_202x120_0ac78a42-1eee-4e04-acf7-62898bf03475.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "6화 최고의 친구 #4",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=755674&no=7&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/7/thumbnail_202x120_c5aa1d16-626e-456c-a9cc-c0a8a64bcda7.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "7화 최고의 친구 #5",
+      "episodeNo": 8,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=755674&no=8&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/8/thumbnail_202x120_59162fb4-921a-49b4-b6a0-b1f91dcb3e61.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "8화 최고의 친구 #6",
+      "episodeNo": 9,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/9/thumbnail_202x120_66a1e95a-c6af-473f-b787-d4157a3777d3.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "9화 불행한 남자 #1",
+      "episodeNo": 10,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/10/thumbnail_202x120_4cca4a10-ecf8-4414-96d4-f6114c28aa31.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "10화 불행한 남자 #2",
+      "episodeNo": 11,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/11/thumbnail_202x120_4e41ba3e-4578-428d-8408-0e34e2b7b875.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "11화 불행한 남자 #3",
+      "episodeNo": 12,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/12/thumbnail_202x120_20d3d4da-e4f0-4bc9-a5f4-b845ff121732.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "12화 불행한 남자 #4",
+      "episodeNo": 13,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/13/thumbnail_202x120_41f93b55-41b9-4239-8433-4d3d3847d8c4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "13화 우주 장례식 #1",
+      "episodeNo": 14,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/14/thumbnail_202x120_0f4e9cca-8a56-4a9c-bde4-c5edce224cc4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "14화 우주 장례식 #2",
+      "episodeNo": 15,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/15/thumbnail_202x120_3ca394dd-9e02-4e7b-b9cb-a22f9e8438e8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "15화 우주 장례식 #3",
+      "episodeNo": 16,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/16/thumbnail_202x120_ac2c4404-af38-49b0-8eea-2b0c617605a7.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "16화 우주 장례식 #4",
+      "episodeNo": 17,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/17/thumbnail_202x120_1da7afcf-f575-41cf-940e-2d0a672586b8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "17화 바이러스 #1",
+      "episodeNo": 18,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/18/thumbnail_202x120_7c2fdfc4-87be-4f2f-86fe-a7a00cc04e98.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "18화 바이러스 #2",
+      "episodeNo": 19,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/19/thumbnail_202x120_654e1042-c42c-4ad5-9d78-2ad5ead73621.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "19화 바이러스 #3",
+      "episodeNo": 20,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/20/thumbnail_202x120_87642a07-c73c-4276-8fbf-6ff4f15164a0.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "20화 바이러스 #4",
+      "episodeNo": 21,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/21/thumbnail_202x120_f98f8e3b-f401-4936-ad1e-ed281c5e5cee.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "21화 바이러스 #5",
+      "episodeNo": 22,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/22/thumbnail_202x120_f79cb598-b7e2-42f0-a227-51fa7fbe2bcf.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "22화 바이러스 #6",
+      "episodeNo": 23,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/23/thumbnail_202x120_174776dc-f404-45e5-8f24-e4b90fb6f505.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "23화 바이러스 #7",
+      "episodeNo": 24,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/24/thumbnail_202x120_ddaa4ffe-adb6-4c3b-963a-f96cf527dd2a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "24화 진정한 음악가 #1",
+      "episodeNo": 25,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/25/thumbnail_202x120_46e61208-774c-4121-bf28-7325dbcef53d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "25화 진정한 음악가 #2",
+      "episodeNo": 26,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/26/thumbnail_202x120_646d0544-6298-446c-8382-059585ce8d09.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "26화 진정한 음악가 #3",
+      "episodeNo": 27,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/27/thumbnail_202x120_751ad448-146e-4ea0-b956-7469f6e76dce.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "27화 진정한 음악가 #4",
+      "episodeNo": 28,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/28/thumbnail_202x120_74c63baf-a395-4a0a-aa7d-ca7a7ac39764.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "28화 진정한 음악가 #5",
+      "episodeNo": 29,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/29/thumbnail_202x120_362ab0c4-577f-451c-a0db-99ee9339dea9.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "29화 점쟁이 #1",
+      "episodeNo": 30,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/30/thumbnail_202x120_2fd14a6e-d535-4c14-9298-0a2942b0cb50.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "30화 점쟁이 #2",
+      "episodeNo": 31,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/31/thumbnail_202x120_1fa47251-3d94-4752-860b-3ff3c76f3c40.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "31화 점쟁이 #3",
+      "episodeNo": 32,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/32/thumbnail_202x120_0f2d6ed1-a158-4f46-94f3-fa891c4c5efd.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "32화 점쟁이 #4",
+      "episodeNo": 33,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/33/thumbnail_202x120_5293b7b4-8a68-48d1-bd93-61d450a14a5b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "33화 점쟁이 #5",
+      "episodeNo": 34,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/34/thumbnail_202x120_fc9196f9-53d6-4aac-8696-b6448d7f3fe4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "34화 점쟁이 #6",
+      "episodeNo": 35,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/35/thumbnail_202x120_ed82d80c-08a7-45c8-83b4-8c7b8300d35a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "35화 사후세계 #1",
+      "episodeNo": 36,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/36/thumbnail_202x120_13fab620-f0b8-40c9-a612-5f35901e4400.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "36화 사후세계 #2",
+      "episodeNo": 37,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/37/thumbnail_202x120_c1f6ca2c-0294-48c1-96a4-c0e23d49a4ea.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "37화 사후세계 #3",
+      "episodeNo": 38,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/38/thumbnail_202x120_f3f289a2-a269-4d9b-88d1-ba0aa180586a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "38화 구세주 #1",
+      "episodeNo": 39,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/39/thumbnail_202x120_3d2edbdc-3e6a-43df-b8de-d43e4146b88a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "39화 구세주 #2",
+      "episodeNo": 40,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/40/thumbnail_202x120_ba09bc8d-b81a-4be7-ba19-e5952f463163.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "40화 구세주 #3",
+      "episodeNo": 41,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/41/thumbnail_202x120_107bcf3e-bdce-4492-939e-987569375372.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "41화 구세주 #4",
+      "episodeNo": 42,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/42/thumbnail_202x120_fb721408-d508-4762-baed-fa61f11065b4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "42화 구세주 #5",
+      "episodeNo": 43,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/43/thumbnail_202x120_7b27e26b-180d-4dce-8813-e5497df5f5d6.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "43화 구세주 #6",
+      "episodeNo": 44,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/44/thumbnail_202x120_fa07c9cf-6ccd-4e68-a46e-5a8ce0f900cb.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "44화 구세주 #7",
+      "episodeNo": 45,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/45/thumbnail_202x120_5ef89a29-c001-4b86-a9f3-3b137be67a77.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "45화 구세주 #8",
+      "episodeNo": 46,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/46/thumbnail_202x120_a4147557-f324-463f-a204-ead075de9708.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "46화 구세주 #9",
+      "episodeNo": 47,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/47/thumbnail_202x120_67dc3878-0d64-4970-b85e-e676d4abe520.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "47화 구세주 #10",
+      "episodeNo": 48,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/48/thumbnail_202x120_fdce8b27-2b0a-4616-8a68-2e438ceaa6fc.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "48화 구세주 #11",
+      "episodeNo": 49,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/49/thumbnail_202x120_762ab03f-4318-42d7-a025-48f580633411.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "49화 구세주 #12",
+      "episodeNo": 50,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/50/thumbnail_202x120_fe84a47b-860a-46b6-aa7c-d9a8d861edd7.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "50화 구세주 #13",
+      "episodeNo": 51,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/51/thumbnail_202x120_b857ebc2-7540-46f9-8c39-a03a8ab08687.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "51화 에필로그",
+      "episodeNo": 52,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/52/thumbnail_202x120_1e959325-7af7-4e83-ae8a-de0e1d21e660.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "후기",
+      "episodeNo": 53,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755674/53/thumbnail_202x120_1f12c82d-3d81-4e62-b8c5-e65d7f9f189a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

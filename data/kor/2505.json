@@ -1,0 +1,903 @@
+{
+  "id": 2505,
+  "title": "검은인간",
+  "synopsis": "너의 흉터도, 너의 두 눈도, 그리고... 너의 힘까지! 지금부터 모든 걸 바꿔줄게.",
+  "author": "네이버 웹툰",
+  "rating": "9.98",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/718021/thumbnail/thumbnail_IMAG19_61666ef1-df7a-443e-bc58-90626beaa4de.jpg"
+  },
+  "episodes": [
+    {
+      "title": "1화 - 가족",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=718021&no=1&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/1/optimized_thumbnail_202x120_5b12d203-9053-4655-bda3-f79795ad213c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "2화 - 성장",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=718021&no=2&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/2/optimized_thumbnail_202x120_b84e31ce-27f8-4cf7-b456-74d4df5b1ed5.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "3화 - 새로운 시작",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=718021&no=3&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/3/optimized_thumbnail_202x120_e0010d39-a49e-4d6e-8646-984600769123.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "4화 - 만남",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=718021&no=4&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/4/thumbnail_202x120_011fb7de-2ebf-4b3a-9a4a-10b7e99eb40b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "5화 - 학교",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=718021&no=5&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/5/optimized_thumbnail_202x120_9e942a85-80bc-4764-a382-235db3b5b1f8.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "6화 - 싸움",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=718021&no=6&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/6/optimized_thumbnail_202x120_30481a7a-bd19-48f1-937c-8862001d0b8c.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "7화 - 친구",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=718021&no=7&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/7/optimized_thumbnail_202x120_771e2ea3-83d6-4134-b9ae-c8dbeb4f717b.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "8화 - 다시 만난 깜장이",
+      "episodeNo": 8,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/8/optimized_thumbnail_202x120_4f91e8a6-bb3a-4d32-982a-64da9f5c4168.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "9화 - 기억",
+      "episodeNo": 9,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/9/thumbnail_202x120_4a49636d-fd11-464c-8a2a-7f39546dcfc4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "10화 - 수상한 친구",
+      "episodeNo": 10,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/10/thumbnail_202x120_4b2cd2a7-4aee-4067-9386-583a606d2ebb.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "11화 - 끝까지",
+      "episodeNo": 11,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/11/thumbnail_202x120_ab519848-14b0-4e43-ac32-14265b37739f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "12화 - 잊힌 기억",
+      "episodeNo": 12,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/12/optimized_thumbnail_202x120_f11faa10-7f68-432e-be1d-44501860e893.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "13화 - 금요일 (1/2)",
+      "episodeNo": 13,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/13/optimized_thumbnail_202x120_7c9dcd27-1638-4a58-a9a0-9f9b4fc8ca8c.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "14화 - 금요일 (2/2)",
+      "episodeNo": 14,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/14/optimized_thumbnail_202x120_f918639e-70aa-4cff-8454-dc3ed7a4d1da.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "15화 - 할아버지",
+      "episodeNo": 15,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/15/optimized_thumbnail_202x120_083303c6-24da-4313-aa18-d396a6d1ce6d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "16화 - 가족 식사 (1/2)",
+      "episodeNo": 16,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/16/thumbnail_202x120_b3995294-868f-4970-bf59-b8a9b4eeb535.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "17화 - 가족 식사 (2/2)",
+      "episodeNo": 17,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/17/optimized_thumbnail_202x120_a9459b1c-4e97-49dd-9d61-baeb7c474bb8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "18화 - 형",
+      "episodeNo": 18,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/18/optimized_thumbnail_202x120_4496dec7-ff05-4b45-bbc9-740f7635883d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "19화 - 진짜 친구",
+      "episodeNo": 19,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/19/optimized_thumbnail_202x120_07deef24-e0ec-4687-b74a-03217609032e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "20화 - 마음",
+      "episodeNo": 20,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/20/optimized_thumbnail_202x120_ffa74bef-1bfe-4ce3-a1bc-19884c1505eb.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "21화 - 병문안",
+      "episodeNo": 21,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/21/optimized_thumbnail_202x120_f8a6a6dc-2f6a-46f6-9e8a-070aa0f4d627.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "22화 - 잘못된 싸움",
+      "episodeNo": 22,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/22/optimized_thumbnail_202x120_f09a5f09-794d-49d7-852b-f6c78d2706b8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "23화 - 깜장이의 정체",
+      "episodeNo": 23,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/23/optimized_thumbnail_202x120_8db855d1-e071-4bc2-989f-e308fbd3efaf.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "24화 - 10년 전 과거 (1)",
+      "episodeNo": 24,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/24/thumbnail_202x120_4d435b10-f11d-484f-a0a0-53ffad96b76b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "25화 - 10년 전 과거 (2)",
+      "episodeNo": 25,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/25/optimized_thumbnail_202x120_6a28305d-637a-43bf-9c81-cfe1b1ba9526.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "26화 - 10년 전 과거 (3)",
+      "episodeNo": 26,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/26/optimized_thumbnail_202x120_31601e60-01e4-4d3b-8e8d-150c785658b8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "27화 - 10년 전 과거 (4)",
+      "episodeNo": 27,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/27/thumbnail_202x120_cb9cdc5e-eff2-4e48-aa88-4691b6a7fe81.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "28화 - 10년 전 과거 (5)",
+      "episodeNo": 28,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/28/thumbnail_202x120_db8a06a3-ad11-4ee5-9c31-aa5bbc1586b6.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "29화 - 강건의 선택",
+      "episodeNo": 29,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/29/thumbnail_202x120_38501e51-af5a-4834-8bc2-5f605aead87a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "30화 - 서호의 선택",
+      "episodeNo": 30,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/30/thumbnail_202x120_736947c0-7814-4d62-bbdf-d3af9784a4aa.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "31화 - 휴대폰",
+      "episodeNo": 31,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/31/thumbnail_202x120_4f5b8982-121c-4b8e-8ef1-5f4f2208a55a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "32화 - 마주침",
+      "episodeNo": 32,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/32/thumbnail_202x120_99dc6e78-0c46-4265-8bf3-0c5cbf8e9d3d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "33화 - 회상",
+      "episodeNo": 33,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/33/thumbnail_202x120_4f8adeca-d8c8-43ab-b755-9fe110f03b59.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "34화 - 수상한 사람",
+      "episodeNo": 34,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/34/thumbnail_202x120_052c5fac-cea4-4b40-aa02-54c18542035e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "35화 - 행복",
+      "episodeNo": 35,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/35/thumbnail_202x120_446a9936-3269-4c7c-9132-c3ba0c2583df.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "36화 - 마지막 통화",
+      "episodeNo": 36,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/36/thumbnail_202x120_45a8fc15-867f-4941-a92d-9634cac9baed.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "37화 - 기습",
+      "episodeNo": 37,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/37/thumbnail_202x120_a3284327-75fb-4b91-9f17-af0ef530436f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "38화 - 괴물",
+      "episodeNo": 38,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/38/thumbnail_202x120_70e75c04-358d-4a67-b486-0e890735903b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "39화 - 납치",
+      "episodeNo": 39,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/39/thumbnail_202x120_64e63b1a-3ee6-4df7-91be-d87ea32843bb.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "40화 - 함정",
+      "episodeNo": 40,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/40/thumbnail_202x120_f356dfb7-377e-4c8c-873d-fccc18bffca8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "41화 - 마지막 발악",
+      "episodeNo": 41,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/41/thumbnail_202x120_a3c95f4b-03fd-4704-96f7-3a9c6e9eb8fe.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "42화 - 돌아온 기억",
+      "episodeNo": 42,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/42/thumbnail_202x120_b2227889-4e79-4b18-a0ab-53b52bedc057.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "43화 - 각성",
+      "episodeNo": 43,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/43/thumbnail_202x120_8505d1f3-2d66-424b-993b-3ab9d6e07ba3.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "44화 - 빈자리",
+      "episodeNo": 44,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/44/thumbnail_202x120_cff98963-1c1d-450a-9ffe-2f57b12bb710.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "45화 - 괴물의 탄생",
+      "episodeNo": 45,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/45/thumbnail_202x120_54c6a052-33f4-4309-bc8b-47bfda340473.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "특별편 - 깜장이의 하루",
+      "episodeNo": 46,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/46/thumbnail_202x120_387bc210-efc4-42a6-9420-7a288e35cf6c.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 1화 - 1년",
+      "episodeNo": 47,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/47/thumbnail_202x120_e54816e7-02d0-4a54-84ea-dadfa732621f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 2화 - 증명",
+      "episodeNo": 48,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/48/thumbnail_202x120_47577081-605a-472a-8aab-ce051536c417.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 3화 - 압도",
+      "episodeNo": 49,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/49/thumbnail_202x120_f4b0c008-a20a-488d-bee6-ad0cebf59917.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 4화 - 깜장이",
+      "episodeNo": 50,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/50/thumbnail_202x120_012bf746-eb94-48ea-b06b-13107da3cef5.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 5화 - 뒤바뀐 입장",
+      "episodeNo": 51,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/51/thumbnail_202x120_835c9255-1c6a-46ab-a22b-e2873f704284.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 6화 - 혼자 앉던 식탁",
+      "episodeNo": 52,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/52/thumbnail_202x120_cfc5ed94-1fc6-4b02-9c97-8dcc33c6555e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 7화 - 불사신",
+      "episodeNo": 53,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/53/thumbnail_202x120_0a12625b-711f-4117-a2f3-fdf7b50c8b8e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 8화 - 조사",
+      "episodeNo": 54,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/54/thumbnail_202x120_1b3605be-8728-44b4-9827-1e5465593234.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 9화 - 협박",
+      "episodeNo": 55,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/55/thumbnail_202x120_74cfb612-51b9-46e6-9245-669a00b9cde2.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 10화 - 학교 생활",
+      "episodeNo": 56,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/56/thumbnail_202x120_365a8f88-1282-41c1-93ae-0f4f3320e226.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 11화 - 너는 어때?",
+      "episodeNo": 57,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/57/thumbnail_202x120_460aa7af-e704-436a-b575-47d0abe64c18.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 12화 - 널 좋아하는 이유",
+      "episodeNo": 58,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/58/thumbnail_202x120_e6b6d97f-76f9-4b51-8fcb-19abae635643.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 13화 - 용병",
+      "episodeNo": 59,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/59/thumbnail_202x120_1df4d0dd-2238-4e74-b619-36c572d5d537.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 14화 - 대면",
+      "episodeNo": 60,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/60/thumbnail_202x120_ff23e6d6-4d8e-47c2-a10e-016d056a4537.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 15화 - 불안정",
+      "episodeNo": 61,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/61/thumbnail_202x120_71707e89-4d63-470d-a8ca-9d3feba9ff80.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 16화 - 즐거운 시간",
+      "episodeNo": 62,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/62/thumbnail_202x120_ecbe5888-08bc-491e-8b27-b4a96b97dbf4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 17화 - 괴한",
+      "episodeNo": 63,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/63/thumbnail_202x120_d5ad0030-2765-487f-a5dd-60450796927a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 18화 - 제삿날",
+      "episodeNo": 64,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/64/thumbnail_202x120_39603912-5918-43cf-aeeb-3cff49c6df28.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 19화 - 응징",
+      "episodeNo": 65,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/65/thumbnail_202x120_95d43345-58ec-438e-807b-12156c392724.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 20화 - 형은 형 인생 살아야지",
+      "episodeNo": 66,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/66/thumbnail_202x120_c420e1bd-e8b7-43aa-a12e-130ab082647f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 21화 - 숨겨온 사실",
+      "episodeNo": 67,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/67/thumbnail_202x120_502b5807-d213-453f-9c0b-4f70bce077c0.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 22화 - 새아빠",
+      "episodeNo": 68,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/68/thumbnail_202x120_e3dc2cca-72e8-41f7-8227-d3af267b025f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 23화 - 연구의 방향",
+      "episodeNo": 69,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/69/thumbnail_202x120_86a68d04-d11c-4e28-a49e-4c94c295f128.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 24화 - 이박사의 죽음",
+      "episodeNo": 70,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/70/thumbnail_202x120_44599347-727d-4066-bc63-c3367fad7ee2.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 25화 - 사과",
+      "episodeNo": 71,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/71/thumbnail_202x120_438d39c3-fe7b-4c32-8b3b-0f156a740e5f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 26화 - 마지막 인사",
+      "episodeNo": 72,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/72/thumbnail_202x120_bc2dec3c-4be6-4a4c-950b-f329a089ef81.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 27화 - 복수의 날",
+      "episodeNo": 73,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/73/thumbnail_202x120_2d8b55b1-af7f-4a8b-a1ea-a444a90112f3.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 28화 - 가면",
+      "episodeNo": 74,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/74/thumbnail_202x120_0f0c9de1-6ac5-410e-a52c-010670112537.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 29화 - 연구발표",
+      "episodeNo": 75,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/75/thumbnail_202x120_949689de-efbc-472b-ad17-56a6e3562fef.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 30화 - 전력 전투",
+      "episodeNo": 76,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/76/thumbnail_202x120_51a6406e-676a-43fe-94c1-a28a8e2ef879.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 31화 - 업보",
+      "episodeNo": 77,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/77/thumbnail_202x120_42746b08-914d-4bc2-9160-429a3ac36138.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "2부 32화 - 작별",
+      "episodeNo": 78,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/78/thumbnail_202x120_7bf834cb-91c6-4a35-96b8-55329dfaa5e8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "마지막 화",
+      "episodeNo": 79,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/79/thumbnail_202x120_63583cc6-5b9f-441b-97a4-dbd9cac3fca8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "에필로그",
+      "episodeNo": 80,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/80/thumbnail_202x120_53652a9a-eca8-4c3a-b644-9b52300a8196.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "후기",
+      "episodeNo": 81,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/718021/81/thumbnail_202x120_a740b3df-d436-4ae8-996e-bd4607098546.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

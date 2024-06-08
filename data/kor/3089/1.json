@@ -1,0 +1,19 @@
+{
+  "title": "프롤로그",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=755694&no=1&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/755694/1/thumbnail_202x120_a4dbf7bf-a4b9-483a-b058-9993a16a5695.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/755694/1/e5f1f1441d34e1582a2e8e510f091005_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/755694/1/e5f1f1441d34e1582a2e8e510f091005_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/755694/1/e5f1f1441d34e1582a2e8e510f091005_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/755694/1/e5f1f1441d34e1582a2e8e510f091005_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/755694/1/e5f1f1441d34e1582a2e8e510f091005_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/755694/1/e5f1f1441d34e1582a2e8e510f091005_006.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/755694/1/e5f1f1441d34e1582a2e8e510f091005_007.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

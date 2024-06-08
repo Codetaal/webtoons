@@ -1,0 +1,15 @@
+{
+  "title": "후기",
+  "episodeNo": 57,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=183558&no=57&week=fri&listSortOrder=ASC&listPage=2",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/183558/57/inst_thumbnail_20110728154531.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/183558/57/df76ce6940c7d6779ece78b441dfd502_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/183558/57/df76ce6940c7d6779ece78b441dfd502_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/183558/57/df76ce6940c7d6779ece78b441dfd502_003.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

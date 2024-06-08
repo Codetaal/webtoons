@@ -1,0 +1,17 @@
+{
+  "title": "1화",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=570502&no=1&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/570502/1/inst_thumbnail_20130708193908.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/570502/1/49f38a7b2ac090d6d42e91c0293c7b08_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/1/49f38a7b2ac090d6d42e91c0293c7b08_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/1/49f38a7b2ac090d6d42e91c0293c7b08_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/1/49f38a7b2ac090d6d42e91c0293c7b08_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/1/49f38a7b2ac090d6d42e91c0293c7b08_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

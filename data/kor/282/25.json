@@ -1,0 +1,17 @@
+{
+  "title": "24화",
+  "episodeNo": 25,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=103391&no=25&week=wed&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/103391/25/inst_thumbnail_20100218181940.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/103391/25/1b2ea61dd715add61d86e55c8cc1acc7_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/25/1b2ea61dd715add61d86e55c8cc1acc7_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/25/1b2ea61dd715add61d86e55c8cc1acc7_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/25/1b2ea61dd715add61d86e55c8cc1acc7_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/25/1b2ea61dd715add61d86e55c8cc1acc7_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

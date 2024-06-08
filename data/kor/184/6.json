@@ -1,0 +1,17 @@
+{
+  "title": "7화&8화",
+  "episodeNo": 6,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=720120&no=6&week=mon&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/720120/6/optimized_thumbnail_202x120_453025ad-e79a-4dfa-b581-eccb07e9e715.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/720120/6/d9e0f42654a7aa08585b591e64d733c2_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/720120/6/d9e0f42654a7aa08585b591e64d733c2_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/720120/6/d9e0f42654a7aa08585b591e64d733c2_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/720120/6/d9e0f42654a7aa08585b591e64d733c2_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/720120/6/d9e0f42654a7aa08585b591e64d733c2_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

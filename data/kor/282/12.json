@@ -1,0 +1,16 @@
+{
+  "title": "11화",
+  "episodeNo": 12,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=103391&no=12&week=wed&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/103391/12/inst_thumbnail_20100105183158.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/103391/12/f500f961ce55543497084a74de21ce8b_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/12/f500f961ce55543497084a74de21ce8b_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/12/f500f961ce55543497084a74de21ce8b_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/12/f500f961ce55543497084a74de21ce8b_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

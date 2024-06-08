@@ -1,0 +1,16 @@
+{
+  "title": "23화",
+  "episodeNo": 24,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=103391&no=24&week=wed&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/103391/24/inst_thumbnail_20100216181249.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/103391/24/5468fe65061e1a43cdf80ed836fcada4_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/24/5468fe65061e1a43cdf80ed836fcada4_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/24/5468fe65061e1a43cdf80ed836fcada4_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/24/5468fe65061e1a43cdf80ed836fcada4_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

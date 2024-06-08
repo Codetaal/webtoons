@@ -1,0 +1,17 @@
+{
+  "title": "5화",
+  "episodeNo": 6,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=103391&no=6&week=wed&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/103391/6/inst_thumbnail_20091215170557.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/103391/6/3422532ce4c1578324bc1c755af33c4c_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/6/3422532ce4c1578324bc1c755af33c4c_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/6/3422532ce4c1578324bc1c755af33c4c_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/6/3422532ce4c1578324bc1c755af33c4c_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/6/3422532ce4c1578324bc1c755af33c4c_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

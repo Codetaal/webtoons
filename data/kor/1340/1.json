@@ -1,0 +1,22 @@
+{
+  "title": "프롤로그",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=679544&no=1&week=thu&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/679544/1/inst_thumbnail_20160615181511.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_006.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_007.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_008.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_009.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/679544/1/c5a48c380edcf3adcb570048244b60e3_010.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

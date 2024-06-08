@@ -1,0 +1,16 @@
+{
+  "title": "<하루> 오늘 작가님이 응원합니다.",
+  "episodeNo": 43,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=740079&no=43&week=mon&listSortOrder=ASC&listPage=2",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/740079/43/thumbnail_202x120_e0bb76cc-eb3b-4b1d-9b57-98ad1a329594.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/740079/43/cf4d1de0553dbf9db9956b6172aac252_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/740079/43/cf4d1de0553dbf9db9956b6172aac252_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/740079/43/cf4d1de0553dbf9db9956b6172aac252_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/740079/43/cf4d1de0553dbf9db9956b6172aac252_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

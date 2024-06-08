@@ -1,0 +1,16 @@
+{
+  "title": "마음의 소리 1화 <진실>",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=20853&no=1&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/20853/1/inst_thumbnail_20853_1.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/20853/1/6f56ff76c1dfeaaf57699cd13d61cc89_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/20853/1/6f56ff76c1dfeaaf57699cd13d61cc89_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/20853/1/6f56ff76c1dfeaaf57699cd13d61cc89_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/20853/1/6f56ff76c1dfeaaf57699cd13d61cc89_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

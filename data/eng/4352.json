@@ -1,0 +1,837 @@
+{
+  "id": 4352,
+  "title": "God Tribe",
+  "synopsis": "Latde, a member of a near-extinct God Tribe called The Hwan Tribe, is being raised in the hands of the Carnivore Tribe on the remote Carnivore Island, far away from the mainland. The Hwan Tribe members being raised on the island are sent away to the Hwan Continent upon reaching adulthood, and Latde’s older brother Latz has already left the island to live a new life in their homeland. But as Latde nears adulthood, the secret of the island is revealed, plunging it into turmoil.",
+  "author": "Agu_JUNU,SEOPASS",
+  "rating": "9.50",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220603_113/1654211284859GIcl8_JPEG/8GodTribe_landingpage_mobile.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Ep.1 - Carnivore Island (1)",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep1-carnivore-island-1/viewer?title_no=4352&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220608_109/1654651262598PGtDa_PNG/thumb_1654651147457435217.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 2 - Carnivore Island (2)",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-2-carnivore-island-2/viewer?title_no=4352&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220608_16/16546513947542c4Eq_PNG/thumb_1654651315614435220.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 3 - Carnivore Island (3)",
+      "episodeNo": 3,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-3-carnivore-island-3/viewer?title_no=4352&episode_no=3",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220608_152/1654651716998G1vFg_PNG/thumb_1654651442947435233.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 4 - Carnivore Island (4)",
+      "episodeNo": 4,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-4-carnivore-island-4/viewer?title_no=4352&episode_no=4",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220608_86/1654651645697ErMsQ_PNG/thumb_1654651608147435244.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 5 - Carnivore Island (5)",
+      "episodeNo": 5,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-5-carnivore-island-5/viewer?title_no=4352&episode_no=5",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220609_92/1654708032150Ild2X_PNG/thumb_1654707986571435259.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 6 - Carnivore Island (6)",
+      "episodeNo": 6,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-6-carnivore-island-6/viewer?title_no=4352&episode_no=6",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220609_192/16547081265936xwTJ_PNG/thumb_1654708076859435268.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 7 - Carnivore Island (7)",
+      "episodeNo": 7,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-7-carnivore-island-7/viewer?title_no=4352&episode_no=7",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220609_116/16547082012141aOL3_PNG/thumb_1654708165903435274.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 8 - Carnivore Island (8)",
+      "episodeNo": 8,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-8-carnivore-island-8/viewer?title_no=4352&episode_no=8",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220609_250/1654708294796J3sI1_PNG/thumb_1654708247687435287.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 9 - Carnivore Island (9)",
+      "episodeNo": 9,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-9-carnivore-island-9/viewer?title_no=4352&episode_no=9",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220616_100/1655313122545h0ygn_PNG/thumb_1655313077733435296.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 10 - Carnivore Island (10)",
+      "episodeNo": 10,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-10-carnivore-island-10/viewer?title_no=4352&episode_no=10",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220623_174/1655919313467YQe0b_PNG/thumb_16559187304384352103.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 11 - Carnivore Island (11)",
+      "episodeNo": 11,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-11-carnivore-island-11/viewer?title_no=4352&episode_no=11",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220629_128/1656499855428et5X9_PNG/thumb_16564994154244352114.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 12 - Carnivore Island (12)",
+      "episodeNo": 12,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-12-carnivore-island-12/viewer?title_no=4352&episode_no=12",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220629_86/1656501090917MedK7_PNG/thumb_16565006724454352125.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 13 - Carnivore Island (13)",
+      "episodeNo": 13,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-13-carnivore-island-13/viewer?title_no=4352&episode_no=13",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220629_290/1656501445155WqjjN_PNG/thumb_16565011536964352136.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 14 - Carnivore Island (End)",
+      "episodeNo": 14,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-14-carnivore-island-end/viewer?title_no=4352&episode_no=14",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220720_263/1658306330892eP8bu_PNG/thumb_16583061599284352147.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 15 - Aquamar (1)",
+      "episodeNo": 15,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-15-aquamar-1/viewer?title_no=4352&episode_no=15",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220720_213/1658306508544sf2jG_PNG/thumb_16583063577064352156.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 16 - Aquamar (2)",
+      "episodeNo": 16,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-16-aquamar-2/viewer?title_no=4352&episode_no=16",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220720_2/1658306635870P6zo2_PNG/thumb_16583065447144352164.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 17 - Aquamar (3)",
+      "episodeNo": 17,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-17-aquamar-3/viewer?title_no=4352&episode_no=17",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220810_28/1660116871968oRK0D_PNG/thumb_16601165349314352177.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 18 - Aquamar (4)",
+      "episodeNo": 18,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-18-aquamar-4/viewer?title_no=4352&episode_no=18",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220810_281/1660126034883cAnLJ_PNG/thumb_16601258861064352181.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 19 - Aquamar (5)",
+      "episodeNo": 19,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-19-aquamar-5/viewer?title_no=4352&episode_no=19",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220810_110/1660126350442mX8Ee_PNG/thumb_16601260512154352190.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 20 - Aquamar (6)",
+      "episodeNo": 20,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-20-aquamar-6/viewer?title_no=4352&episode_no=20",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220831_39/1661934074067720lO_PNG/thumb_16619340553064352200.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 21 - Aquamar (7)",
+      "episodeNo": 21,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-21-aquamar-7/viewer?title_no=4352&episode_no=21",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220831_184/166194100776559Hr7_PNG/thumb_16619409322344352213.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 22 - Aquamar (8)",
+      "episodeNo": 22,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-22-aquamar-8/viewer?title_no=4352&episode_no=22",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220831_89/1661941694951HQK0v_PNG/thumb_16619410256404352229.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 23 - Aquamar (9)",
+      "episodeNo": 23,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-23-aquamar-9/viewer?title_no=4352&episode_no=23",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220921_193/1663750281836LPNVC_PNG/thumb_EN-GodT_EP023_01_08.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 24 - Maga Valley",
+      "episodeNo": 24,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-24-maga-valley/viewer?title_no=4352&episode_no=24",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220921_191/1663751091576VUyWv_PNG/thumb_EN-GodT_EP024_01_07.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 25 - Portlion",
+      "episodeNo": 25,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-25-portlion/viewer?title_no=4352&episode_no=25",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20220921_195/1663751171326wFJnf_PNG/thumb_EN-GodT_EP025_01_04.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 26 - Portlion (2)",
+      "episodeNo": 26,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-26-portlion-2/viewer?title_no=4352&episode_no=26",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20221012_155/1665562294161JaxDu_PNG/thumb_16655615072723411_EN_GodT_EP026_01_08.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 27 - Portlion (3)",
+      "episodeNo": 27,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-27-portlion-3/viewer?title_no=4352&episode_no=27",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20221012_31/1665570820550BB953_PNG/thumb_16655706947798026_EN_GodT_EP027_01_14.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 28 - Portlion (4)",
+      "episodeNo": 28,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-28-portlion-4/viewer?title_no=4352&episode_no=28",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20221012_163/1665571060399bKH9H_PNG/thumb_16655708581222314_EN_GodT_EP028_01_06.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 29 - Portlion (5)",
+      "episodeNo": 29,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-29-portlion-5/viewer?title_no=4352&episode_no=29",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20221102_264/1667374901301Ln3he_PNG/thumb_16673748492394754_EN-GodT_EP029_01_11.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 30 - Portlion (6)",
+      "episodeNo": 30,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-30-portlion-6/viewer?title_no=4352&episode_no=30",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20221109_92/1667958762340nIlPa_PNG/thumb_16679587342553728_EN-GodT_EP030_01_05.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 31 - Portlion (7)",
+      "episodeNo": 31,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-31-portlion-7/viewer?title_no=4352&episode_no=31",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20221112_268/16682299312603KOHp_PNG/thumb_16682299118445456_EN-GodT_EP031_01_03.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 32 - Portlion (8)",
+      "episodeNo": 32,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-32-portlion-8/viewer?title_no=4352&episode_no=32",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20221119_171/1668837714138aVq0H_PNG/thumb_16688376895264401_EN-GodT_EP032_01_10.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 33 - Portlion (9)",
+      "episodeNo": 33,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-33-portlion-9/viewer?title_no=4352&episode_no=33",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20221126_270/1669453006282oxxG5_PNG/thumb_16694529910044700_EN-GodT_EP033_01_06.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 34 - Portlion (10) (Season Finale)",
+      "episodeNo": 34,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/ep-34-portlion-10-season-finale/viewer?title_no=4352&episode_no=34",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20221203_29/1670034021125uE8vE_PNG/thumb_16700339180285345_EN-GodT_EP034_04_14.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 35 - Black Mountain (1) (Season 2 Premiere)",
+      "episodeNo": 35,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-35-black-mountain-1-season-2-premiere/viewer?title_no=4352&episode_no=35",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230810_193/169160111206505eez_PNG/thumb_16916010686003203_God_Tribe_Episode_35_-_Black_Mountain__1___final__0114.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 36 - Black Mountain (2) ",
+      "episodeNo": 36,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-36-black-mountain-2-/viewer?title_no=4352&episode_no=36",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230810_291/1691601226989VLHXU_PNG/thumb_16916011440001186_God_Tribe_Episode_36_-_Black_Mountain__2___final__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 37 - Grietcon (1)",
+      "episodeNo": 37,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-37-grietcon-1/viewer?title_no=4352&episode_no=37",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230810_20/1691601316138aTNfK_PNG/thumb_16916012558417390_God_Tribe_Episode_37_-_Grietcon__1___final__0047.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 38 - Grietcon (2)",
+      "episodeNo": 38,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-38-grietcon-2/viewer?title_no=4352&episode_no=38",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230810_39/1691601426092eGGVV_PNG/thumb_16916013465763515_God_Tribe_Episode_38_-_Grietcon__2___final__0115.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 39 - Grietcon (3)",
+      "episodeNo": 39,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-39-grietcon-3/viewer?title_no=4352&episode_no=39",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230810_20/16916017369096LXJO_PNG/thumb_16916014565085066_God_Tribe_Episode_39_-_Grietcon__3___final__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 40 - Grietcon (4)",
+      "episodeNo": 40,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-40-grietcon-4/viewer?title_no=4352&episode_no=40",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230810_158/1691601855482vwkGF_PNG/thumb_16916017638253107_God_Tribe_Episode_40_-_Grietcon__4___final__0099.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 41 - Grietcon (End)",
+      "episodeNo": 41,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-41-grietcon-end/viewer?title_no=4352&episode_no=41",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230819_133/1692380579129iN4Fl_PNG/thumb_1692380455019274_God_Tribe_Episode_41_-_Grietcon__End___final__0057.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 42 - Black Mountain (3)",
+      "episodeNo": 42,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-42-black-mountain-3/viewer?title_no=4352&episode_no=42",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230827_241/1693080039644gD4vt_PNG/thumb_16930799676228966_God_Tribe_Episode_42_-_Black_Mountain__3___final__0021.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 43 - Black Mountain (4)",
+      "episodeNo": 43,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-43-black-mountain-4/viewer?title_no=4352&episode_no=43",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230827_80/1693080199624D5uon_PNG/thumb_16930801130913952_God_Tribe_Episode_43_-_Black_Mountain__4___final__0017.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 44 - Black Mountain (5)",
+      "episodeNo": 44,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-44-black-mountain-5/viewer?title_no=4352&episode_no=44",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230827_287/1693080387065KDGro_PNG/thumb_16930803182399786_God_Tribe_Episode_44_-_Black_Mountain__5___final__0047.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 45 - Black Mountain (6)",
+      "episodeNo": 45,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-45-black-mountain-6/viewer?title_no=4352&episode_no=45",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230827_5/1693080567133gsfpl_PNG/thumb_16930804674668335_God_Tribe_Episode_45_-_Black_Mountain__6___final__0017.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 46 - Uchiba Forest",
+      "episodeNo": 46,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-46-uchiba-forest/viewer?title_no=4352&episode_no=46",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230827_8/16930807681802tLUq_PNG/thumb_1693080660102526_God_Tribe_Episode_46_-_TBD__final__0110.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 47 - Herbivore Valley (1)",
+      "episodeNo": 47,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-47-herbivore-valley-1/viewer?title_no=4352&episode_no=47",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230913_130/1694589920149FuG8T_PNG/thumb_1694589879476399_God_Tribe_Episode_47_-_Herbivore_Valley__1___final__0019.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 48 - Herbivore Valley (2)",
+      "episodeNo": 48,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-48-herbivore-valley-2/viewer?title_no=4352&episode_no=48",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230922_43/1695350211772MyVOi_PNG/thumb_1695350190017208_God_Tribe_Episode_48_-_Herbivore_Valley__2___final__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 49 - Herbivore Valley (3)",
+      "episodeNo": 49,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-49-herbivore-valley-3/viewer?title_no=4352&episode_no=49",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231006_126/1696561523363Ut8w2_PNG/thumb_16965614865418083_God_Tribe_Episode_49_-_Herbivore_Valley__3___final__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 50 - Herbivore Valley (4)",
+      "episodeNo": 50,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-50-herbivore-valley-4/viewer?title_no=4352&episode_no=50",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231011_225/1696992626233Ro6cV_PNG/thumb_16969925922086775_God_Tribe_Episode_50_-_Herbivore_Valley__4___final__0012.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 51 - Herbivore Valley (5)",
+      "episodeNo": 51,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-51-herbivore-valley-5/viewer?title_no=4352&episode_no=51",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231013_295/1697149422981EayVo_PNG/thumb_16971493685251842_God_Tribe_Episode_51_-_Herbivore_Valley__5___final__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 52 - Herbivore Valley (6)",
+      "episodeNo": 52,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-52-herbivore-valley-6/viewer?title_no=4352&episode_no=52",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231013_127/1697149599972Eip8A_PNG/thumb_1697149533107619_God_Tribe_Episode_52_-_Herbivore_Valley__6___final__0094.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 53 - Herbivore Valley (7)",
+      "episodeNo": 53,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-53-herbivore-valley-7/viewer?title_no=4352&episode_no=53",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231013_108/1697149855480hzrLz_PNG/thumb_16971496925693136_God_Tribe_Episode_53_-_Herbivore_Valley__7___final__0103.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 54 - Herbivore Valley (8)",
+      "episodeNo": 54,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-54-herbivore-valley-8/viewer?title_no=4352&episode_no=54",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231104_114/1699077677292VR1WJ_PNG/thumb_16990776539718546_God_Tribe_Episode_54_-_Herbivore_Valley__8___final__0010.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 55 - Herbivore Valley (9)",
+      "episodeNo": 55,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-55-herbivore-valley-9/viewer?title_no=4352&episode_no=55",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231109_32/1699499017154ueC0g_PNG/thumb_1699498997313273_God_Tribe_Episode_55_-_Herbivore_Valley__9___final__0013.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 56 - Herbivore Valley (10)",
+      "episodeNo": 56,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-56-herbivore-valley-10/viewer?title_no=4352&episode_no=56",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231121_300/1700552981359xuQvv_PNG/thumb_17005529537329218_God_Tribe_Episode_56_-_Herbivore_Valley__10___final__001.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 57 - Aquamar (10)",
+      "episodeNo": 57,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-57-aquamar-10/viewer?title_no=4352&episode_no=57",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231129_50/1701222732975pFR3g_PNG/thumb_17012226748801471_God_Tribe_Episode_57_-_Aquamar__10___final__0004.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 58 - Aquamar (11)",
+      "episodeNo": 58,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-58-aquamar-11/viewer?title_no=4352&episode_no=58",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231205_272/17017584238751cAiM_PNG/thumb_1701758378365132_God_Tribe_Episode_58_-_Aquamar__11___final__0012.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 59 - Aquamar (End)",
+      "episodeNo": 59,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-59-aquamar-end/viewer?title_no=4352&episode_no=59",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231214_183/1702532401417LdrNH_PNG/thumb_17025323541418006_God_Tribe_Episode_59_-_Aquamar__End___final__0028.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 60 - Lime Continent (1)",
+      "episodeNo": 60,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-60-lime-continent-1/viewer?title_no=4352&episode_no=60",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231223_159/17033166161771gMav_PNG/thumb_17033165905802949_God_Tribe_Episode_60_-_Lime_Continent__1___final__0017.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 61 - Lime Continent (2)",
+      "episodeNo": 61,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-61-lime-continent-2/viewer?title_no=4352&episode_no=61",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231229_106/17038329563514pv9v_PNG/thumb_17038329199962926_God_Tribe_Episode_61_-_Lime_Continent__2___final__0010.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 62 - Lime Continent (3)",
+      "episodeNo": 62,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-62-lime-continent-3/viewer?title_no=4352&episode_no=62",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240103_147/1704246176457illcH_PNG/thumb_1704246134147788_God_Tribe_Episode_62_-_Lime_Continent__3___final__0039.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 63 - Lime Continent (4)",
+      "episodeNo": 63,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-63-lime-continent-4/viewer?title_no=4352&episode_no=63",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240106_178/1704521119322VH6lb_PNG/thumb_17045210811973076_God_Tribe_Episode_63_-_Lime_Continent__4___final__0023.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 64 - Lime Continent (5)",
+      "episodeNo": 64,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-64-lime-continent-5/viewer?title_no=4352&episode_no=64",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240111_186/1704956829011mv5zD_PNG/thumb_17049567997492522_God_Tribe_Episode_64_-_Lime_Continent__5___final__0017.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 65 - Lime Continent (End)",
+      "episodeNo": 65,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-65-lime-continent-end/viewer?title_no=4352&episode_no=65",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240119_115/1705632381307A88cK_PNG/thumb_17056323451381330_God_Tribe_Episode_65_-_Lime_Continent__End___final__0008.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 66 - Cross Continent (1)",
+      "episodeNo": 66,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-66-cross-continent-1/viewer?title_no=4352&episode_no=66",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240124_291/1706065692111xgIcL_PNG/thumb_17060656609157814_God_Tribe_Episode_66_-_Cross_Continent__1___final__0019.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 67 - Cross Continent (2)",
+      "episodeNo": 67,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-67-cross-continent-2/viewer?title_no=4352&episode_no=67",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240202_238/170683938127823P8J_PNG/thumb_17068393619727749_God_Tribe_Episode_67_-_Cross_Continent__2___final__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 68 - Cross Continent (3)",
+      "episodeNo": 68,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-68-cross-continent-3/viewer?title_no=4352&episode_no=68",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240214_18/1707880066053xVfAX_PNG/thumb_17078800417766265_God_Tribe_Episode_68_-_Cross_Continent__3___final__0016.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 69 - Cross Continent (4)",
+      "episodeNo": 69,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-69-cross-continent-4/viewer?title_no=4352&episode_no=69",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240222_65/17085697388901zSVO_PNG/thumb_17085697120402942_God_Tribe_Episode_69_-_Cross_Continent__4___final__0011.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 70 - Cross Continent (5)",
+      "episodeNo": 70,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-70-cross-continent-5/viewer?title_no=4352&episode_no=70",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240227_42/1709004095577mj7Dj_PNG/thumb_17090040796268703_God_Tribe_Episode_70_-_Cross_Continent__5___final__0006.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 71 - Final Battle (1)",
+      "episodeNo": 71,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-71-final-battle-1/viewer?title_no=4352&episode_no=71",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240302_109/1709361016935Jh1lp_PNG/thumb_17093609757876018_God_Tribe_Episode_71_-_Final_Battle__1___final__0014.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 72 - Final Battle (2)",
+      "episodeNo": 72,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-72-final-battle-2/viewer?title_no=4352&episode_no=72",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240308_227/1709883397066O8oO8_PNG/thumb_17098833725164325_God_Tribe_Episode_72_-_Final_Battle__2___final__0046.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 73 - Final Battle (3)",
+      "episodeNo": 73,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-73-final-battle-3/viewer?title_no=4352&episode_no=73",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240316_66/171057301709094BS0_PNG/thumb_17105729939852499_God_Tribe_Episode_73_-_Final_Battle__3___final__0012.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 74 - Final Battle (4)",
+      "episodeNo": 74,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-74-final-battle-4/viewer?title_no=4352&episode_no=74",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240323_229/1711185897394HAok2_PNG/thumb_17111858816317640_God_Tribe_Episode_74_-_Final_Battle__4___final__0004.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "(S2) Ep. 75 - (Series Finale)",
+      "episodeNo": 75,
+      "url": "https://m.webtoons.com/en/fantasy/god-tribe/s2-ep-75-series-finale/viewer?title_no=4352&episode_no=75",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240330_140/1711777867965irwvl_PNG/thumb_17117778333116848_God_Tribe_Episode_75_-__Series_Finale___final__0016.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

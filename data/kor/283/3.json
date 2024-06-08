@@ -1,0 +1,18 @@
+{
+  "title": "3화",
+  "episodeNo": 3,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=570502&no=3&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/570502/3/inst_thumbnail_20130715162703.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/570502/3/907001ebc21b2617f3ad19eb2fae8dcd_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/3/907001ebc21b2617f3ad19eb2fae8dcd_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/3/907001ebc21b2617f3ad19eb2fae8dcd_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/3/907001ebc21b2617f3ad19eb2fae8dcd_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/3/907001ebc21b2617f3ad19eb2fae8dcd_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/3/907001ebc21b2617f3ad19eb2fae8dcd_006.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

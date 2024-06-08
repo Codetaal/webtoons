@@ -1,0 +1,144 @@
+{
+  "id": 1540,
+  "title": "연의 편지",
+  "synopsis": "​짧았던 여름방학이 끝나고 만난 마법같은 시간.. 그때 우리는 친구였을까?정말 궁금해. 이렇게 다정한 네가 누군지..​여름 특선 10부작.",
+  "author": "네이버 웹툰",
+  "rating": "9.98",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/713872/thumbnail/thumbnail_IMAG19_b703e7bd-489d-4b20-80fe-7e1d69fa3d84.jpg"
+  },
+  "episodes": [
+    {
+      "title": "1화",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=713872&no=1&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/1/thumbnail_202x120_4128c2c3-f052-47d9-9a8f-1a665dcca0d3.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "2화",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=713872&no=2&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/2/thumbnail_202x120_f8283450-6f15-4694-8e12-fbb3d171cacc.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "3화",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=713872&no=3&week=sun&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/3/thumbnail_202x120_b5801507-9149-44c6-a34e-5648b1c77d46.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "4화",
+      "episodeNo": 4,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/4/thumbnail_202x120_f0a7d63f-5ef2-4b60-b68a-368a2882aacf.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "5화",
+      "episodeNo": 5,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/5/thumbnail_202x120_f6d43f5f-0d75-48eb-b586-be31147b1bc8.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "6화",
+      "episodeNo": 6,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/6/thumbnail_202x120_624cf246-d340-4762-966d-3f3c42d5479b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "7화",
+      "episodeNo": 7,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/7/thumbnail_202x120_a150bbc4-3b7a-40c3-a43d-ed2441c25dda.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "8화",
+      "episodeNo": 8,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/8/thumbnail_202x120_2327a7aa-3ce7-404d-8d2f-43adfe6b9b48.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "9화",
+      "episodeNo": 9,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/9/thumbnail_202x120_146c795e-9f2d-441c-85cb-3b41ade4547b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "10화",
+      "episodeNo": 10,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/10/thumbnail_202x120_19d96568-6000-4b7c-bc0b-6167f7416e6b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "후기",
+      "episodeNo": 11,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/11/thumbnail_202x120_d549850d-7b96-4788-b236-a6eb31114377.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "연의 편지 플레이툰",
+      "episodeNo": 12,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/713872/12/thumbnail_202x120_5e743d0d-a2d4-409d-8633-69259463a453.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

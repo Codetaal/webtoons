@@ -1,0 +1,17 @@
+{
+  "title": "9화",
+  "episodeNo": 9,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=570502&no=9&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/570502/9/inst_thumbnail_20130805145921.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/570502/9/13450085bd91854b38550807509e1bf6_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/9/13450085bd91854b38550807509e1bf6_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/9/13450085bd91854b38550807509e1bf6_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/9/13450085bd91854b38550807509e1bf6_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/9/13450085bd91854b38550807509e1bf6_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

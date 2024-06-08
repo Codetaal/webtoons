@@ -1,0 +1,16 @@
+{
+  "title": "2화",
+  "episodeNo": 3,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=103391&no=3&week=wed&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/103391/3/inst_thumbnail_20091203174023.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/103391/3/9efbf3206a9954dc9e8fbb6f5b744d1f_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/3/9efbf3206a9954dc9e8fbb6f5b744d1f_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/3/9efbf3206a9954dc9e8fbb6f5b744d1f_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/103391/3/9efbf3206a9954dc9e8fbb6f5b744d1f_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

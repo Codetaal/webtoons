@@ -1,0 +1,34 @@
+{
+  "id": 80,
+  "title": "The Cliff",
+  "synopsis": "Tensions rise as two men wait for someone to save their lives after falling and getting stranded on the cliffside of a dangerous hiking trail. When days pass with no indication of help, the cliff becomes a stage for confrontation, violence, and madness.",
+  "author": "SungdaeOh",
+  "rating": "9.32",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140702_52/1404270273146xPr8J_JPEG/40_ECA088EBB2BDEAB780.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Ep. 1",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/thriller/the-cliff/ep-1/viewer?title_no=80&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140623_141/1403519924519qnknI_JPEG/thecliff_1.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 2",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/thriller/the-cliff/ep-2/viewer?title_no=80&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140623_116/1403519918659GbLGg_JPEG/thecliff_2.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "id": 2410,
+  "title": "텃밭부 사건일지",
+  "synopsis": "우리는 매일 텃밭에서 잡초와 사건을 캐지요!",
+  "author": "네이버 웹툰",
+  "rating": "9.97",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/732259/thumbnail/thumbnail_IMAG19_706dbdcc-bea5-4933-be8c-ac739aff3d04.jpg"
+  },
+  "episodes": [
+    {
+      "title": "프롤로그",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=732259&no=1&week=wed&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/1/thumbnail_202x120_89c32137-6c0c-4453-ac83-8cb2ff1d2d78.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep.01 욕망의 전학생",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=732259&no=2&week=wed&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/2/thumbnail_202x120_5895bd3a-d928-4251-9f09-fe2a3cccacd4.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep.02 텃밭부의 첫 작물",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=732259&no=3&week=wed&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/3/thumbnail_202x120_bdbd86ad-6fea-4064-9d87-9a90c50fc919.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep.03 선생님은 오이 그럴까 (1)",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=732259&no=4&week=wed&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/4/thumbnail_202x120_aed943ff-8967-46a7-8a0f-61e378942f3a.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep.04 선생님은 오이 그럴까 (2)",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=732259&no=5&week=wed&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/5/thumbnail_202x120_1d9b972e-10f7-4f6d-ae27-635c65a93438.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep.05 선생님은 오이 그럴까 (3)",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=732259&no=6&week=wed&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/6/thumbnail_202x120_060dd397-90ad-4517-adff-3afcc1459457.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep.06 핏방울 같은 토마토가 뚝뚝 (1)",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=732259&no=7&week=wed&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/7/thumbnail_202x120_21f200fb-ed4f-490c-b090-224923c8f748.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep.07 핏방울 같은 토마토가 뚝뚝 (2)",
+      "episodeNo": 8,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/8/thumbnail_202x120_9e6481b8-8a57-4c3f-bdb1-115e961ff39a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.08 핏방울 같은 토마토가 뚝뚝 (3)",
+      "episodeNo": 9,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/9/thumbnail_202x120_b8b020bf-6ddd-4cb8-b63f-9dd53ed8f0d9.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.09 핏방울 같은 토마토가 뚝뚝 (4)",
+      "episodeNo": 10,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/10/thumbnail_202x120_e32b7961-a898-4b94-9b2f-c205e33abc68.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.10 포기는 가을배추 셀 때나 하는 말 (1)",
+      "episodeNo": 11,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/11/thumbnail_202x120_f7837dfb-dbd6-4f83-a049-461e98d77174.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.11 포기는 가을배추 셀 때나 하는 말 (2)",
+      "episodeNo": 12,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/12/thumbnail_202x120_249c13f0-5ef8-4e6e-b4a0-611fbd89d237.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.12 포기는 가을배추 셀 때나 하는 말 (3)",
+      "episodeNo": 13,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/13/thumbnail_202x120_81cd5dc9-eba5-4ae2-800c-99cb0f642220.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.13 포기는 가을배추 셀 때나 하는 말 (4)",
+      "episodeNo": 14,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/14/thumbnail_202x120_2b5e6014-2bf6-402c-aba0-d219dd7a16f6.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.14 포기는 가을배추 셀 때나 하는 말 (5)",
+      "episodeNo": 15,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/15/thumbnail_202x120_b7c589b9-9a90-4ec0-8c59-3e0e1cb9305a.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.15 근대 넌 아욱이야 (1)",
+      "episodeNo": 16,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/16/thumbnail_202x120_f75ea7d3-68e4-42e8-b482-f755e0fce874.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.16 근대 넌 아욱이야 (2)",
+      "episodeNo": 17,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/17/thumbnail_202x120_9a3150b0-79ac-495b-bd95-074291ffba21.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.17 너무너무 완벽한 남자 (1)  ",
+      "episodeNo": 18,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/18/thumbnail_202x120_9a6f4c47-05e4-46bd-8726-50f43d322cac.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.18 너무너무 완벽한 남자 (2) ",
+      "episodeNo": 19,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/19/thumbnail_202x120_e76a5e81-b0fb-45ab-8dd6-ccf5b7d7c635.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.19 시들시들 시금치 파워업 (1)   ",
+      "episodeNo": 20,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/20/thumbnail_202x120_ec17671d-1d88-442d-bbf1-ffee45be2a86.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.20 시들시들 시금치 파워업 (2)",
+      "episodeNo": 21,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/21/thumbnail_202x120_7884eaa8-5037-4a9d-b5ed-bd2a5892e888.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.21 시들시들 시금치 파워업 (3)",
+      "episodeNo": 22,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/22/thumbnail_202x120_146c2681-fc8e-48b9-a8f3-355798d1aa92.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.22 시들시들 시금치 파워업 (4)",
+      "episodeNo": 23,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/23/thumbnail_202x120_cd84e1f6-fa89-43eb-affa-8d86baf9ff23.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.23 시들시들 시금치 파워업 (5)  ",
+      "episodeNo": 24,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/24/thumbnail_202x120_34f00d6b-00b5-4fdf-b7df-d97e23753814.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.24 그 때 생강 나?",
+      "episodeNo": 25,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/25/thumbnail_202x120_ffc178be-3e29-453b-ac7e-351b7eed2674.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.25 추억이 방울방울 토마토 (1)",
+      "episodeNo": 26,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/26/thumbnail_202x120_79202289-1a7c-405c-806b-59358499209e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.26 추억이 방울방울 토마토 (2)",
+      "episodeNo": 27,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/27/thumbnail_202x120_513dc2a3-0f45-41c0-9240-405decb0c45b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.27 추억이 방울방울 토마토 (3)",
+      "episodeNo": 28,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/28/thumbnail_202x120_c72a8c35-c4ba-4a3f-b5eb-585113867e1b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.28 추억이 방울방울 토마토 (4)",
+      "episodeNo": 29,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/29/thumbnail_202x120_86d8c74f-985f-4feb-a445-9d1a94e25cbd.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.29 옥수수 털리는 액션 (1)",
+      "episodeNo": 30,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/30/thumbnail_202x120_53c8d8a4-19f8-49e4-815e-7c12465e456f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.30 옥수수 털리는 액션 (2)",
+      "episodeNo": 31,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/31/thumbnail_202x120_cd2d408e-735a-4d97-8b7c-a436452fe622.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.31 들깨발랄 로맨스 (1)   ",
+      "episodeNo": 32,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/32/thumbnail_202x120_a4c9fbac-2bf7-4675-b0b1-423170799d1e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.32 들깨발랄 로맨스 (2)",
+      "episodeNo": 33,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/33/thumbnail_202x120_c8408aa5-d27e-418e-9ff5-021368b365a1.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.33 들깨발랄 로맨스 (3)",
+      "episodeNo": 34,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/34/thumbnail_202x120_a039f3d7-7307-464d-844e-42c64bd6d675.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.34 상추를 치료해 줄 사람 어디 없나 (1)",
+      "episodeNo": 35,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/35/thumbnail_202x120_5633c5f8-ef20-4276-9d33-c83046f08688.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.35 상추를 치료해 줄 사람 어디 없나 (2)",
+      "episodeNo": 36,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/36/thumbnail_202x120_9f9ec3cb-5626-410a-a98a-058bd2c09dee.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.36 상추를 치료해 줄 사람 어디 없나 (3)",
+      "episodeNo": 37,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/37/thumbnail_202x120_149681fa-3e7e-4734-9d15-c95c67a1aa38.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.37 배추도 사, 무도 사 (1)",
+      "episodeNo": 38,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/38/thumbnail_202x120_54032031-2aa8-4338-9fc9-0a99cc1f03a9.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.38 배추도 사, 무도 사 (2)",
+      "episodeNo": 39,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/39/thumbnail_202x120_1e1c9321-31c1-43e6-9b08-a0fac1bd2596.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.39 브로콜리 너맞아 공범",
+      "episodeNo": 40,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/40/thumbnail_202x120_0bf73fb3-d5f9-484b-ab59-b2a970151df3.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.40 참 외로운 소년 (1)",
+      "episodeNo": 41,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/41/thumbnail_202x120_6d91d0c4-863a-459e-bd2f-c890cc13e6c2.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.41 참 외로운 소년 (2)",
+      "episodeNo": 42,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/42/thumbnail_202x120_74df1545-6924-468f-b3fe-409a964791d9.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.42 붉은 고추밭 살인사건 (1)   ",
+      "episodeNo": 43,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/43/thumbnail_202x120_7a3cc480-f5a1-48e7-b8a9-8a8e21fd627f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.43 붉은 고추밭 살인사건 (2)",
+      "episodeNo": 44,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/44/thumbnail_202x120_4d4865d3-b91a-457c-9091-098aa892b7c3.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.44 붉은 고추밭 살인사건 (3)",
+      "episodeNo": 45,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/45/thumbnail_202x120_3ef0227f-9037-4a60-a545-2fa7652b81f2.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.45 가지가지 갖가지 미스터리 (1)",
+      "episodeNo": 46,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/46/thumbnail_202x120_65c21d44-6443-47aa-99e9-639b036c228c.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.46 가지가지 갖가지 미스터리 (2)",
+      "episodeNo": 47,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/47/thumbnail_202x120_37f67078-33ba-467e-bb4d-5f8648d6d567.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.47 까도 까도 양파같은 반전 (1)",
+      "episodeNo": 48,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/48/thumbnail_202x120_e97b9166-e294-45ac-a599-db2b0be78588.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.48 까도 까도 양파같은 반전 (2)",
+      "episodeNo": 49,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/49/thumbnail_202x120_a06e5e5b-8446-4e87-9173-cea74c1ed551.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.49 그럴 수박에 없는 사연 (1)",
+      "episodeNo": 50,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/50/thumbnail_202x120_a4e428d2-0a85-4205-bb85-649ca40036fe.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.50 그럴 수박에 없는 사연 (2)",
+      "episodeNo": 51,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/51/thumbnail_202x120_fdbea593-fd37-4544-9776-2b0149c93d87.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.51 고구마웠어",
+      "episodeNo": 52,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/52/thumbnail_202x120_c88130c2-aff9-430c-a1af-47f74ed058e1.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.52 텃밭부의 마지막 작물",
+      "episodeNo": 53,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/53/thumbnail_202x120_db234bd2-6e06-4edc-9b70-a5d3540af8ae.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "Ep.53 회심의 전학생. 마지막화",
+      "episodeNo": 54,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/54/thumbnail_202x120_95340598-ed7b-431c-b4ba-5caf3200ec44.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "후기",
+      "episodeNo": 55,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/732259/55/thumbnail_202x120_44742e15-4eb6-4251-bf89-94f3d06a8113.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

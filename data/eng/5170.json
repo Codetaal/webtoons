@@ -1,0 +1,815 @@
+{
+  "id": 5170,
+  "title": "I Was the Final Boss",
+  "synopsis": "Baphomet is the ruthless, dispassionate lord of the Abyssal Tower, a mysterious, monster-filled dungeon plaguing the human world. Many Hunters seek to defeat him and bring the tower down to no avail. Despite his demonic power, Baphomet grows curious about humanity. One day, Baphomet is defeated by Raven, the strongest Hunter, and realizes that his true wish is to be just like the humans he previously looked down on. In death, he is granted his wish, as he awakens as a human – without his powers!",
+  "author": "LuckS",
+  "rating": "9.61",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230310_44/1678397426495505to_JPEG/6IWastheFinalBoss_landingpage_mobile.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Ep. 1 - Appraiser of the Tower",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-1-appraiser-of-the-tower/viewer?title_no=5170&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230301_24/1677617891739yzPRm_PNG/thumb_16776177546534742_I_Was_the_Final_Boss_Ep__1_-_Appraiser_of_the_Tower_0039.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 2 - Surprise Attack (1)",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-2-surprise-attack-1/viewer?title_no=5170&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230301_146/1677618004375NiKj1_PNG/thumb_16776179316596380_I_Was_the_Final_Boss_Ep__2_-_Surprise_Attack__1__0049.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 3 - Surprise Attack (2)",
+      "episodeNo": 3,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-3-surprise-attack-2/viewer?title_no=5170&episode_no=3",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230301_162/1677618380114KkAKA_PNG/thumb_16776181553463813_I_Was_the_Final_Boss_Ep__3_-_Surprise_Attack__2__0045.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 4 - Recruitment",
+      "episodeNo": 4,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-4-recruitment/viewer?title_no=5170&episode_no=4",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230301_261/1677619190906Ww6TM_PNG/thumb_16776190753616859_I_Was_the_Final_Boss_Ep__4_-_Recruitment_0012.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 5 - Orientation (1)",
+      "episodeNo": 5,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-5-orientation-1/viewer?title_no=5170&episode_no=5",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230301_258/1677619289279Gov2O_PNG/thumb_16776192092469173_I_Was_the_Final_Boss_Ep__5_-_Orientation__1__0154.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 6 - Orientation (2)",
+      "episodeNo": 6,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-6-orientation-2/viewer?title_no=5170&episode_no=6",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230301_35/1677619536810RObQG_PNG/thumb_16776193254038157_I_Was_the_Final_Boss_Ep__6_-_Orientation__2__0182.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 7 - Orientation (3)",
+      "episodeNo": 7,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-7-orientation-3/viewer?title_no=5170&episode_no=7",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230301_164/1677619850362TE8jV_PNG/thumb_16776195611068730_I_Was_the_Final_Boss_Ep__7_-_Orientation__3__0151.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 8 - Hunting Protocol (1)",
+      "episodeNo": 8,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-8-hunting-protocol-1/viewer?title_no=5170&episode_no=8",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230301_135/1677619968177vd3a4_PNG/thumb_16776198681848452_I_Was_the_Final_Boss_Ep__8_-_Hunting_Protocol__1__0129.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 9 - Hunting Protocol (2)",
+      "episodeNo": 9,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-9-hunting-protocol-2/viewer?title_no=5170&episode_no=9",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230322_296/16794444471818S4hO_PNG/thumb_16794443806598501_I_Was_the_Final_Boss_Ep_9_-_Hunting_Protocol__2__0016.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 10 - Hunting Protocol (3)",
+      "episodeNo": 10,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-10-hunting-protocol-3/viewer?title_no=5170&episode_no=10",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_156/1679600952037kkl05_PNG/thumb_16796008973407686_I_Was_the_Final_Boss_Ep_10_-_Hunting_Protocol__3__0103.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 11 - Hunting Protocol (4)",
+      "episodeNo": 11,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-11-hunting-protocol-4/viewer?title_no=5170&episode_no=11",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_192/16796011305219dvU7_PNG/thumb_16796010740211154_I_Was_the_Final_Boss_Ep__11_-_Hunting_Protocol__4__0040.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 12 - True Beginning",
+      "episodeNo": 12,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-12-true-beginning/viewer?title_no=5170&episode_no=12",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_87/1679601297026jIL4N_PNG/thumb_1679601215082127_I_Was_the_Final_Boss_Ep__12_-_True_Beginning_0167.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 13 - Tower Exclusivity (1)",
+      "episodeNo": 13,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-13-tower-exclusivity-1/viewer?title_no=5170&episode_no=13",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_291/1679601466013XqIKV_PNG/thumb_16796013895141879_I_Was_the_Final_Boss_Ep__13_-_Tower_Exclusivity__1__0125.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 14 - Tower Exclusivity (2)",
+      "episodeNo": 14,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-14-tower-exclusivity-2/viewer?title_no=5170&episode_no=14",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_19/1679601690215B09fK_PNG/thumb_16796016059177451_I_Was_the_Final_Boss_Ep__14_-_Tower_Exclusivity__2__0059.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 15 - Tower Exclusivity (3)",
+      "episodeNo": 15,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-15-tower-exclusivity-3/viewer?title_no=5170&episode_no=15",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_242/1679601846132A5Dss_PNG/thumb_16796017707824443_I_Was_the_Final_Boss_Ep__15_-_Tower_Exclusivity__3__0095.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 16 - Tower Exclusivity (4)",
+      "episodeNo": 16,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-16-tower-exclusivity-4/viewer?title_no=5170&episode_no=16",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_109/1679602022305iifXq_PNG/thumb_16796019800746286_I_Was_the_Final_Boss_Ep__16_-_Tower_Exclusivity__4__0006.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 17 - Tower Exclusivity (5)",
+      "episodeNo": 17,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-17-tower-exclusivity-5/viewer?title_no=5170&episode_no=17",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_168/1679602183739F64Br_PNG/thumb_16796021058268563_I_Was_the_Final_Boss_Ep__17_-_Tower_Exclusivity__5__0063.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 18 - Tower Exclusivity (6)",
+      "episodeNo": 18,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-18-tower-exclusivity-6/viewer?title_no=5170&episode_no=18",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_147/16796023571300L2tS_PNG/thumb_16796022469925711_I_Was_the_Final_Boss_Ep__18_-_Tower_Exclusivity__6__0019.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 19 - Demon God Baphomet (1)",
+      "episodeNo": 19,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-19-demon-god-baphomet-1/viewer?title_no=5170&episode_no=19",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230324_127/167960271213551kHh_PNG/thumb_16796026125099280_I_Was_the_Final_Boss_Ep__19_-_Demon_God_Baphomet__1__011.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 20 - Demon God Baphomet (2)",
+      "episodeNo": 20,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-20-demon-god-baphomet-2/viewer?title_no=5170&episode_no=20",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230426_99/1682456536822Fsca1_PNG/thumb_16824564096108605_I_Was_the_Final_Boss_Ep__20_-_Demon_God_Baphomet__2__014.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 21 - Exclusivity",
+      "episodeNo": 21,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-21-exclusivity/viewer?title_no=5170&episode_no=21",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230426_6/1682502495948PCHu7_PNG/thumb_16825024476327763_I_Was_the_Final_Boss_Ep__21_-_Exclusivity_0006.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 22 - Rank (1)",
+      "episodeNo": 22,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-22-rank-1/viewer?title_no=5170&episode_no=22",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230426_18/16825026414473sw0S_PNG/thumb_16825025137597423_I_Was_the_Final_Boss_Ep__22_-_Rank__1__0008.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 23 - Rank (2)",
+      "episodeNo": 23,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-23-rank-2/viewer?title_no=5170&episode_no=23",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230426_228/1682502672478Tna7b_PNG/thumb_16825026507873376_I_Was_the_Final_Boss_Ep__23_-_Rank__2__0018.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 24 - Rank (3)",
+      "episodeNo": 24,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-24-rank-3/viewer?title_no=5170&episode_no=24",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230426_21/1682502716302IsO0A_PNG/thumb_1682502692446958_I_Was_the_Final_Boss_Ep__24_-_Rank__3___final__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 25 - Rank (4)",
+      "episodeNo": 25,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-25-rank-4/viewer?title_no=5170&episode_no=25",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230503_131/1683108356556e1F2U_PNG/thumb_16831083233057714_I_Was_the_Final_Boss_Ep__25_-_Rank__4__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 26 - Canine (1)",
+      "episodeNo": 26,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-26-canine-1/viewer?title_no=5170&episode_no=26",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230510_100/1683720809362hwaVV_PNG/thumb_16837207832333781_I_Was_the_Final_Boss_Ep__26_-_Canine__1__0017.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 27 - Canine (2)",
+      "episodeNo": 27,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-27-canine-2/viewer?title_no=5170&episode_no=27",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230524_147/1684922279466zIFq2_PNG/thumb_16849222448107520_I_Was_the_Final_Boss_Ep__27_-_Canine__2__0028.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 28 - Canine (3)",
+      "episodeNo": 28,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-28-canine-3/viewer?title_no=5170&episode_no=28",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230524_23/1684922463254O7zeE_PNG/thumb_16849222974558995_I_Was_the_Final_Boss_Ep__28_-_Canine__3__0014.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 29 - Canine (4)",
+      "episodeNo": 29,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-29-canine-4/viewer?title_no=5170&episode_no=29",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230531_285/1685529835684rJ5N7_PNG/thumb_16855297303885394_I_Was_the_Final_Boss_Ep__29_-_Canine__4__0002.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 30 - Canine (5)",
+      "episodeNo": 30,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-30-canine-5/viewer?title_no=5170&episode_no=30",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230621_294/1687344687351uOMU3_PNG/thumb_16873439348095795_I_Was_the_Final_Boss_Ep__30_-_Canine__5___final__0005.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 31 - Canine (6)",
+      "episodeNo": 31,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-31-canine-6/viewer?title_no=5170&episode_no=31",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230621_216/1687344877683VpExI_PNG/thumb_16873447101635936_I_Was_the_Final_Boss_Ep__31_-_Canine__6__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": " Ep. 32 - Canine (7)",
+      "episodeNo": 32,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-32-canine-7/viewer?title_no=5170&episode_no=32",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230621_116/1687345129569rEk5B_PNG/thumb_16873448937809640_I_Was_the_Final_Boss__Ep__32_-_Canine__7__0015.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": " Ep. 33 - Canine (8)",
+      "episodeNo": 33,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-33-canine-8/viewer?title_no=5170&episode_no=33",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230628_130/1687950582023QrzYr_PNG/thumb_16879503910097091_I_Was_the_Final_Boss_Ep__33_-_Canine__8__0002.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 34 - Stain (1)",
+      "episodeNo": 34,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-34-stain-1/viewer?title_no=5170&episode_no=34",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230712_111/1689155211570w3fVA_PNG/thumb_16891551601307341_I_Was_the_Final_Boss_Ep__34_-_Stain__1__0001.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 35 - Stain (2)",
+      "episodeNo": 35,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-35-stain-2/viewer?title_no=5170&episode_no=35",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230712_203/16891556969406CnVt_PNG/thumb_16891552287303088_I_Was_the_Final_Boss_Ep__35_-_Stain__2__0002.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": " Ep. 36 - Support Mission (1)",
+      "episodeNo": 36,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-36-support-mission-1/viewer?title_no=5170&episode_no=36",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230726_54/1690362233277gDarp_PNG/thumb_1690362197405820_I_Was_the_Final_Boss__Ep__36_-_Support_Mission__1__0021.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 37 - Support Mission (2)",
+      "episodeNo": 37,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-37-support-mission-2/viewer?title_no=5170&episode_no=37",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230802_233/1690971446956F2yN0_PNG/thumb_16909714055475648_I_Was_the_Final_Boss_Ep__37_-_Support_Mission__2__0012.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 38 - Support Mission (3)",
+      "episodeNo": 38,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-38-support-mission-3/viewer?title_no=5170&episode_no=38",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230809_34/1691570465358aoP4w_PNG/thumb_16915704173183646_I_Was_the_Final_Boss_Ep__38_-_Support_Mission__3__0010.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": " Ep. 39 - Support Mission (4)",
+      "episodeNo": 39,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-39-support-mission-4/viewer?title_no=5170&episode_no=39",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230823_214/1692788858481opSGs_PNG/thumb_16927886559477809_I_Was_the_Final_Boss__Ep__39_-_Support_Mission__4__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": " Ep. 40 - Co-op Mission",
+      "episodeNo": 40,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-40-co-op-mission/viewer?title_no=5170&episode_no=40",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230823_1/1692789073760yjCNK_PNG/thumb_16927888731582492_I_Was_the_Final_Boss__Ep__40_-_Co-op_Mission_0002.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 41 - Virtual Reality (1)",
+      "episodeNo": 41,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-41-virtual-reality-1/viewer?title_no=5170&episode_no=41",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230831_50/1693480716356ablmK_PNG/thumb_16934802319995364_I_Was_the_Final_Boss_Ep__41_-_Virtual_Reality_____0002.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 42 - Virtual Reality (2) ",
+      "episodeNo": 42,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-42-virtual-reality-2-/viewer?title_no=5170&episode_no=42",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230906_261/1694005415050VC3gk_PNG/thumb_16939972819317073_I_Was_the_Final_Boss_Ep__42_-_Virtual_Reality__2___final.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 43 - Virtual Reality (3)",
+      "episodeNo": 43,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-43-virtual-reality-3/viewer?title_no=5170&episode_no=43",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230913_238/1694609036728o2vsL_PNG/thumb_16946088782957255_IWastheFinalBoss_Ep43_Virtual_Reality_3__0007.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 44 - Virtual Reality (4)",
+      "episodeNo": 44,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-44-virtual-reality-4/viewer?title_no=5170&episode_no=44",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230920_12/1695214554700MgxHh_PNG/thumb_1695214070668853_I_Was_the_Final_Boss_Ep__44_-_Virtual_Reality__4__0015.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 45 - Virtual Reality (5)",
+      "episodeNo": 45,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-45-virtual-reality-5/viewer?title_no=5170&episode_no=45",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20230927_55/1695814570551IiJP1_PNG/thumb_16958112551521800_IWastheFinalBoss_Ep45_Virtual-Reality_5__005.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 46 - Virtual Reality (6)",
+      "episodeNo": 46,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-46-virtual-reality-6/viewer?title_no=5170&episode_no=46",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231011_8/1697035289522kVLxb_PNG/thumb_16970350120648973_I_Was_the_Final_Boss__Ep__46_-_Virtual_Reality__6__0020.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": " Ep. 47 - Corruption (1)",
+      "episodeNo": 47,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-47-corruption-1/viewer?title_no=5170&episode_no=47",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231011_147/16970354472121fJ9V_PNG/thumb_16970353045498327_I_Was_the_Final_Boss__Ep__47_-_Corruption__1__0011.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 48 - Corruption (2)",
+      "episodeNo": 48,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-48-corruption-2/viewer?title_no=5170&episode_no=48",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231018_69/1697628380812Hnryq_PNG/thumb_16976283219641276_I_Was_the_Final_Boss_Ep__48_-_Corruption__2__0005.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 49 - Corruption (3)",
+      "episodeNo": 49,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-49-corruption-3/viewer?title_no=5170&episode_no=49",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231025_147/1698228566118HPxBi_PNG/thumb_16982284661536517_I_Was_the_Final_Boss_Ep__49_-_Corruption__3__0021.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 50 - Corruption (4)",
+      "episodeNo": 50,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-50-corruption-4/viewer?title_no=5170&episode_no=50",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231102_22/1698856988014GtBDe_PNG/thumb_16988565803527972_I_Was_the_Final_Boss_Ep__50_-_Corruption__4__0005.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 51 - Corruption (5)",
+      "episodeNo": 51,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-51-corruption-5/viewer?title_no=5170&episode_no=51",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231108_225/1699441501895H9YWW_PNG/thumb_16994414183314509_I_Was_the_Final_Boss_Ep__51_-_Corruption__5__0005.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 52 - Downtime (1)",
+      "episodeNo": 52,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-52-downtime-1/viewer?title_no=5170&episode_no=52",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231115_71/1700047264622n5VWa_PNG/thumb_17000469897347758_I_Was_the_Final_Boss_Ep__52_-_Downtime__1__0018.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 53 - Downtime (2)",
+      "episodeNo": 53,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-53-downtime-2/viewer?title_no=5170&episode_no=53",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231122_291/1700649049208Kmeqh_PNG/thumb_17006489075074490_I_Was_the_Final_Boss_Ep__53_-_Downtime__2__0015.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 54 - Event (1)",
+      "episodeNo": 54,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-54-event-1/viewer?title_no=5170&episode_no=54",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231207_54/1701876211515pznLq_PNG/thumb_17018750804831045_I_Was_the_Final_Boss_Ep__54_-_Event__1__0003.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 55 - Event (2)",
+      "episodeNo": 55,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-55-event-2/viewer?title_no=5170&episode_no=55",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231207_84/1701877303957OKzjJ_PNG/thumb_1701876231203607_I_Was_the_Final_Boss_Ep__55_-_Event__2__0012.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 56 - Natural Order",
+      "episodeNo": 56,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-56-natural-order/viewer?title_no=5170&episode_no=56",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231214_69/1702488695423VXHfe_PNG/thumb_17024879744039868_I_Was_the_Final_Boss_Ep__56_-_Natural_Order_0001.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 57 - The Colony (1)",
+      "episodeNo": 57,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-57-the-colony-1/viewer?title_no=5170&episode_no=57",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231220_74/17030688217084lbrv_PNG/thumb_17030685633389643_I_Was_the_Final_Boss_Ep__57_-_The_Colony__1__0002.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 58 - The Colony (2)",
+      "episodeNo": 58,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-58-the-colony-2/viewer?title_no=5170&episode_no=58",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20231227_270/1703679815206HUrPo_PNG/thumb_17036730094022543_I_Was_the_Final_Boss_Ep__58_-_The_Colony__2__0005.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 59 - The Colony (3)",
+      "episodeNo": 59,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-59-the-colony-3/viewer?title_no=5170&episode_no=59",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240104_196/1704297444030XRr4d_PNG/thumb_17042967430019468_I_Was_the_Final_Boss_Ep__59_-_The_Colony__3__0008.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 60 - The Colony (4)",
+      "episodeNo": 60,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-60-the-colony-4/viewer?title_no=5170&episode_no=60",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240117_300/1705499902896spJdB_PNG/thumb_17054997371581710_I_Was_the_Final_Boss_Ep__60_-_The_Colony__4__0004.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 61 - Treason (1)",
+      "episodeNo": 61,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-61-treason-1/viewer?title_no=5170&episode_no=61",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240117_82/1705499977146NodkY_PNG/thumb_17054999296877058_I_Was_the_Final_Boss_Ep__61_-_Treason__1__0011.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 62 - Treason (2)",
+      "episodeNo": 62,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-62-treason-2/viewer?title_no=5170&episode_no=62",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240124_33/1706083287241NPH71_PNG/thumb_17060830945959197_I_Was_the_Final_Boss_Ep__62_-_Treason__2__0005.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 63 - Treason (3)",
+      "episodeNo": 63,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-63-treason-3/viewer?title_no=5170&episode_no=63",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240131_185/1706696744653x9nDC_PNG/thumb_1706696520529530_I_Was_the_Final_Boss_Ep__63_-_Treason__3__0008.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 64 - Treason (4)",
+      "episodeNo": 64,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-64-treason-4/viewer?title_no=5170&episode_no=64",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240131_158/1706696882593EbPEN_PNG/thumb_17066967578108673_I_Was_the_Final_Boss_Ep__64_-_Treason__4__0012.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 65 - Treason (5)",
+      "episodeNo": 65,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-65-treason-5/viewer?title_no=5170&episode_no=65",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240131_40/1706696986663pY2bI_PNG/thumb_1706696898143364_I_Was_the_Final_Boss_Ep__65_-_Treason__5__0009.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 66 - Treason (6)",
+      "episodeNo": 66,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-66-treason-6/viewer?title_no=5170&episode_no=66",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240207_103/1707309759241SnVDK_PNG/thumb_1707307223926499_I_Was_the_Final_Boss_Ep__66_-_Treason__6__0012.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 67 - Empty Dream (1)",
+      "episodeNo": 67,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-67-empty-dream-1/viewer?title_no=5170&episode_no=67",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240224_203/1708720192600fn2er_PNG/thumb_17087201248658268_I_Was_the_Final_Boss_Ep__67_-_Empty_Dream__1__0108.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 68 - Empty Dream (2)",
+      "episodeNo": 68,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-68-empty-dream-2/viewer?title_no=5170&episode_no=68",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240224_97/1708720378948qDCOX_PNG/thumb_17087202875715767_I_Was_the_Final_Boss_Ep__68_-_Empty_Dream__2__0053.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 69 - Night at the Colony",
+      "episodeNo": 69,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-69-night-at-the-colony/viewer?title_no=5170&episode_no=69",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240227_142/1709025422474BCMzh_PNG/thumb_17090205409516409_I_Was_the_Final_Boss_Ep__69_-_Night_at_the_Colony__1__00.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 70 - Violence (1)",
+      "episodeNo": 70,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-70-violence-1/viewer?title_no=5170&episode_no=70",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240305_209/1709586426715iwj8p_PNG/thumb_17095863502887715_I_Was_the_Final_Boss_Ep__70_-_Violence__1__0086.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 71 - Violence (2)",
+      "episodeNo": 71,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-71-violence-2/viewer?title_no=5170&episode_no=71",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240312_120/17102367611881wbQh_PNG/thumb_17102367459235090_I_Was_the_Final_Boss_Ep__71_-_Violence__2___final__0005.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 72 - Determination",
+      "episodeNo": 72,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-72-determination/viewer?title_no=5170&episode_no=72",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240316_141/1710544724187fEGxd_PNG/thumb_17105446694497647_I_Was_the_Final_Boss_Ep__72_-_Determination_0021.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 73 - Reward",
+      "episodeNo": 73,
+      "url": "https://m.webtoons.com/en/fantasy/i-was-the-final-boss/ep-73-reward/viewer?title_no=5170&episode_no=73",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20240326_109/1711390931615O09lJ_PNG/thumb_17113908649476642_I_Was_the_Final_Boss_Ep__73_-_Reward_0100.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

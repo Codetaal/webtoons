@@ -1,0 +1,17 @@
+{
+  "title": "4화",
+  "episodeNo": 4,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=570502&no=4&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/570502/4/inst_thumbnail_20130718144408.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/570502/4/1f2809ab535274984d0c34df21ab968e_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/4/1f2809ab535274984d0c34df21ab968e_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/4/1f2809ab535274984d0c34df21ab968e_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/4/1f2809ab535274984d0c34df21ab968e_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/4/1f2809ab535274984d0c34df21ab968e_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

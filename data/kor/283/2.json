@@ -1,0 +1,17 @@
+{
+  "title": "2화",
+  "episodeNo": 2,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=570502&no=2&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/570502/2/inst_thumbnail_20130711125206.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/570502/2/f02148b5d14efb5c7937407e1c3c4c9f_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/2/f02148b5d14efb5c7937407e1c3c4c9f_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/2/f02148b5d14efb5c7937407e1c3c4c9f_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/2/f02148b5d14efb5c7937407e1c3c4c9f_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/570502/2/f02148b5d14efb5c7937407e1c3c4c9f_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

@@ -1,0 +1,19 @@
+{
+  "title": "프롤로그",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=597478&no=1&week=mon&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/597478/1/inst_thumbnail_20131101201001.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/597478/1/e0a6b9385126d43857cfa6563dea5e3c_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/597478/1/e0a6b9385126d43857cfa6563dea5e3c_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/597478/1/e0a6b9385126d43857cfa6563dea5e3c_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/597478/1/e0a6b9385126d43857cfa6563dea5e3c_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/597478/1/e0a6b9385126d43857cfa6563dea5e3c_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/597478/1/e0a6b9385126d43857cfa6563dea5e3c_006.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/597478/1/e0a6b9385126d43857cfa6563dea5e3c_007.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}
