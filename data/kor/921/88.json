@@ -1,0 +1,16 @@
+{
+  "title": "88화 식스틴(1)",
+  "episodeNo": 88,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=119874&no=88&week=tue&listSortOrder=ASC&listPage=3",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/119874/88/inst_thumbnail_20100730030414.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/119874/88/fe4b14b6fefaf20009774d8ea7558bdb_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/88/fe4b14b6fefaf20009774d8ea7558bdb_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/88/fe4b14b6fefaf20009774d8ea7558bdb_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/88/fe4b14b6fefaf20009774d8ea7558bdb_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

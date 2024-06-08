@@ -1,0 +1,14 @@
+{
+  "title": "8화 카메라",
+  "episodeNo": 9,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=9&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/9/inst_thumbnail_20100416182949.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/150389/9/f78da8a9bd3e766ecef702e291b9aeff_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/9/f78da8a9bd3e766ecef702e291b9aeff_002.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

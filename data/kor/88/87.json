@@ -1,0 +1,16 @@
+{
+  "title": "1부 작가 후기",
+  "episodeNo": 87,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=552960&no=87&week=fri&listSortOrder=ASC&listPage=3",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/552960/87/inst_thumbnail_20150514151743.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/552960/87/28040e5a90cf915900ce64b7f5a68d91_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/552960/87/28040e5a90cf915900ce64b7f5a68d91_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/552960/87/28040e5a90cf915900ce64b7f5a68d91_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/552960/87/28040e5a90cf915900ce64b7f5a68d91_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

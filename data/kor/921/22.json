@@ -1,0 +1,16 @@
+{
+  "title": "22화 A.E. 1",
+  "episodeNo": 22,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=119874&no=22&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/119874/22/inst_thumbnail_20100225181756.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/119874/22/dd483c7246e1c26cf1633588834cf522_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/22/dd483c7246e1c26cf1633588834cf522_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/22/dd483c7246e1c26cf1633588834cf522_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/22/dd483c7246e1c26cf1633588834cf522_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

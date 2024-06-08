@@ -1,0 +1,16 @@
+{
+  "title": "7화 신입생",
+  "episodeNo": 8,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=8&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/8/inst_thumbnail_20100415185642.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/150389/8/ae961a4696a2a11601d14fc3757eb2b8_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/8/ae961a4696a2a11601d14fc3757eb2b8_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/8/ae961a4696a2a11601d14fc3757eb2b8_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/8/ae961a4696a2a11601d14fc3757eb2b8_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

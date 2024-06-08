@@ -1,0 +1,17 @@
+{
+  "title": "25화 야엘 로드(1)",
+  "episodeNo": 25,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=119874&no=25&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/119874/25/inst_thumbnail_20100304210700.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/119874/25/3ac104c6a996efcf466ded4f2184c282_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/25/3ac104c6a996efcf466ded4f2184c282_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/25/3ac104c6a996efcf466ded4f2184c282_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/25/3ac104c6a996efcf466ded4f2184c282_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/25/3ac104c6a996efcf466ded4f2184c282_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

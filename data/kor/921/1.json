@@ -1,0 +1,18 @@
+{
+  "title": "1화 파마나의 개(1)",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=119874&no=1&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/119874/1/inst_thumbnail_20100108110128.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/119874/1/fb80a99751348c0f0c968bf001065c94_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/1/fb80a99751348c0f0c968bf001065c94_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/1/fb80a99751348c0f0c968bf001065c94_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/1/fb80a99751348c0f0c968bf001065c94_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/1/fb80a99751348c0f0c968bf001065c94_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/1/fb80a99751348c0f0c968bf001065c94_006.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

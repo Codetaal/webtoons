@@ -1,0 +1,16 @@
+{
+  "title": "11화 야구",
+  "episodeNo": 12,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=12&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/12/inst_thumbnail_20100423192740.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/150389/12/66d5a630204c1b7e6a39e6183cd9efb5_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/12/66d5a630204c1b7e6a39e6183cd9efb5_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/12/66d5a630204c1b7e6a39e6183cd9efb5_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/12/66d5a630204c1b7e6a39e6183cd9efb5_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

@@ -1,0 +1,441 @@
+{
+  "id": 94,
+  "title": "스마일브러시",
+  "synopsis": "반복되는 일상에서 발생하는 사건 사고들.\n소심하지만 할 말은 하는 가슴 따스한 와루의 좌충우돌 일상의 반전 에피소드.",
+  "author": "네이버 웹툰",
+  "rating": "9.94",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/150389/thumbnail/thumbnail_IMAG19_migrated_150389.jpg"
+  },
+  "episodes": [
+    {
+      "title": "예고편",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=1&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/1/inst_thumbnail_20100331181627.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "1화 커피",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=2&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/2/inst_thumbnail_20100401183645.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "2화 한 아이가 울고 있었습니다",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=3&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/3/inst_thumbnail_20100402184821.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "3화 아끼는 만화책",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=4&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/4/inst_thumbnail_20100405181847.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "4화 치약",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=5&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/5/inst_thumbnail_20100408181159.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "5화 야구공",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=6&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/6/inst_thumbnail_20100409192705.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "6화 운동화 수선",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=7&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/7/inst_thumbnail_20100412182302.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "7화 신입생",
+      "episodeNo": 8,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=8&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/8/inst_thumbnail_20100415185642.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "8화 카메라",
+      "episodeNo": 9,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=9&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/9/inst_thumbnail_20100416182949.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "9화 빨래",
+      "episodeNo": 10,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=10&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/10/inst_thumbnail_20100419191055.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "10화 서점",
+      "episodeNo": 11,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=11&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/11/inst_thumbnail_20100422183830.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "11화 야구",
+      "episodeNo": 12,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=12&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/12/inst_thumbnail_20100423192740.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "12화 락카",
+      "episodeNo": 13,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=13&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/13/inst_thumbnail_20100426183500.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "13화 미친개",
+      "episodeNo": 14,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=14&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/14/inst_thumbnail_20100429181814.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "14화 택시",
+      "episodeNo": 15,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=15&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/15/inst_thumbnail_20100430184221.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "15 군대 에피소드 1",
+      "episodeNo": 16,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=16&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/16/inst_thumbnail_20100503181544.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "16화 범인은 우리중에 있다",
+      "episodeNo": 17,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=17&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/17/inst_thumbnail_20100506174123.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "17화 컨닝",
+      "episodeNo": 18,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=18&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/18/inst_thumbnail_20100507185145.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "18화 장발",
+      "episodeNo": 19,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=19&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/19/inst_thumbnail_20100510180452.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "19화 불면증",
+      "episodeNo": 20,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=20&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/20/inst_thumbnail_20100513181639.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "20화 서프라이즈",
+      "episodeNo": 21,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=21&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/21/inst_thumbnail_20100514182932.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "21화 동굴",
+      "episodeNo": 22,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=22&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/22/inst_thumbnail_20100517181808.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "22화 지갑",
+      "episodeNo": 23,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=23&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/23/inst_thumbnail_20100520183231.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "23화 족구",
+      "episodeNo": 24,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=24&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/24/inst_thumbnail_20100520183727.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "24화 할머니가 봉고차를 타려고 하십니다",
+      "episodeNo": 25,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=25&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/25/inst_thumbnail_20100524183803.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "25화 MP3",
+      "episodeNo": 26,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=26&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/26/inst_thumbnail_20100527175937.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "26화 식당에서",
+      "episodeNo": 27,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=27&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/27/inst_thumbnail_20100528121240.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "27화 꼬마",
+      "episodeNo": 28,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=28&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/28/inst_thumbnail_20100531185700.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "28화 창가에 있는 시간이 많아졌습니다",
+      "episodeNo": 29,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=29&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/29/inst_thumbnail_20100603175802.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "29화 슬리퍼",
+      "episodeNo": 30,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=30&week=tue&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/30/inst_thumbnail_20100604191142.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "30화 비비크림",
+      "episodeNo": 31,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=31&week=tue&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/31/inst_thumbnail_20100607182411.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "31화 흰둥이",
+      "episodeNo": 32,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=32&week=tue&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/32/inst_thumbnail_20100610181736.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "32화 내가 너무 그리워 했나 봅니다",
+      "episodeNo": 33,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=33&week=tue&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/33/inst_thumbnail_20100611183110.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "33화 J군 이야기",
+      "episodeNo": 34,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=34&week=tue&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/34/inst_thumbnail_20100614184327.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "34화 버스비",
+      "episodeNo": 35,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=35&week=tue&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/35/inst_thumbnail_20100617182910.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "35화 장난",
+      "episodeNo": 36,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=36&week=tue&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/36/inst_thumbnail_20100618183817.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "36화 외국인",
+      "episodeNo": 37,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=37&week=tue&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/37/inst_thumbnail_20100621183508.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "37화 기타",
+      "episodeNo": 38,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=38&week=tue&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/38/inst_thumbnail_20100624182549.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "38화 산불",
+      "episodeNo": 39,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=39&week=tue&listSortOrder=ASC&listPage=2",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/39/inst_thumbnail_20100626004408.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

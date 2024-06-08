@@ -1,0 +1,14 @@
+{
+  "title": "1화 커피",
+  "episodeNo": 2,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=2&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/2/inst_thumbnail_20100401183645.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/150389/2/cff41a46586e96a4d9c8d80b21399211_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/2/cff41a46586e96a4d9c8d80b21399211_002.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

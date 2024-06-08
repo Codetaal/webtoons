@@ -1,0 +1,16 @@
+{
+  "title": "24화 Band of Brothers",
+  "episodeNo": 24,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=119874&no=24&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/119874/24/inst_thumbnail_20100301001522.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/119874/24/bfef1f780885e70d1a09e89930d35b02_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/24/bfef1f780885e70d1a09e89930d35b02_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/24/bfef1f780885e70d1a09e89930d35b02_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/24/bfef1f780885e70d1a09e89930d35b02_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

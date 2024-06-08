@@ -1,0 +1,16 @@
+{
+  "title": "16화 블랙아웃(1)",
+  "episodeNo": 16,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=119874&no=16&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/119874/16/inst_thumbnail_20100211180423.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/119874/16/598ead9404397458ce80a6147e484ca2_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/16/598ead9404397458ce80a6147e484ca2_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/16/598ead9404397458ce80a6147e484ca2_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/16/598ead9404397458ce80a6147e484ca2_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

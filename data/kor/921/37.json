@@ -1,0 +1,16 @@
+{
+  "title": "37화 A.E",
+  "episodeNo": 37,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=119874&no=37&week=tue&listSortOrder=ASC&listPage=2",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/119874/37/inst_thumbnail_20100401183556.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/119874/37/0bb410ef00bb9f83c71c1a801a3b9496_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/37/0bb410ef00bb9f83c71c1a801a3b9496_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/37/0bb410ef00bb9f83c71c1a801a3b9496_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/37/0bb410ef00bb9f83c71c1a801a3b9496_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

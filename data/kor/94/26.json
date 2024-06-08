@@ -1,0 +1,15 @@
+{
+  "title": "25화 MP3",
+  "episodeNo": 26,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=26&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/26/inst_thumbnail_20100527175937.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/150389/26/f134a53a29bf0b97201d63694c09fc52_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/26/f134a53a29bf0b97201d63694c09fc52_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/26/f134a53a29bf0b97201d63694c09fc52_003.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

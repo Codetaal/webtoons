@@ -1,0 +1,15 @@
+{
+  "title": "3화 아끼는 만화책",
+  "episodeNo": 4,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=4&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/4/inst_thumbnail_20100405181847.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/150389/4/340310f7bc0ee82b836e174b41ec84fb_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/4/340310f7bc0ee82b836e174b41ec84fb_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/4/340310f7bc0ee82b836e174b41ec84fb_003.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

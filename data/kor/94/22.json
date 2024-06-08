@@ -1,0 +1,15 @@
+{
+  "title": "21화 동굴",
+  "episodeNo": 22,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=22&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/22/inst_thumbnail_20100517181808.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/150389/22/f0885a27741fa09165f710d3989915c8_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/22/f0885a27741fa09165f710d3989915c8_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/22/f0885a27741fa09165f710d3989915c8_003.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

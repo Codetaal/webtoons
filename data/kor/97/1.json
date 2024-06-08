@@ -1,0 +1,15 @@
+{
+  "title": "예고편",
+  "episodeNo": 1,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=293520&no=1&week=sun&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/293520/1/thumbnail_202x120_74a27278-41cd-4757-a05c-b81e76306f5c.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/293520/1/b5238cb56931c71e85804a504bbdbad2_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/293520/1/b5238cb56931c71e85804a504bbdbad2_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/293520/1/b5238cb56931c71e85804a504bbdbad2_003.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

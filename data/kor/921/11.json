@@ -1,0 +1,16 @@
+{
+  "title": "11화 . A.E.",
+  "episodeNo": 11,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=119874&no=11&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/119874/11/inst_thumbnail_20100129173731.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/119874/11/f74c09d19d6a28a824a2c62d07d222f9_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/11/f74c09d19d6a28a824a2c62d07d222f9_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/11/f74c09d19d6a28a824a2c62d07d222f9_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/11/f74c09d19d6a28a824a2c62d07d222f9_004.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

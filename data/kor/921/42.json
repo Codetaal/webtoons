@@ -1,0 +1,17 @@
+{
+  "title": "42화 만드라고라(4)",
+  "episodeNo": 42,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=119874&no=42&week=tue&listSortOrder=ASC&listPage=2",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/119874/42/inst_thumbnail_20100412001256.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/119874/42/baeaab35f39bf76d4bd166fcd36dd276_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/42/baeaab35f39bf76d4bd166fcd36dd276_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/42/baeaab35f39bf76d4bd166fcd36dd276_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/42/baeaab35f39bf76d4bd166fcd36dd276_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/119874/42/baeaab35f39bf76d4bd166fcd36dd276_005.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

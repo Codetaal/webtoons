@@ -1,0 +1,15 @@
+{
+  "title": "4화 치약",
+  "episodeNo": 5,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=5&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/5/inst_thumbnail_20100408181159.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/150389/5/0b1d49f9d5b8c432419509ee85bc5672_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/5/0b1d49f9d5b8c432419509ee85bc5672_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/5/0b1d49f9d5b8c432419509ee85bc5672_003.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}

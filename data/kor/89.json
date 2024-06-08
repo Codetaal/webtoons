@@ -1,0 +1,661 @@
+{
+  "id": 89,
+  "title": "레사 시즌1",
+  "synopsis": "어느날부턴가, 사람들은 디맨으로 변한다.매일밤 계속되는 습격, 그리고 동생을 찾는 한 남자.그 혼돈 속에서 신이 눈을 뜬다!",
+  "author": "네이버 웹툰",
+  "rating": "9.95",
+  "artwork": {
+    "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/478262/thumbnail/thumbnail_IMAG19_6c3bcd73-358e-4d2e-9fb5-ba9ae9f0899e.jpg"
+  },
+  "episodes": [
+    {
+      "title": "1화 PRELUDE 1",
+      "episodeNo": 1,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=478262&no=1&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/1/inst_thumbnail_20120621160311.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "2화 PRELUDE 2",
+      "episodeNo": 2,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=478262&no=2&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/2/inst_thumbnail_20120628164510.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "3화 PRELUDE 3",
+      "episodeNo": 3,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=478262&no=3&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/3/inst_thumbnail_20120705161453.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "4화 PRELUDE 4",
+      "episodeNo": 4,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=478262&no=4&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/4/inst_thumbnail_20120712161111.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "5화 PRELUDE 5",
+      "episodeNo": 5,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=478262&no=5&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/5/inst_thumbnail_20120719163442.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "6화 PRELUDE 6",
+      "episodeNo": 6,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=478262&no=6&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/6/inst_thumbnail_20120726160803.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "7화 PRELUDE 7",
+      "episodeNo": 7,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=478262&no=7&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/7/inst_thumbnail_20120802164124.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "8화 PRELUDE 8",
+      "episodeNo": 8,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=478262&no=8&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/8/inst_thumbnail_20120809171458.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "9화 PRELUDE 9",
+      "episodeNo": 9,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=478262&no=9&week=fri&listSortOrder=ASC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/9/inst_thumbnail_20120816153950.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "10화 PRELUDE 10",
+      "episodeNo": 10,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/10/inst_thumbnail_20120823142809.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "11화 PRELUDE 11",
+      "episodeNo": 11,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/11/inst_thumbnail_20120830144210.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "12화 PRELUDE 12",
+      "episodeNo": 12,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/12/inst_thumbnail_20120906155619.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "13화 PRELUDE 13",
+      "episodeNo": 13,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/13/inst_thumbnail_20120913154440.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "14화 PRELUDE 14",
+      "episodeNo": 14,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/14/inst_thumbnail_20120920153340.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "15화 PRELUDE 15",
+      "episodeNo": 15,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/15/inst_thumbnail_20120927153350.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "16화 PRELUDE 16",
+      "episodeNo": 16,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/16/inst_thumbnail_20121004185208.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "17화 PRELUDE 17",
+      "episodeNo": 17,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/17/inst_thumbnail_20121012102805.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "18화 PRELUDE 18",
+      "episodeNo": 18,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/18/inst_thumbnail_20121018182433.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "19화 PRELUDE 19",
+      "episodeNo": 19,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/19/inst_thumbnail_20121025162826.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "20화 PRELUDE 20",
+      "episodeNo": 20,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/20/inst_thumbnail_20121101165648.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "21화 PRELUDE 21",
+      "episodeNo": 21,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/21/inst_thumbnail_20121108163047.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "22화 THE ABANDONED CITY 1",
+      "episodeNo": 22,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/22/inst_thumbnail_20121115163157.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "23화 THE ABANDONED CITY 2",
+      "episodeNo": 23,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/23/inst_thumbnail_20121122155519.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "24화 THE ABANDONED CITY 3",
+      "episodeNo": 24,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/24/inst_thumbnail_20121129163546.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "25화 THE ABANDONED CITY 4",
+      "episodeNo": 25,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/25/inst_thumbnail_20121206173552.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "26화 THE ABANDONED CITY 5",
+      "episodeNo": 26,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/26/inst_thumbnail_20121213183452.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "27화 THE ABANDONED CITY 6",
+      "episodeNo": 27,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/27/inst_thumbnail_20121220181123.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "28화 THE ABANDONED CITY 7",
+      "episodeNo": 28,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/28/inst_thumbnail_20121227173019.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "29화 THE ABANDONED CITY 8",
+      "episodeNo": 29,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/29/inst_thumbnail_20130103164510.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "30화 THE ABANDONED CITY 9",
+      "episodeNo": 30,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/30/inst_thumbnail_20130110181834.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "31화 THE ABANDONED CITY 10",
+      "episodeNo": 31,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/31/inst_thumbnail_20130117163846.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "32화 THE ABANDONED CITY 11",
+      "episodeNo": 32,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/32/inst_thumbnail_20130124171016.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "33화 THE ABANDONED CITY 12",
+      "episodeNo": 33,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/33/inst_thumbnail_20130131172557.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "34화 THE ABANDONED CITY 13",
+      "episodeNo": 34,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/34/inst_thumbnail_20130207173200.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "35화 THE ABANDONED CITY 14",
+      "episodeNo": 35,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/35/inst_thumbnail_20130214183805.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "36화 THE ABANDONED CITY 15",
+      "episodeNo": 36,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/36/inst_thumbnail_20130221182229.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "37화 THE ABANDONED CITY 16",
+      "episodeNo": 37,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/37/inst_thumbnail_20130228184423.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "38화 THE ABANDONED CITY 17",
+      "episodeNo": 38,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/38/inst_thumbnail_20130307183227.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "39화 THE ABANDONED CITY 18",
+      "episodeNo": 39,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/39/inst_thumbnail_20130314185746.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "40화 THE ABANDONED CITY 19",
+      "episodeNo": 40,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/40/inst_thumbnail_20130321153051.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "41화 THE ABANDONED CITY 20",
+      "episodeNo": 41,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/41/inst_thumbnail_20130328182855.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "42화 THE ABANDONED CITY 21",
+      "episodeNo": 42,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/42/inst_thumbnail_20130404184811.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "43화 THE ABANDONED CITY 22",
+      "episodeNo": 43,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/43/inst_thumbnail_20130411184948.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "44화 THE ABANDONED CITY 23",
+      "episodeNo": 44,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/44/inst_thumbnail_20130418155737.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "45화 THE ABANDONED CITY 24",
+      "episodeNo": 45,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/45/inst_thumbnail_20130425183100.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "46화 THE ABANDONED CITY 25",
+      "episodeNo": 46,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/46/inst_thumbnail_20130502184641.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "47화 THE ABANDONED CITY 26",
+      "episodeNo": 47,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/47/inst_thumbnail_20130509182446.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "48화 THE ABANDONED CITY 27",
+      "episodeNo": 48,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/48/inst_thumbnail_20130516183949.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "49화 THE ABANDONED CITY 28",
+      "episodeNo": 49,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/49/inst_thumbnail_20130523180832.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "50화 THE ABANDONED CITY 29",
+      "episodeNo": 50,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/50/inst_thumbnail_20130530183815.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "51화 THE ABANDONED CITY 30",
+      "episodeNo": 51,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/51/inst_thumbnail_20130606171445.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "52화 THE ABANDONED CITY 31",
+      "episodeNo": 52,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/52/inst_thumbnail_20130613181615.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "53화 THE ABANDONED CITY 32",
+      "episodeNo": 53,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/53/inst_thumbnail_20130620150016.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "54화 THE ABANDONED CITY 33",
+      "episodeNo": 54,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/54/inst_thumbnail_20130627190459.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "55화 THE ABANDONED CITY 34",
+      "episodeNo": 55,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/55/inst_thumbnail_20130704150509.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "56화 THE ABANDONED CITY 35",
+      "episodeNo": 56,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/56/inst_thumbnail_20130711143848.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "57화 THE ABANDONED CITY 36",
+      "episodeNo": 58,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/58/inst_thumbnail_20130725152633.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "58화 THE ABANDONED CITY 37",
+      "episodeNo": 59,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/59/inst_thumbnail_20130801185121.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "후기",
+      "episodeNo": 60,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/478262/60/inst_thumbnail_20130808121558.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    }
+  ]
+}

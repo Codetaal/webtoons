@@ -1,0 +1,15 @@
+{
+  "title": "10화 서점",
+  "episodeNo": 11,
+  "url": "https://m.comic.naver.com/webtoon/detail?titleId=150389&no=11&week=tue&listSortOrder=ASC&listPage=1",
+  "artwork": {
+    "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/150389/11/inst_thumbnail_20100422183830.jpg",
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/150389/11/930135906cd70cfd3f62f9669ad5bc4e_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/11/930135906cd70cfd3f62f9669ad5bc4e_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/150389/11/930135906cd70cfd3f62f9669ad5bc4e_003.jpg"
+    ]
+  },
+  "locked": false,
+  "completed": true
+}
