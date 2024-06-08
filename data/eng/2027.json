@@ -1,0 +1,89 @@
+{
+  "id": 2027,
+  "title": "The Boxer",
+  "synopsis": "You’ve got the raw talent. Or you’re the underdog. But do you have the heart? Do you have what it takes? Let’s see what you’re made of. The real fight starts now!",
+  "author": "JH",
+  "rating": "9.86",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210410_35/16180079370625ksUI_JPEG/004_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Ep. 1 - The Genius",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/sports/the-boxer/ep-1-the-genius/viewer?title_no=2027&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20200527_106/1590534196113sVoBl_PNG/thumb_1590534034131202713.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 2 - The Omen",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/sports/the-boxer/ep-2-the-omen/viewer?title_no=2027&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20200527_265/1590553724925ojvYU_PNG/thumb_1590553575306202729.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 3 - The Build-Up",
+      "episodeNo": 3,
+      "url": "https://m.webtoons.com/en/sports/the-boxer/ep-3-the-build-up/viewer?title_no=2027&episode_no=3",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20200527_181/1590556152390qyaTY_PNG/thumb_1590556119241202737.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 4 - The Night Before",
+      "episodeNo": 4,
+      "url": "https://m.webtoons.com/en/sports/the-boxer/ep-4-the-night-before/viewer?title_no=2027&episode_no=4",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20200527_97/1590557513535NreO3_PNG/thumb_1590557437581202742.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 5 - Courage",
+      "episodeNo": 5,
+      "url": "https://m.webtoons.com/en/sports/the-boxer/ep-5-courage/viewer?title_no=2027&episode_no=5",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20200527_265/15905583783354GuDz_PNG/thumb_1590558312739202755.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 6 - The Bitter Struggle",
+      "episodeNo": 6,
+      "url": "https://m.webtoons.com/en/sports/the-boxer/ep-6-the-bitter-struggle/viewer?title_no=2027&episode_no=6",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20200527_282/1590559945725u38k6_PNG/thumb_1590559841531202769.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 7 - The Strong",
+      "episodeNo": 7,
+      "url": "https://m.webtoons.com/en/sports/the-boxer/ep-7-the-strong/viewer?title_no=2027&episode_no=7",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20200529_79/1590726513991jmLzi_PNG/thumb_1590726471636202775.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 2922,
+  "title": "Forest of Humans",
+  "synopsis": "A secret experiment on serial killers conducted in the woods? What could possibly go wrong? Follow one young researcher’s descent into madness and self-doubt as she attempts to escape a locked facility with ten bloodthirsty murderers. Will she make it out with her humanity intact?\n",
+  "author": "JunhoHwang",
+  "rating": "9.50",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210612_76/1623447796888JQzx7_PNG/4ForestOfHumans_mobile_landingpage.png?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Episode 0",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/thriller/forest-of-humans/episode-0/viewer?title_no=2922&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210604_92/1622767270846vCO5b_PNG/thumb_1622767209740292213.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Episode 1",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/thriller/forest-of-humans/episode-1/viewer?title_no=2922&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210604_95/1622769406744pLFmY_PNG/thumb_1622769345755292221.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Episode 2",
+      "episodeNo": 3,
+      "url": "https://m.webtoons.com/en/thriller/forest-of-humans/episode-2/viewer?title_no=2922&episode_no=3",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210605_103/1622839127715SxvJK_PNG/thumb_1622839099031292239.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Episode 3",
+      "episodeNo": 4,
+      "url": "https://m.webtoons.com/en/thriller/forest-of-humans/episode-3/viewer?title_no=2922&episode_no=4",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210605_146/16228397004551W4aL_PNG/thumb_1622839660831292240.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Episode 4",
+      "episodeNo": 5,
+      "url": "https://m.webtoons.com/en/thriller/forest-of-humans/episode-4/viewer?title_no=2922&episode_no=5",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210605_252/16228408086932RsTU_PNG/thumb_1622840777160292258.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

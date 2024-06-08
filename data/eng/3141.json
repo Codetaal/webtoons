@@ -1,0 +1,34 @@
+{
+  "id": 3141,
+  "title": "The Horizon",
+  "synopsis": "An apocalyptic event has wiped out most of the population. A young boy meets a girl in the sea of dead bodies. Bound together by their shared trauma, they keep walking forward in hopes of finding a safe haven. But does a safe haven exist in a world that has lost its humanity? \n",
+  "author": "JH",
+  "rating": "9.84",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210731_89/16276820757379dkiQ_JPEG/6TheHorizon_mobile_landingpage.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/drama/the-horizon/episode-1/viewer?title_no=3141&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210812_48/1628702918046Pt20K_PNG/thumb_1628702892089314119.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Episode 2",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/drama/the-horizon/episode-2/viewer?title_no=3141&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20210811_286/1628639072377Dvt8w_PNG/thumb_1628639022917314126.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

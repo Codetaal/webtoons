@@ -1,0 +1,89 @@
+{
+  "id": 1307,
+  "title": "Ghost Teller",
+  "synopsis": "You think your ghost stories are scary? Try listening to these stories from the ghosts themselves.",
+  "author": "QTT",
+  "rating": "9.86",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20180209_260/1518136656996FmwcK_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Prologue",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/horror/ghost-teller/prologue/viewer?title_no=1307&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20180210_26/15182451665991FsR6_PNG/thumb_1518245119770130719.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "The Story of the Woman - Part I",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/horror/ghost-teller/the-story-of-the-woman-part-i/viewer?title_no=1307&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20180210_78/1518247614372AsNjG_PNG/thumb_1518247465498130723.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "The Story of the Woman - Part II",
+      "episodeNo": 3,
+      "url": "https://m.webtoons.com/en/horror/ghost-teller/the-story-of-the-woman-part-ii/viewer?title_no=1307&episode_no=3",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20180210_164/1518252205637jdCjy_PNG/thumb_1518252105204130735.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "The Story of the Woman - Part III",
+      "episodeNo": 4,
+      "url": "https://m.webtoons.com/en/horror/ghost-teller/the-story-of-the-woman-part-iii/viewer?title_no=1307&episode_no=4",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20180211_127/1518291044757Ek9cd_PNG/thumb_1518290974468130741.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "The Story of the Woman - Part IV",
+      "episodeNo": 5,
+      "url": "https://m.webtoons.com/en/horror/ghost-teller/the-story-of-the-woman-part-iv/viewer?title_no=1307&episode_no=5",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20180218_256/1518929758970sBuG1_PNG/thumb_1518929518324130752.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "The Story of The Woman - Part V",
+      "episodeNo": 6,
+      "url": "https://m.webtoons.com/en/horror/ghost-teller/the-story-of-the-woman-part-v/viewer?title_no=1307&episode_no=6",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20180225_92/15195323788541Qc3B_PNG/thumb_1519532259493130764.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "The Story of The Woman - Outro",
+      "episodeNo": 7,
+      "url": "https://m.webtoons.com/en/horror/ghost-teller/the-story-of-the-woman-outro/viewer?title_no=1307&episode_no=7",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20180304_69/1520134545333EN5Ol_PNG/thumb_1520134444469130772.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

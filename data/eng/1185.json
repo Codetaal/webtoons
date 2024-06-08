@@ -1,0 +1,67 @@
+{
+  "id": 1185,
+  "title": "My Boo",
+  "synopsis": "When you have an invisible roommate.",
+  "author": "Jeongseo",
+  "rating": "9.74",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20171001_229/1506831504188C7omx_JPEG/04_EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Ep. 1",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/supernatural/my-boo/ep-1/viewer?title_no=1185&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20171001_53/1506831749960De4uE_PNG/thumb_1506831722346118512.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 2",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/supernatural/my-boo/ep-2/viewer?title_no=1185&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20171001_164/1506832205924Rrd2W_PNG/thumb_1506832153039118524.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 3",
+      "episodeNo": 3,
+      "url": "https://m.webtoons.com/en/supernatural/my-boo/ep-3/viewer?title_no=1185&episode_no=3",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20171001_38/1506832332096gFY9d_PNG/thumb_1506832319022118532.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 4",
+      "episodeNo": 4,
+      "url": "https://m.webtoons.com/en/supernatural/my-boo/ep-4/viewer?title_no=1185&episode_no=4",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20171005_100/1507153739723D2E5q_PNG/thumb_1507153697805118545.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 5",
+      "episodeNo": 5,
+      "url": "https://m.webtoons.com/en/supernatural/my-boo/ep-5/viewer?title_no=1185&episode_no=5",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20171007_52/1507347304475BEcbz_PNG/thumb_GHOST_005_40.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

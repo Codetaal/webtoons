@@ -1,0 +1,89 @@
+{
+  "id": 1005,
+  "title": "Cherry Blossoms",
+  "synopsis": "The girl that you keep thinking of when it blossoms. Regretting not having been able to express your true feelings to her a year ago. Should have had the courage to hold her hands.",
+  "author": "PARKSUBONG",
+  "rating": "9.23",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20170413_98/1492084951841LQRdY_JPEG/M_details.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Ep. 1",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/romance/cherry-blossoms/ep-1/viewer?title_no=1005&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20170414_298/1492136014506NekEa_PNG/thumb_BLOSSOMS_001_04.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 2",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/romance/cherry-blossoms/ep-2/viewer?title_no=1005&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20170414_96/149213605956450Qio_PNG/thumb_BLOSSOM_002_03.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 3",
+      "episodeNo": 3,
+      "url": "https://m.webtoons.com/en/romance/cherry-blossoms/ep-3/viewer?title_no=1005&episode_no=3",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20170414_93/1492136113175SY8cK_PNG/thumb_BLOSSOMS_003_02.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 4",
+      "episodeNo": 4,
+      "url": "https://m.webtoons.com/en/romance/cherry-blossoms/ep-4/viewer?title_no=1005&episode_no=4",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20170417_233/1492398971980U5th2_PNG/thumb_BLOSSOMS_004_01.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 5",
+      "episodeNo": 5,
+      "url": "https://m.webtoons.com/en/romance/cherry-blossoms/ep-5/viewer?title_no=1005&episode_no=5",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20170420_83/1492659499985muzhY_PNG/thumb_BLOSSOM_005_04.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 6",
+      "episodeNo": 6,
+      "url": "https://m.webtoons.com/en/romance/cherry-blossoms/ep-6/viewer?title_no=1005&episode_no=6",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20170420_212/1492673369840epj15_PNG/thumb_BLOSSOM_006_03.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 7 (Last Episode)",
+      "episodeNo": 7,
+      "url": "https://m.webtoons.com/en/romance/cherry-blossoms/ep-7-last-episode/viewer?title_no=1005&episode_no=7",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20170421_24/1492753497445WHHre_PNG/thumb_1492753438947100576.png?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}

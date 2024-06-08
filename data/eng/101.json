@@ -1,0 +1,133 @@
+{
+  "id": 101,
+  "title": "Flow",
+  "synopsis": "A fantasy comic about a boy's destiny that starts to change as he receives a gift from his guardian god.",
+  "author": "HoneyB",
+  "rating": "9.75",
+  "artwork": {
+    "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20150116_282/1421399916499fOdtx_JPEG/EC9E91ED9288EC8381EC84B8_mobile.jpg?type=crop540_540"
+  },
+  "episodes": [
+    {
+      "title": "Ep. 0",
+      "episodeNo": 1,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-0/viewer?title_no=101&episode_no=1",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140617_151/1403002290521HnYJJ_JPEG/flow_.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 1",
+      "episodeNo": 2,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-1/viewer?title_no=101&episode_no=2",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140617_230/14030024007651u3j7_JPEG/flow_1.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 2",
+      "episodeNo": 3,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-2/viewer?title_no=101&episode_no=3",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140617_28/14030024354351uh6X_JPEG/flow_2.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 3",
+      "episodeNo": 4,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-3/viewer?title_no=101&episode_no=4",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140617_152/1403002575021pvwil_JPEG/flow_3.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 4",
+      "episodeNo": 5,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-4/viewer?title_no=101&episode_no=5",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140623_8/1403512568313i1Wvh_JPEG/flow_4.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 5",
+      "episodeNo": 6,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-5/viewer?title_no=101&episode_no=6",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140623_66/1403512582124Vm207_JPEG/flow_5.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 6",
+      "episodeNo": 7,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-6/viewer?title_no=101&episode_no=7",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140718_8/1405659122918LKcfA_JPEG/140565912288510170.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 7",
+      "episodeNo": 8,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-7/viewer?title_no=101&episode_no=8",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140718_213/1405659243496LCONm_JPEG/140565924346310180.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 8",
+      "episodeNo": 9,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-8/viewer?title_no=101&episode_no=9",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140722_7/1406006868038dIFrW_JPEG/140600686800510190.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 9",
+      "episodeNo": 10,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-9/viewer?title_no=101&episode_no=10",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140722_257/1406007052335hgRcK_JPEG/1406007052305101100.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "Ep. 10",
+      "episodeNo": 11,
+      "url": "https://m.webtoons.com/en/fantasy/flow/ep-10/viewer?title_no=101&episode_no=11",
+      "artwork": {
+        "mobileThumbnail": "https://swebtoon-phinf.pstatic.net/20140722_271/1406007111538sTPaM_JPEG/1406007111505101110.jpg?type=q70",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    }
+  ]
+}
