@@ -33,7 +33,7 @@
     {
       "title": "3화",
       "episodeNo": 3,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=818219&no=3&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=818219&no=3&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/818219/3/thumbnail_202x120_bcd50434-3e31-42f9-9d33-1dc04bda298f.jpg",
         "webtoon": []
@@ -363,12 +363,12 @@
     {
       "title": "33화",
       "episodeNo": 33,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=818219&no=33&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/818219/33/thumbnail_202x120_fe6cca16-1e91-4988-b5a6-00ea32405e9e.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -410,6 +410,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/818219/37/thumbnail_202x120_58f5a9a6-8fff-4594-9195-060f9b5ff4fb.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "38화",
+      "episodeNo": 38,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/818219/38/thumbnail_202x120_d9526087-58d4-49dc-ba04-61605f83ddf4.jpg",
         "webtoon": []
       },
       "locked": true,

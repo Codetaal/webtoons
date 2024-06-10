@@ -11,7 +11,7 @@
     {
       "title": "1화",
       "episodeNo": 1,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=1&week=sun&listSortOrder=DESC&listPage=5",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=1&week=sun&listSortOrder=DESC&listPage=6",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/774831/1/thumbnail_202x120_391341cf-5ab9-4b0a-aa83-d6a643c23fdf.jpg",
         "webtoon": []
@@ -341,7 +341,7 @@
     {
       "title": "31화",
       "episodeNo": 31,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=31&week=sun&listSortOrder=DESC&listPage=4",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=31&week=sun&listSortOrder=DESC&listPage=5",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/774831/31/thumbnail_202x120_93610826-14d9-452f-8319-ae61ca0c983b.jpg",
         "webtoon": []
@@ -671,7 +671,7 @@
     {
       "title": "61화",
       "episodeNo": 61,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=61&week=sun&listSortOrder=DESC&listPage=3",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=61&week=sun&listSortOrder=DESC&listPage=4",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/774831/61/thumbnail_202x120_192da1d3-6d71-4d1e-b4d9-74f1e923a378.jpg",
         "webtoon": []
@@ -1001,7 +1001,7 @@
     {
       "title": "91화",
       "episodeNo": 91,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=91&week=sun&listSortOrder=DESC&listPage=2",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=91&week=sun&listSortOrder=DESC&listPage=3",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/774831/91/thumbnail_202x120_dccbf2e0-6f67-48c6-9afb-07bd7589f191.jpg",
         "webtoon": []
@@ -1331,7 +1331,7 @@
     {
       "title": "121화",
       "episodeNo": 121,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=121&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=121&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/774831/121/thumbnail_202x120_31f1fe54-d0a2-4b7e-af5f-7caa273c93aa.jpg",
         "webtoon": []
@@ -1661,12 +1661,12 @@
     {
       "title": "151화",
       "episodeNo": 151,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=774831&no=151&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/774831/151/thumbnail_202x120_f7465967-c8f5-4205-9eb1-ec8f88eb71c3.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -1697,6 +1697,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/774831/154/thumbnail_202x120_89891ac9-3dda-48cd-ad5c-4eab92432d1b.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "155화",
+      "episodeNo": 155,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/774831/155/thumbnail_202x120_79095c1c-8e95-482e-95bd-b1d3b404ae38.jpg",
         "webtoon": []
       },
       "locked": true,

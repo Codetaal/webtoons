@@ -286,7 +286,7 @@
     {
       "title": "26화 아가도 탕후루 먹어",
       "episodeNo": 26,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=811219&no=26&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=811219&no=26&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/811219/26/thumbnail_202x120_fa3f7da4-f71f-4bc9-b151-d26dabeadff3.jpg",
         "webtoon": []
@@ -616,12 +616,12 @@
     {
       "title": "56화 꾀병일리가 없지",
       "episodeNo": 56,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=811219&no=56&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/811219/56/thumbnail_202x120_822ead5e-e5a1-4052-8469-6f32a0622ada.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -696,6 +696,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/811219/63/thumbnail_202x120_d638e4ea-a7a3-48f4-96fd-6980255faecb.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "64화 난 자결한 적 없어",
+      "episodeNo": 64,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/811219/64/thumbnail_202x120_d3d57f66-9e17-441a-9273-871ca2e62ccc.jpg",
         "webtoon": []
       },
       "locked": true,

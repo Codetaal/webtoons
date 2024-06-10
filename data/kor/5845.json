@@ -3,7 +3,7 @@
   "title": "용사보다 너무 강해서 힘을 숨김",
   "synopsis": "어릴 적부터 만화 속에 나오는 주인공보다평소에는 가벼워 보이지만 사실 누구보다 강한 '힘을 숨긴 캐릭터'가 멋있었다그리고 찾아온 전생의 기회!\"새로운 세상에서 무엇이 되고 싶나요?\"\"힘숨찐이 되고 싶어!\"...내가 바란 힘숨찐은 이런 게 아닌데!?",
   "author": "네이버 웹툰",
-  "rating": "9.46",
+  "rating": "9.47",
   "artwork": {
     "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/814213/thumbnail/thumbnail_IMAG19_6abdca29-ba51-4eb3-99c4-9292662bb49f.jpg"
   },
@@ -132,7 +132,7 @@
     {
       "title": "12화 : 응? 뭐지? 내가 왜 겁먹고 있지?",
       "episodeNo": 12,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=814213&no=12&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=814213&no=12&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/814213/12/thumbnail_202x120_70506c01-8ff1-48ec-a399-fc1b8b674380.jpg",
         "webtoon": []
@@ -462,12 +462,12 @@
     {
       "title": "42화 : 절대자 유리스엉엉!",
       "episodeNo": 42,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=814213&no=42&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/814213/42/thumbnail_202x120_d665cf2a-47d0-45cc-b7b1-367c78b24665.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -520,6 +520,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/814213/47/thumbnail_202x120_3b0913f8-7519-487f-82cd-6ef6c5bb2cd6.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "48화 : 마지막 분대장 테스트!",
+      "episodeNo": 48,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/814213/48/thumbnail_202x120_c288566e-af2c-4540-b9d0-d55a0f6a716f.jpg",
         "webtoon": []
       },
       "locked": true,

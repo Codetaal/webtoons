@@ -264,12 +264,12 @@
     {
       "title": "23화:등천로 (1)",
       "episodeNo": 24,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=819912&no=24&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/819912/24/thumbnail_202x120_c7c2586d-b12c-408c-aace-f458015bb455.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -355,6 +355,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/819912/32/thumbnail_202x120_e9613641-a5f6-4ec2-b3ad-1900c507e23d.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "32화:마왕성 (3) ",
+      "episodeNo": 33,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/819912/33/thumbnail_202x120_49dbbf4f-d906-4119-8f6d-bb9cf773043a.jpg",
         "webtoon": []
       },
       "locked": true,

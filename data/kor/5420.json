@@ -1239,6 +1239,17 @@
       },
       "locked": true,
       "completed": true
+    },
+    {
+      "title": "112화",
+      "episodeNo": 113,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/797222/113/thumbnail_202x120_3472330710838764642.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
     }
   ]
 }

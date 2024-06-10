@@ -3,7 +3,7 @@
   "title": "천재 플레이어의 귀환",
   "synopsis": "몬스터들에게 대응할 수 있는 각성자가 나오기 시작해 평화로워진 세상. ‘Hunters League’라는 가상의 스포츠 대회가 흥행하게 된다. 한때 한국 헌터 리그계 전설이라 불리던 이창현. 시간이 흘러 퇴물이 되어버리고 공허함을 느끼던 때 불의의 사고로 인해 목숨을 잃게 되고 어렸을 때로 회귀하게 되는데..",
   "author": "네이버 웹툰",
-  "rating": "9.31",
+  "rating": "9.33",
   "artwork": {
     "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/823284/thumbnail/thumbnail_IMAG19_2e1d9b88-c9d6-4b5c-9b1b-06cc56251c58.jpg"
   },
@@ -212,6 +212,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/823284/19/thumbnail_202x120_3905295097413396016.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "19화",
+      "episodeNo": 20,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/823284/20/thumbnail_202x120_7233451021575414070.jpg",
         "webtoon": []
       },
       "locked": true,

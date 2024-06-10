@@ -11,7 +11,7 @@
     {
       "title": "1화",
       "episodeNo": 1,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=807826&no=1&week=sun&listSortOrder=DESC&listPage=2",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=807826&no=1&week=sun&listSortOrder=DESC&listPage=3",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807826/1/thumbnail_202x120_270a95f3-213d-4674-ad6f-52cef60f3df8.jpg",
         "webtoon": []
@@ -341,7 +341,7 @@
     {
       "title": "31화",
       "episodeNo": 31,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=807826&no=31&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=807826&no=31&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807826/31/thumbnail_202x120_5776e55a-8a6d-452f-a63e-6f0c6673bad5.jpg",
         "webtoon": []
@@ -671,12 +671,12 @@
     {
       "title": "61화",
       "episodeNo": 61,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=807826&no=61&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807826/61/thumbnail_202x120_bbd3f9fa-788d-4a14-bde7-f24f9df2b0d6.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {

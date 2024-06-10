@@ -4,7 +4,16 @@
   "url": "https://m.comic.naver.com/webtoon/detail?titleId=183558&no=1&week=fri&listSortOrder=ASC&listPage=1",
   "artwork": {
     "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/183558/1/inst_thumbnail_20100701180107.jpg",
-    "webtoon": []
+    "webtoon": [
+      "https://image-comic.pstatic.net/mobilewebimg/183558/1/e062d875534aa049ee02af18f1aa89fe_001.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/183558/1/e062d875534aa049ee02af18f1aa89fe_002.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/183558/1/e062d875534aa049ee02af18f1aa89fe_003.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/183558/1/e062d875534aa049ee02af18f1aa89fe_004.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/183558/1/e062d875534aa049ee02af18f1aa89fe_005.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/183558/1/e062d875534aa049ee02af18f1aa89fe_006.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/183558/1/e062d875534aa049ee02af18f1aa89fe_007.jpg",
+      "https://image-comic.pstatic.net/mobilewebimg/183558/1/e062d875534aa049ee02af18f1aa89fe_008.jpg"
+    ]
   },
   "locked": false,
   "completed": true

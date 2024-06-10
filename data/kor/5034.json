@@ -22,7 +22,7 @@
     {
       "title": "2화 각성",
       "episodeNo": 2,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=799805&no=2&week=sun&listSortOrder=DESC&listPage=3",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=799805&no=2&week=sun&listSortOrder=DESC&listPage=4",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/799805/2/thumbnail_202x120_6b85309e-813b-4619-8e21-62034fa24327.jpg",
         "webtoon": []
@@ -352,7 +352,7 @@
     {
       "title": "32화 신설동 유령역 (2)",
       "episodeNo": 32,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=799805&no=32&week=sun&listSortOrder=DESC&listPage=2",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=799805&no=32&week=sun&listSortOrder=DESC&listPage=3",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/799805/32/thumbnail_202x120_c7e340ed-9895-4898-a99b-0929d5dfd8e7.jpg",
         "webtoon": []
@@ -682,7 +682,7 @@
     {
       "title": "62화 조별 과제",
       "episodeNo": 62,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=799805&no=62&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=799805&no=62&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/799805/62/thumbnail_202x120_10d294f0-28fe-469a-b183-54932aa698ad.jpg",
         "webtoon": []
@@ -1012,12 +1012,12 @@
     {
       "title": "92화 마지막 선택",
       "episodeNo": 92,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=799805&no=92&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/799805/92/thumbnail_202x120_56970d0c-5d11-4579-94b3-b698c37457b0.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -1059,6 +1059,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/799805/96/thumbnail_202x120_4051d1bb-87f7-4b2b-9db7-fccb42721365.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "97화 구멍",
+      "episodeNo": 97,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/799805/97/thumbnail_202x120_c48f892e-bfb2-4d53-adc7-ebb06c1420b1.jpg",
         "webtoon": []
       },
       "locked": true,

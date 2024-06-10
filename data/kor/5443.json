@@ -198,7 +198,7 @@
     {
       "title": "18화",
       "episodeNo": 18,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=805481&no=18&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=805481&no=18&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/805481/18/thumbnail_202x120_c5b1b4ae-1f95-4392-9d6d-9f3cc0c95605.jpg",
         "webtoon": []
@@ -528,12 +528,12 @@
     {
       "title": "48화",
       "episodeNo": 48,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=805481&no=48&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/805481/48/thumbnail_202x120_1664e976-9371-4cae-b9b3-07c4d8f1d088.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -575,6 +575,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/805481/52/thumbnail_202x120_71720637-1e10-4f33-838e-b269e2356f6e.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "53화",
+      "episodeNo": 53,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/805481/53/thumbnail_202x120_848d863b-77b5-4e4f-8a22-142af0a0e605.jpg",
         "webtoon": []
       },
       "locked": true,

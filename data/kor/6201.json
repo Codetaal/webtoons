@@ -110,7 +110,7 @@
     {
       "title": "10화",
       "episodeNo": 10,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=814820&no=10&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=814820&no=10&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/814820/10/thumbnail_202x120_c5a13108-dc8a-41c0-8c98-83a64bc76d3c.jpg",
         "webtoon": []
@@ -440,12 +440,12 @@
     {
       "title": "40화",
       "episodeNo": 40,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=814820&no=40&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/814820/40/thumbnail_202x120_d55a7094-a521-4d60-8870-b146ffb91b71.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -487,6 +487,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/814820/44/thumbnail_202x120_2a5430a6-1e13-4537-b88b-f44e0e2efa41.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "45화",
+      "episodeNo": 45,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/814820/45/thumbnail_202x120_3c6297fa-86eb-4476-8031-792475f75280.jpg",
         "webtoon": []
       },
       "locked": true,

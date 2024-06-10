@@ -209,7 +209,7 @@
     {
       "title": "19화",
       "episodeNo": 19,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=803909&no=19&week=sun&listSortOrder=DESC&listPage=2",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=803909&no=19&week=sun&listSortOrder=DESC&listPage=3",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/803909/19/thumbnail_202x120_662cc2e7-e7f4-4f72-afc4-97b633f5101b.jpg",
         "webtoon": []
@@ -539,7 +539,7 @@
     {
       "title": "49화",
       "episodeNo": 49,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=803909&no=49&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=803909&no=49&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/803909/49/thumbnail_202x120_ad55ffa8-2d25-47ed-8f5e-60c36671b263.jpg",
         "webtoon": []
@@ -869,12 +869,12 @@
     {
       "title": "79화",
       "episodeNo": 79,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=803909&no=79&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/803909/79/thumbnail_202x120_f05835fd-60fc-4d50-a358-d3f5a25c217f.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -960,6 +960,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/803909/87/thumbnail_202x120_a8a62897-86ed-472c-9576-a82d6190f370.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "88화",
+      "episodeNo": 88,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/803909/88/thumbnail_202x120_6c08f036-23dd-4cf8-a0fb-e4f1855adcee.jpg",
         "webtoon": []
       },
       "locked": true,

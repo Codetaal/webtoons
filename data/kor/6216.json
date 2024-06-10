@@ -330,12 +330,12 @@
     {
       "title": "30화",
       "episodeNo": 30,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=818862&no=30&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/818862/30/thumbnail_202x120_8fb330f0-ca63-40e7-ae2f-c9e3d5c4b335.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -377,6 +377,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/818862/34/thumbnail_202x120_79529d68-bcda-41da-89d8-268b92747edb.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "35화",
+      "episodeNo": 35,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/818862/35/thumbnail_202x120_591d31e0-4605-48f1-a44f-0991b79cb1ec.jpg",
         "webtoon": []
       },
       "locked": true,

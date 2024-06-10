@@ -3,7 +3,7 @@
   "title": "아카데미의 천재칼잡이",
   "synopsis": "후회로 점철된 채 끝나버린 삶. 우연히 찾아온 두 번째 기회. 세상을 구하기 위한 로난의 모험이 시작된다.",
   "author": "네이버 웹툰",
-  "rating": "9.92",
+  "rating": "9.91",
   "artwork": {
     "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/813564/thumbnail/thumbnail_IMAG19_d1a5bd80-c09f-4f13-8909-df193f7d939b.jpg"
   },
@@ -187,7 +187,7 @@
     {
       "title": "17화",
       "episodeNo": 17,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=813564&no=17&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=813564&no=17&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/813564/17/thumbnail_202x120_07fa6c09-ba51-4043-9686-9211dbc2e4ea.jpg",
         "webtoon": []
@@ -517,12 +517,12 @@
     {
       "title": "47화",
       "episodeNo": 47,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=813564&no=47&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/813564/47/thumbnail_202x120_b18aa3b5-dc5a-4233-8ffd-325cb7fe8674.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -564,6 +564,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/813564/51/thumbnail_202x120_0007f077-fd36-461f-961a-2b6704a53506.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "52화",
+      "episodeNo": 52,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/813564/52/thumbnail_202x120_b22124b0-f082-437b-b340-0b208264c20b.jpg",
         "webtoon": []
       },
       "locked": true,

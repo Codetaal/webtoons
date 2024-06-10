@@ -220,7 +220,7 @@
     {
       "title": "19화 여기에 있는 이유(3)",
       "episodeNo": 20,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=807206&no=20&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=807206&no=20&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807206/20/thumbnail_202x120_bd9e7ef9-9f69-45bf-9e84-73a313841594.jpg",
         "webtoon": []
@@ -545,6 +545,72 @@
         "webtoon": []
       },
       "locked": false,
+      "completed": true
+    },
+    {
+      "title": "49화 잎새에 이는 바람",
+      "episodeNo": 50,
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=807206&no=50&week=sun&listSortOrder=DESC&listPage=1",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807206/50/thumbnail_202x120_eff59fcc-2c9e-43b7-b439-94b614f4eed0.jpg",
+        "webtoon": []
+      },
+      "locked": false,
+      "completed": true
+    },
+    {
+      "title": "50화 책임의 행방",
+      "episodeNo": 51,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807206/51/thumbnail_202x120_395673d9-6cfb-44e1-8a68-800b8bf9c869.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "51화 귀신과 사람(1)",
+      "episodeNo": 52,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807206/52/thumbnail_202x120_1e72037e-4322-42bf-9123-f18c734d2f27.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "52화 귀신과 사람(2)",
+      "episodeNo": 53,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807206/53/thumbnail_202x120_d922603b-79c8-4484-b9b5-b84ec3bf5500.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "53화 그늘 아래 핀 꽃(1)",
+      "episodeNo": 54,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807206/54/thumbnail_202x120_79fdcd8a-5700-4597-a83a-656908f96bda.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "54화 그늘 아래 핀 꽃(2)",
+      "episodeNo": 55,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/807206/55/thumbnail_202x120_67aea28e-a7ee-4645-98f5-ecdd3935d72f.jpg",
+        "webtoon": []
+      },
+      "locked": true,
       "completed": true
     }
   ]

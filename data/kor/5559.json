@@ -176,7 +176,7 @@
     {
       "title": "16화",
       "episodeNo": 16,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=804157&no=16&week=sun&listSortOrder=DESC&listPage=2",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=804157&no=16&week=sun&listSortOrder=DESC&listPage=3",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/804157/16/thumbnail_202x120_2eb02a42-e50b-433e-9897-9bdc2bac1f76.jpg",
         "webtoon": []
@@ -506,7 +506,7 @@
     {
       "title": "46화",
       "episodeNo": 46,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=804157&no=46&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=804157&no=46&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/804157/46/thumbnail_202x120_d1dd04d0-7911-47b2-8ccb-e7d6d1efd5dc.jpg",
         "webtoon": []
@@ -836,12 +836,12 @@
     {
       "title": "76화",
       "episodeNo": 76,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=804157&no=76&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/804157/76/thumbnail_202x120_a86d1b44-14de-45a3-9ac2-9fd07805dc12.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {

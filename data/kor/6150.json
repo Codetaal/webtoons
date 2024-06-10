@@ -3,7 +3,7 @@
   "title": "밤필드의 아이들 by DARK MOON",
   "synopsis": "밤필드 하우스 보육원에서 원장 마지의 보호를 받으며 살고 있던 일곱 소년들. 그들의 평온한 일상은 어느 날 우연히 발견한 비밀의 방 때문에 산산조각 나고 마는데…",
   "author": "네이버 웹툰",
-  "rating": "9.82",
+  "rating": "9.81",
   "artwork": {
     "mobileThumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/822774/thumbnail/thumbnail_IMAG19_de7bfe4e-510d-4d60-8078-1af728486e16.jpg"
   },
@@ -165,12 +165,12 @@
     {
       "title": "14.제1장. 거짓말쟁이의 낙원 (14)",
       "episodeNo": 15,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=822774&no=15&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/822774/15/thumbnail_202x120_defb9c1d-bd8a-4a0a-8e83-25876e813a41.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -190,6 +190,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/822774/17/thumbnail_202x120_07f8ad54-6e3a-4aea-ba26-f010eba889a0.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "17.제1장. 거짓말쟁이의 낙원 (17)",
+      "episodeNo": 18,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/822774/18/thumbnail_202x120_fdfae437-9075-4b10-8d24-b8d7bb7bd3f5.jpg",
         "webtoon": []
       },
       "locked": true,

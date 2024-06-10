@@ -242,7 +242,7 @@
     {
       "title": "22화 : 오랜만에 뵙습니다",
       "episodeNo": 22,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802682&no=22&week=sun&listSortOrder=DESC&listPage=2",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802682&no=22&week=sun&listSortOrder=DESC&listPage=3",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802682/22/thumbnail_202x120_258b1cd9-e71a-4160-8a12-58b5aeb363e0.jpg",
         "webtoon": []
@@ -572,7 +572,7 @@
     {
       "title": "52화 : 소중한 이를 위하여",
       "episodeNo": 52,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802682&no=52&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802682&no=52&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802682/52/thumbnail_202x120_c3e2151e-b4d5-4320-a79c-b19d93d9696d.jpg",
         "webtoon": []
@@ -902,12 +902,12 @@
     {
       "title": "82화 : 전하고 싶은 마음",
       "episodeNo": 82,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=802682&no=82&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802682/82/thumbnail_202x120_5822c556-3cfa-479a-8452-1a2df2f7ad91.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -949,6 +949,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802682/86/thumbnail_202x120_ad1b41aa-deca-4f1b-9829-1d21fbf825cb.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "87화 : 밝혀진 진실",
+      "episodeNo": 87,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/802682/87/thumbnail_202x120_0703cb81-4fb9-4fd3-87e1-1d231c7d286f.jpg",
         "webtoon": []
       },
       "locked": true,

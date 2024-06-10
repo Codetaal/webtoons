@@ -22,7 +22,7 @@
     {
       "title": "2화 망할 촛대에 불꽃을 #2",
       "episodeNo": 2,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=793539&no=2&week=sun&listSortOrder=DESC&listPage=3",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=793539&no=2&week=sun&listSortOrder=DESC&listPage=4",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/793539/2/thumbnail_202x120_085c168b-6d9b-4ffb-ba13-90156e212b78.jpg",
         "webtoon": []
@@ -352,7 +352,7 @@
     {
       "title": "32화 두 번째 마왕 #2",
       "episodeNo": 32,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=793539&no=32&week=sun&listSortOrder=DESC&listPage=2",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=793539&no=32&week=sun&listSortOrder=DESC&listPage=3",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/793539/32/thumbnail_202x120_445c7ce5-1e35-483d-92f2-900a8fc4bee0.jpg",
         "webtoon": []
@@ -682,7 +682,7 @@
     {
       "title": "62화 비나리",
       "episodeNo": 62,
-      "url": "https://m.comic.naver.com/webtoon/detail?titleId=793539&no=62&week=sun&listSortOrder=DESC&listPage=1",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=793539&no=62&week=sun&listSortOrder=DESC&listPage=2",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/793539/62/thumbnail_202x120_43da5881-8f6a-4cfb-9f6b-2e0674a59f43.jpg",
         "webtoon": []
@@ -1012,12 +1012,12 @@
     {
       "title": "91화 소원이 담긴 동전 #5",
       "episodeNo": 92,
-      "url": "",
+      "url": "https://m.comic.naver.com/webtoon/detail?titleId=793539&no=92&week=sun&listSortOrder=DESC&listPage=1",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/793539/92/thumbnail_202x120_dbfce5fe-3358-4e02-9825-3e37c558e0d9.jpg",
         "webtoon": []
       },
-      "locked": true,
+      "locked": false,
       "completed": true
     },
     {
@@ -1048,6 +1048,17 @@
       "url": "",
       "artwork": {
         "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/793539/95/thumbnail_202x120_c3d843c5-70df-4107-a9ac-f8493847aea4.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
+    },
+    {
+      "title": "95화 다프네가 잠든 정원 #4",
+      "episodeNo": 96,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/793539/96/thumbnail_202x120_080eec36-d98a-4ea9-9848-244f6e2a571c.jpg",
         "webtoon": []
       },
       "locked": true,

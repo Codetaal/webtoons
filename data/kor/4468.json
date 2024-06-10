@@ -1536,6 +1536,17 @@
       },
       "locked": true,
       "completed": true
+    },
+    {
+      "title": "140화",
+      "episodeNo": 140,
+      "url": "",
+      "artwork": {
+        "mobileThumbnail": "https://image-comic.pstatic.net/webtoon/784843/140/thumbnail_202x120_3977297738213974834.jpg",
+        "webtoon": []
+      },
+      "locked": true,
+      "completed": true
     }
   ]
 }
